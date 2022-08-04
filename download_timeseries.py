@@ -27,3 +27,6 @@ cases_src.rename(columns={'epi-date': 'date'}, inplace=True)
 
 cases_src.to_csv(f'data/processed/monkeypox_cases_timeseries_cdc_{today}.csv', index=False)
 cases_src.to_json(f'data/processed/monkeypox_cases_timeseries_cdc_{today}.json', orient='records', indent=4)
+
+cases_src.to_csv(f'data/processed/monkeypox_cases_timeseries_cdc_latest.csv', index=False)
+cases_src.to_json(f'data/processed/monkeypox_cases_timeseries_cdc_latest.json', orient='records', indent=4)

@@ -51,3 +51,6 @@ df.drop(['range'], axis=1, inplace=True)
 
 df.to_csv(f'data/processed/monkeypox_cases_states_cdc_{today}.csv', index=False)
 df.to_json(f'data/processed/monkeypox_cases_states_cdc_{today}.json', orient='records', indent=4)
+
+df.to_csv(f'data/processed/monkeypox_cases_states_cdc_latest.csv', index=False)
+df.to_json(f'data/processed/monkeypox_cases_states_cdc_latest.json', orient='records', indent=4)
