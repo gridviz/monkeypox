@@ -13,7 +13,7 @@ today = dt.datetime.today().strftime("%Y-%m-%d")
 ## State populations
 #### Figures from ACS 2020, 5-year estimates
 
-states_pop = pd.read_csv('data/processed/states_population.csv')
+states_pop = pd.read_csv('data/raw/states_population.csv')
 
 #### Map FIPS codes to each state
 
