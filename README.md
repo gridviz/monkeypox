@@ -1,5 +1,5 @@
-# Tracking U.S. Monkeypox cases
-This repo tracks Monkeypox virus case counts [released](https://www.cdc.gov/poxvirus/monkeypox/response/2022/index.html) by the U.S. Centers for Disease Control &amp; Prevention. 
+# Tracking U.S. monkeypox cases
+This repo tracks monkeypox virus case counts [released](https://www.cdc.gov/poxvirus/monkeypox/response/2022/index.html) by the U.S. Centers for Disease Control &amp; Prevention. 
 
 It contains two Python scripts that download and process [cases totals](https://github.com/gridviz/monkeypox/tree/main/data/processed) nationally and by state:
 
