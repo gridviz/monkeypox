@@ -21,6 +21,8 @@ with urllib.request.urlopen(cases_url) as url:
 
 cases_src.columns = cases_src.columns.str.lower()
 
+cases_src['cumulative_sum'] = cases_src['cases'].astype(int).cumsum()
+
 cases_src.rename(columns={'epi-date': 'date'}, inplace=True)
 
 ## Exports
