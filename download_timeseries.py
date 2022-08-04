@@ -1,0 +1,29 @@
+#!/usr/bin/env python
+# coding: utf-8
+
+# # CDC: Monkeypox daily case totals
+
+import pandas as pd
+import us
+import urllib.request, json
+import datetime as dt
+
+today = dt.datetime.today().strftime("%Y-%m-%d")
+
+## CDC Monkeypox
+#### Aggregated by state
+
+cases_url = 'https://www.cdc.gov/poxvirus/monkeypox/modules/data-viz/mpx-trend.json'
+
+with urllib.request.urlopen(cases_url) as url:
+    data = json.loads(url.read().decode())
+    cases_src = pd.DataFrame(data['data'])
+
+cases_src.columns = cases_src.columns.str.lower()
+
+cases_src.rename(columns={'epi-date': 'date'}, inplace=True)
+
+## Exports
+
+cases_src.to_csv(f'data/processed/monkeypox_cases_timeseries_cdc_{today}.csv', index=False)
+cases_src.to_json(f'data/processed/monkeypox_cases_timeseries_cdc_{today}.json', orient='records', indent=4)
