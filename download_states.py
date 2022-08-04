@@ -9,6 +9,7 @@ import urllib.request, json
 import datetime as dt
 
 today = dt.datetime.today().strftime("%Y-%m-%d")
+time = dt.datetime.today().strftime("%-I:%M %p")
 
 ## State populations
 #### Figures from ACS 2020, 5-year estimates
@@ -43,6 +44,8 @@ states_src['state_ap'] = states_src['state'].map(us.states.mapping('name', 'ap_a
 df = pd.merge(states_src, states_pop, on=['state_fips', 'state'])
 
 df['cases_per_million'] = ((df['cases'] / df['pop_acs_2020_5tr'])*1000000).astype(float).round(2)
+df['updated_date'] = today
+df['updated_time'] = time
 
 df.drop(['range'], axis=1, inplace=True)
 
