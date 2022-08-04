@@ -1,0 +1,8 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: linux-64
+lxml==4.7.1
+pandas==1.3.4
+requests==2.26.0
+html5lib==1.1
+us==2.0.2
