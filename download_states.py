@@ -34,7 +34,7 @@ states_src.columns = states_src.columns.str.lower().str.replace(' ', '_', regex=
 #### Map FIPS codes and AP abbrevations to each state
 
 states_src['state_fips'] = states_src['state'].map(us.states.mapping('name', 'fips'))
-states_src['state_ap'] = states_src['state'].map(us.states.mapping('name', 'ap_abbr'))
+states_src['state_ap'] = states_src['state'].map(us.states.mapping('name', 'abbr'))
 
 
 
