@@ -29,7 +29,7 @@ with urllib.request.urlopen(states_url) as url:
     data = json.loads(url.read().decode())
     states_src = pd.DataFrame(data['data'])
 
-states_src.columns = states_src.columns.str.lower()
+states_src.columns = states_src.columns.str.lower().str.replace(' ', '_', regex=False)
 
 #### Map FIPS codes and AP abbrevations to each state
 
@@ -49,7 +49,7 @@ df['cases_per_million'] = ((df['cases'] / df['pop_acs_2020_5tr'])*1000000).astyp
 df['updated_date'] = today
 df['updated_time'] = time
 
-df.drop(['range'], axis=1, inplace=True)
+df.drop(['case_range'], axis=1, inplace=True)
 
 
 ## Exports
