@@ -49,6 +49,8 @@ df['cases_per_million'] = ((df['cases'] / df['pop_acs_2020_5tr'])*1000000).astyp
 df['updated_date'] = today
 df['updated_time'] = time
 
+df['national_total'] = df['cases'].sum()
+
 df.drop(['case_range'], axis=1, inplace=True)
 
 
