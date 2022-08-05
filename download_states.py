@@ -8,8 +8,8 @@ import us
 import urllib.request, json
 import datetime as dt
 
-today = dt.datetime.today().strftime("%Y-%m-%d")
-time = dt.datetime.today().strftime("%-I:%M %p")
+today = pd.Timestamp.now(tz='America/Los_Angeles').strftime("%Y-%m-%d")
+time = pd.Timestamp.now(tz='America/Los_Angeles').strftime("%-I:%M %p")
 
 ## State populations
 #### Figures from ACS 2020, 5-year estimates

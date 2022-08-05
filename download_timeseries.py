@@ -8,7 +8,8 @@ import us
 import urllib.request, json
 import datetime as dt
 
-today = dt.datetime.today().strftime("%Y-%m-%d")
+today = pd.Timestamp.now(tz='America/Los_Angeles').strftime("%Y-%m-%d")
+time = pd.Timestamp.now(tz='America/Los_Angeles').strftime("%-I:%M %p")
 
 ## CDC Monkeypox
 #### Aggregated by state
