@@ -23,7 +23,7 @@ states_pop['state_fips'] = states_pop['state'].map(us.states.mapping('name', 'fi
 ## CDC Monkeypox
 #### Aggregated by state
 
-states_url = 'https://www.cdc.gov/poxvirus/monkeypox/response/modules/MX-response-case-count-US.json'
+states_url = 'https://www.cdc.gov/poxvirus/monkeypox/modules/data-viz/mpx-maps.json'
 
 with urllib.request.urlopen(states_url) as url:
     data = json.loads(url.read().decode())
