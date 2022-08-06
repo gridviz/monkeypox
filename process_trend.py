@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 # coding: utf-8
-
 # CDC: Monkeypox derived timeseries
 
 import pandas as pd
@@ -13,13 +12,12 @@ time = pd.Timestamp.now(tz='America/Los_Angeles').strftime("%-I:%M %p")
 
 ## Get historical case timeseries
 #### May 17-Aug. 3
-
-historical_src = pd.read_csv('data/processed/monkeypox_cases_timeseries_cdc_historical_2022-08-03.csv', parse_dates=['date']).sort_values('date', ascending=False).reset_index(drop=True)
+historical_src = pd.read_csv('data/processed/monkeypox_cases_timeseries_cdc_historical.csv', parse_dates=['date']).sort_values('date', ascending=False).reset_index(drop=True)
 historical_src['date'] = historical_src['date'].astype(str)
+historical_src = historical_src[historical_src['date'] < today].reset_index(drop=True)
 
 ## CDC Monkeypox
 #### Latest totals, aggregated by state
-
 states_url = 'https://www.cdc.gov/poxvirus/monkeypox/modules/data-viz/mpx-maps.json'
 
 with urllib.request.urlopen(states_url) as url:
@@ -31,7 +29,6 @@ states_src.drop(['case_range'], axis=1, inplace=True)
 states_src['cases'] = states_src['cases'].astype(int)
 
 #### Aggregate totals among all states to add to timeseries
-
 latest_total = states_src['cases'].sum()
 historical_total = historical_src[historical_src['date'] == historical_src['date'].max()]['cumulative_sum'][0]
 change = latest_total - historical_total
@@ -40,5 +37,6 @@ updated_data_df = pd.DataFrame(updated_data, index=[0])
 df = pd.concat([updated_data_df, historical_src]).copy()
 
 ## Exports
+df.to_csv(f'data/processed/monkeypox_cases_timeseries_cdc_historical.csv', index=False)
 df.to_csv(f'data/processed/monkeypox_cases_derived_timeseries_latest.csv', index=False)
 df.to_json(f'data/processed/monkeypox_cases_derived_timeseries_latest.json', orient='records', indent=4)
