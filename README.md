@@ -11,4 +11,8 @@ It contains Python scripts that download and process [cases totals](https://gith
 
 The scripts run twice daily (at 6 a.m. and 6 p.m. Pacific time) via Github Actions. 
 
+Latest trend: 
+
+![alt text](https://github.com/gridviz/monkeypox/raw/main/visuals/trendline.png)
+
 Questions? Comments? [Let us know](mailto:mstiles@grid.news). 
