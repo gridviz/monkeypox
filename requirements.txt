@@ -9,4 +9,4 @@ us==2.0.2
 altair_saver
 altair_grid
 altair
-selenium
+selenium==4.2.0
