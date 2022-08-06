@@ -16,7 +16,7 @@ The following tables exist:
 
 The scripts run twice daily (at 6 a.m. and 6 p.m. Pacific time) via Github Actions. 
 
-Latest trend: 
+Latest U.S. trend: 
 
 ![alt text](https://github.com/gridviz/monkeypox/raw/main/visuals/trendline_latest.png)
 
