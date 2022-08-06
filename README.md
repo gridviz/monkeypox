@@ -4,7 +4,7 @@ This repo tracks monkeypox virus case counts [released](https://www.cdc.gov/poxv
 
 It contains Python scripts that download and process [cases counts](https://github.com/gridviz/monkeypox/tree/main/data/processed) in the U.S. and countries around the world. For the U.S., Grid has created a running timeseries of case counts using historical data and daily state totals. 
 
-Crude case rates in the U.S. tables were caluclated with 2020 population figures from the U.S. Census Bureau. For other countries, Grid has merged population data from the World Bank to create rates. 
+Crude case rates in the U.S. tables were caluclated with 2020 population figures from the U.S. Census Bureau. For other countries, Grid has merged population data from the World Bank to create rates. (A country-by-country timeseries can be [downloaded](https://raw.githubusercontent.com/owid/notebooks/main/EdouardMathieu/monkeypox/owid-monkeypox-data.csv) from Our World in Data). 
 
 ### The following tables exist: 
 
