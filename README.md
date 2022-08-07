@@ -1,6 +1,6 @@
 # Tracking monkeypox cases in the U.S. and other countries
 
-![alt text](https://github.com/gridviz/monkeypox/raw/main/visuals/trendline_latest.png)
+![alt text](https://github.com/gridviz/monkeypox/raw/main/visuals/trendline.png)
 
 This repo tracks monkeypox virus case counts [released](https://www.cdc.gov/poxvirus/monkeypox/response/2022/index.html) by the U.S. Centers for Disease Control and Prevention. 
 
