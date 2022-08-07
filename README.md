@@ -1,5 +1,7 @@
 # Tracking monkeypox cases in the U.S. and other countries
 
+![alt text](https://github.com/gridviz/monkeypox/raw/main/visuals/trendline.png)
+
 This repo tracks monkeypox virus case counts [released](https://www.cdc.gov/poxvirus/monkeypox/response/2022/index.html) by the U.S. Centers for Disease Control and Prevention. 
 
 It contains Python scripts that download and process [cases counts](https://github.com/gridviz/monkeypox/tree/main/data/processed) in the U.S. and countries around the world. For the U.S., Grid has created a running timeseries of case counts using historical data and daily state totals. 
@@ -16,9 +18,5 @@ Crude case rates in the U.S. tables were caluclated with 2020 population figures
 | **Totals for 80+ countries**  | [`csv`](https://raw.githubusercontent.com/gridviz/monkeypox/main/data/processed/monkeypox_cases_countries_cdc_latest.csv), [`json`](https://raw.githubusercontent.com/gridviz/monkeypox/main/data/processed/monkeypox_cases_countries_cdc_latest.json) | Occasionally | [CDC](https://www.cdc.gov/poxvirus/monkeypox/response/2022/world-map.html) |
 
 The scripts run twice daily (at 6 a.m. and 6 p.m. Pacific time) via Github Actions. 
-
-### Latest U.S. trend: 
-
-![alt text](https://github.com/gridviz/monkeypox/raw/main/visuals/trendline_latest.png)
 
 Questions? Comments? [Let us know](mailto:mstiles@grid.news). 
