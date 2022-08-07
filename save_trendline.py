@@ -48,7 +48,7 @@ text = (
 
 circle = (
     alt.Chart(src.query("(date == date.max())"))
-    .mark_circle()
+    .mark_circle(color="#00d4d8", size=50)
     .encode(
         x=alt.X("date:T"),
         y=alt.Y("cumulative_sum:Q"),
