@@ -58,4 +58,5 @@ circle = (
 chart = (line + text + circle).configure_legend(symbolType="stroke", orient="top")
 
 chart.save("visuals/trendline_latest.png")
+chart.save("visuals/trendline.png")
 chart.save(f"visuals/trendline_{today}.png")
