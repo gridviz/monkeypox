@@ -34,8 +34,28 @@ line = (
         y=alt.Y("cumulative_sum:Q", title=" ", axis=alt.Axis(tickCount=5)),
     )
     .properties(title="Cumulative monkeypox cases in the U.S.", width=650, height=300)
-    .configure_legend(symbolType="stroke", orient="top")
 )
 
-line.save("visuals/trendline_latest.png")
-line.save(f"visuals/trendline_{today}.png")
+text = (
+    alt.Chart(src.query("(cumulative_sum == cumulative_sum.max()) & (cases > 0)"))
+    .mark_text(dy=-10, dx=10)
+    .encode(
+        x=alt.X("date:T"),
+        y=alt.Y("cumulative_sum:Q"),
+        text=alt.Text("cumulative_sum:Q"),
+    )
+)
+
+circle = (
+    alt.Chart(src.query("(date == date.max())"))
+    .mark_circle()
+    .encode(
+        x=alt.X("date:T"),
+        y=alt.Y("cumulative_sum:Q"),
+    )
+)
+
+chart = (line + text + circle).configure_legend(symbolType="stroke", orient="top")
+
+chart.save("visuals/trendline_latest.png")
+chart.save(f"visuals/trendline_{today}.png")
