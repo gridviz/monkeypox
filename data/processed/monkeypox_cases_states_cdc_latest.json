@@ -1,15 +1,15 @@
 [
     {
         "state":"Alabama",
-        "cases":19,
+        "cases":21,
         "state_fips":"01",
         "state_ap":"Ala.",
         "state_postal":"AL",
         "pop_acs_2020_5tr":4893186,
-        "cases_per_million":3.88,
+        "cases_per_million":4.29,
         "updated_date":"2022-08-08",
-        "updated_time":"6:34 AM",
-        "national_total":7507
+        "updated_time":"8:09 PM",
+        "national_total":8931
     },
     {
         "state":"Alaska",
@@ -20,20 +20,20 @@
         "pop_acs_2020_5tr":736990,
         "cases_per_million":2.71,
         "updated_date":"2022-08-08",
-        "updated_time":"6:34 AM",
-        "national_total":7507
+        "updated_time":"8:09 PM",
+        "national_total":8931
     },
     {
         "state":"Arizona",
-        "cases":102,
+        "cases":131,
         "state_fips":"04",
         "state_ap":"Ariz.",
         "state_postal":"AZ",
         "pop_acs_2020_5tr":7174064,
-        "cases_per_million":14.22,
+        "cases_per_million":18.26,
         "updated_date":"2022-08-08",
-        "updated_time":"6:34 AM",
-        "national_total":7507
+        "updated_time":"8:09 PM",
+        "national_total":8931
     },
     {
         "state":"Arkansas",
@@ -44,20 +44,20 @@
         "pop_acs_2020_5tr":3011873,
         "cases_per_million":2.99,
         "updated_date":"2022-08-08",
-        "updated_time":"6:34 AM",
-        "national_total":7507
+        "updated_time":"8:09 PM",
+        "national_total":8931
     },
     {
         "state":"California",
-        "cases":826,
+        "cases":1310,
         "state_fips":"06",
         "state_ap":"Calif.",
         "state_postal":"CA",
         "pop_acs_2020_5tr":39346023,
-        "cases_per_million":20.99,
+        "cases_per_million":33.29,
         "updated_date":"2022-08-08",
-        "updated_time":"6:34 AM",
-        "national_total":7507
+        "updated_time":"8:09 PM",
+        "national_total":8931
     },
     {
         "state":"Colorado",
@@ -68,20 +68,20 @@
         "pop_acs_2020_5tr":5684926,
         "cases_per_million":13.72,
         "updated_date":"2022-08-08",
-        "updated_time":"6:34 AM",
-        "national_total":7507
+        "updated_time":"8:09 PM",
+        "national_total":8931
     },
     {
         "state":"Connecticut",
-        "cases":43,
+        "cases":48,
         "state_fips":"09",
         "state_ap":"Conn.",
         "state_postal":"CT",
         "pop_acs_2020_5tr":3570549,
-        "cases_per_million":12.04,
+        "cases_per_million":13.44,
         "updated_date":"2022-08-08",
-        "updated_time":"6:34 AM",
-        "national_total":7507
+        "updated_time":"8:09 PM",
+        "national_total":8931
     },
     {
         "state":"Delaware",
@@ -92,44 +92,44 @@
         "pop_acs_2020_5tr":967679,
         "cases_per_million":6.2,
         "updated_date":"2022-08-08",
-        "updated_time":"6:34 AM",
-        "national_total":7507
+        "updated_time":"8:09 PM",
+        "national_total":8931
     },
     {
         "state":"District of Columbia",
-        "cases":283,
+        "cases":303,
         "state_fips":"11",
         "state_ap":"D.C.",
         "state_postal":"DC",
         "pop_acs_2020_5tr":701974,
-        "cases_per_million":403.15,
+        "cases_per_million":431.64,
         "updated_date":"2022-08-08",
-        "updated_time":"6:34 AM",
-        "national_total":7507
+        "updated_time":"8:09 PM",
+        "national_total":8931
     },
     {
         "state":"Florida",
-        "cases":633,
+        "cases":936,
         "state_fips":"12",
         "state_ap":"Fla.",
         "state_postal":"FL",
         "pop_acs_2020_5tr":21216924,
-        "cases_per_million":29.83,
+        "cases_per_million":44.12,
         "updated_date":"2022-08-08",
-        "updated_time":"6:34 AM",
-        "national_total":7507
+        "updated_time":"8:09 PM",
+        "national_total":8931
     },
     {
         "state":"Georgia",
-        "cases":596,
+        "cases":625,
         "state_fips":"13",
         "state_ap":"Ga.",
         "state_postal":"GA",
         "pop_acs_2020_5tr":10516579,
-        "cases_per_million":56.67,
+        "cases_per_million":59.43,
         "updated_date":"2022-08-08",
-        "updated_time":"6:34 AM",
-        "national_total":7507
+        "updated_time":"8:09 PM",
+        "national_total":8931
     },
     {
         "state":"Hawaii",
@@ -140,8 +140,8 @@
         "pop_acs_2020_5tr":1420074,
         "cases_per_million":7.75,
         "updated_date":"2022-08-08",
-        "updated_time":"6:34 AM",
-        "national_total":7507
+        "updated_time":"8:09 PM",
+        "national_total":8931
     },
     {
         "state":"Idaho",
@@ -152,80 +152,80 @@
         "pop_acs_2020_5tr":1754367,
         "cases_per_million":3.99,
         "updated_date":"2022-08-08",
-        "updated_time":"6:34 AM",
-        "national_total":7507
+        "updated_time":"8:09 PM",
+        "national_total":8931
     },
     {
         "state":"Illinois",
-        "cases":602,
+        "cases":672,
         "state_fips":"17",
         "state_ap":"Ill.",
         "state_postal":"IL",
         "pop_acs_2020_5tr":12716164,
-        "cases_per_million":47.34,
+        "cases_per_million":52.85,
         "updated_date":"2022-08-08",
-        "updated_time":"6:34 AM",
-        "national_total":7507
+        "updated_time":"8:09 PM",
+        "national_total":8931
     },
     {
         "state":"Indiana",
-        "cases":68,
+        "cases":77,
         "state_fips":"18",
         "state_ap":"Ind.",
         "state_postal":"IN",
         "pop_acs_2020_5tr":6696893,
-        "cases_per_million":10.15,
+        "cases_per_million":11.5,
         "updated_date":"2022-08-08",
-        "updated_time":"6:34 AM",
-        "national_total":7507
+        "updated_time":"8:09 PM",
+        "national_total":8931
     },
     {
         "state":"Iowa",
-        "cases":12,
+        "cases":13,
         "state_fips":"19",
         "state_ap":"Iowa",
         "state_postal":"IA",
         "pop_acs_2020_5tr":3150011,
-        "cases_per_million":3.81,
+        "cases_per_million":4.13,
         "updated_date":"2022-08-08",
-        "updated_time":"6:34 AM",
-        "national_total":7507
+        "updated_time":"8:09 PM",
+        "national_total":8931
     },
     {
         "state":"Kansas",
-        "cases":1,
+        "cases":2,
         "state_fips":"20",
         "state_ap":"Kan.",
         "state_postal":"KS",
         "pop_acs_2020_5tr":2912619,
-        "cases_per_million":0.34,
+        "cases_per_million":0.69,
         "updated_date":"2022-08-08",
-        "updated_time":"6:34 AM",
-        "national_total":7507
+        "updated_time":"8:09 PM",
+        "national_total":8931
     },
     {
         "state":"Kentucky",
-        "cases":9,
+        "cases":11,
         "state_fips":"21",
         "state_ap":"Ky.",
         "state_postal":"KY",
         "pop_acs_2020_5tr":4461952,
-        "cases_per_million":2.02,
+        "cases_per_million":2.47,
         "updated_date":"2022-08-08",
-        "updated_time":"6:34 AM",
-        "national_total":7507
+        "updated_time":"8:09 PM",
+        "national_total":8931
     },
     {
         "state":"Louisiana",
-        "cases":74,
+        "cases":83,
         "state_fips":"22",
         "state_ap":"La.",
         "state_postal":"LA",
         "pop_acs_2020_5tr":4664616,
-        "cases_per_million":15.86,
+        "cases_per_million":17.79,
         "updated_date":"2022-08-08",
-        "updated_time":"6:34 AM",
-        "national_total":7507
+        "updated_time":"8:09 PM",
+        "national_total":8931
     },
     {
         "state":"Maine",
@@ -236,32 +236,32 @@
         "pop_acs_2020_5tr":1340825,
         "cases_per_million":1.49,
         "updated_date":"2022-08-08",
-        "updated_time":"6:34 AM",
-        "national_total":7507
+        "updated_time":"8:09 PM",
+        "national_total":8931
     },
     {
         "state":"Maryland",
-        "cases":182,
+        "cases":215,
         "state_fips":"24",
         "state_ap":"Md.",
         "state_postal":"MD",
         "pop_acs_2020_5tr":6037624,
-        "cases_per_million":30.14,
+        "cases_per_million":35.61,
         "updated_date":"2022-08-08",
-        "updated_time":"6:34 AM",
-        "national_total":7507
+        "updated_time":"8:09 PM",
+        "national_total":8931
     },
     {
         "state":"Massachusetts",
-        "cases":157,
+        "cases":174,
         "state_fips":"25",
         "state_ap":"Mass.",
         "state_postal":"MA",
         "pop_acs_2020_5tr":6873003,
-        "cases_per_million":22.84,
+        "cases_per_million":25.32,
         "updated_date":"2022-08-08",
-        "updated_time":"6:34 AM",
-        "national_total":7507
+        "updated_time":"8:09 PM",
+        "national_total":8931
     },
     {
         "state":"Michigan",
@@ -272,80 +272,80 @@
         "pop_acs_2020_5tr":9973907,
         "cases_per_million":7.02,
         "updated_date":"2022-08-08",
-        "updated_time":"6:34 AM",
-        "national_total":7507
+        "updated_time":"8:09 PM",
+        "national_total":8931
     },
     {
         "state":"Minnesota",
-        "cases":46,
+        "cases":52,
         "state_fips":"27",
         "state_ap":"Minn.",
         "state_postal":"MN",
         "pop_acs_2020_5tr":5600166,
-        "cases_per_million":8.21,
+        "cases_per_million":9.29,
         "updated_date":"2022-08-08",
-        "updated_time":"6:34 AM",
-        "national_total":7507
+        "updated_time":"8:09 PM",
+        "national_total":8931
     },
     {
         "state":"Mississippi",
-        "cases":6,
+        "cases":7,
         "state_fips":"28",
         "state_ap":"Miss.",
         "state_postal":"MS",
         "pop_acs_2020_5tr":2981835,
-        "cases_per_million":2.01,
+        "cases_per_million":2.35,
         "updated_date":"2022-08-08",
-        "updated_time":"6:34 AM",
-        "national_total":7507
+        "updated_time":"8:09 PM",
+        "national_total":8931
     },
     {
         "state":"Missouri",
-        "cases":14,
+        "cases":15,
         "state_fips":"29",
         "state_ap":"Mo.",
         "state_postal":"MO",
         "pop_acs_2020_5tr":6124160,
-        "cases_per_million":2.29,
+        "cases_per_million":2.45,
         "updated_date":"2022-08-08",
-        "updated_time":"6:34 AM",
-        "national_total":7507
+        "updated_time":"8:09 PM",
+        "national_total":8931
     },
     {
         "state":"Montana",
-        "cases":0,
+        "cases":1,
         "state_fips":"30",
         "state_ap":"Mont.",
         "state_postal":"MT",
         "pop_acs_2020_5tr":1061705,
-        "cases_per_million":0.0,
+        "cases_per_million":0.94,
         "updated_date":"2022-08-08",
-        "updated_time":"6:34 AM",
-        "national_total":7507
+        "updated_time":"8:09 PM",
+        "national_total":8931
     },
     {
         "state":"Nebraska",
-        "cases":12,
+        "cases":14,
         "state_fips":"31",
         "state_ap":"Neb.",
         "state_postal":"NE",
         "pop_acs_2020_5tr":1923826,
-        "cases_per_million":6.24,
+        "cases_per_million":7.28,
         "updated_date":"2022-08-08",
-        "updated_time":"6:34 AM",
-        "national_total":7507
+        "updated_time":"8:09 PM",
+        "national_total":8931
     },
     {
         "state":"Nevada",
-        "cases":29,
+        "cases":39,
         "state_fips":"32",
         "state_ap":"Nev.",
         "state_postal":"NV",
         "pop_acs_2020_5tr":3030281,
-        "cases_per_million":9.57,
+        "cases_per_million":12.87,
         "updated_date":"2022-08-08",
-        "updated_time":"6:34 AM",
-        "national_total":7507
+        "updated_time":"8:09 PM",
+        "national_total":8931
     },
     {
         "state":"New Hampshire",
@@ -356,80 +356,80 @@
         "pop_acs_2020_5tr":1355244,
         "cases_per_million":11.07,
         "updated_date":"2022-08-08",
-        "updated_time":"6:34 AM",
-        "national_total":7507
+        "updated_time":"8:09 PM",
+        "national_total":8931
     },
     {
         "state":"New Jersey",
-        "cases":188,
+        "cases":243,
         "state_fips":"34",
         "state_ap":"N.J.",
         "state_postal":"NJ",
         "pop_acs_2020_5tr":8885418,
-        "cases_per_million":21.16,
+        "cases_per_million":27.35,
         "updated_date":"2022-08-08",
-        "updated_time":"6:34 AM",
-        "national_total":7507
+        "updated_time":"8:09 PM",
+        "national_total":8931
     },
     {
         "state":"New Mexico",
-        "cases":10,
+        "cases":13,
         "state_fips":"35",
         "state_ap":"N.M.",
         "state_postal":"NM",
         "pop_acs_2020_5tr":2097021,
-        "cases_per_million":4.77,
+        "cases_per_million":6.2,
         "updated_date":"2022-08-08",
-        "updated_time":"6:34 AM",
-        "national_total":7507
+        "updated_time":"8:09 PM",
+        "national_total":8931
     },
     {
         "state":"New York",
-        "cases":1862,
+        "cases":1960,
         "state_fips":"36",
         "state_ap":"N.Y.",
         "state_postal":"NY",
         "pop_acs_2020_5tr":19514849,
-        "cases_per_million":95.41,
+        "cases_per_million":100.44,
         "updated_date":"2022-08-08",
-        "updated_time":"6:34 AM",
-        "national_total":7507
+        "updated_time":"8:09 PM",
+        "national_total":8931
     },
     {
         "state":"North Carolina",
-        "cases":95,
+        "cases":111,
         "state_fips":"37",
         "state_ap":"N.C.",
         "state_postal":"NC",
         "pop_acs_2020_5tr":10386227,
-        "cases_per_million":9.15,
+        "cases_per_million":10.69,
         "updated_date":"2022-08-08",
-        "updated_time":"6:34 AM",
-        "national_total":7507
+        "updated_time":"8:09 PM",
+        "national_total":8931
     },
     {
         "state":"North Dakota",
-        "cases":1,
+        "cases":2,
         "state_fips":"38",
         "state_ap":"N.D.",
         "state_postal":"ND",
         "pop_acs_2020_5tr":760394,
-        "cases_per_million":1.32,
+        "cases_per_million":2.63,
         "updated_date":"2022-08-08",
-        "updated_time":"6:34 AM",
-        "national_total":7507
+        "updated_time":"8:09 PM",
+        "national_total":8931
     },
     {
         "state":"Ohio",
-        "cases":45,
+        "cases":68,
         "state_fips":"39",
         "state_ap":"Ohio",
         "state_postal":"OH",
         "pop_acs_2020_5tr":11675275,
-        "cases_per_million":3.85,
+        "cases_per_million":5.82,
         "updated_date":"2022-08-08",
-        "updated_time":"6:34 AM",
-        "national_total":7507
+        "updated_time":"8:09 PM",
+        "national_total":8931
     },
     {
         "state":"Oklahoma",
@@ -440,8 +440,8 @@
         "pop_acs_2020_5tr":3949342,
         "cases_per_million":2.79,
         "updated_date":"2022-08-08",
-        "updated_time":"6:34 AM",
-        "national_total":7507
+        "updated_time":"8:09 PM",
+        "national_total":8931
     },
     {
         "state":"Oregon",
@@ -452,56 +452,56 @@
         "pop_acs_2020_5tr":4176346,
         "cases_per_million":19.16,
         "updated_date":"2022-08-08",
-        "updated_time":"6:34 AM",
-        "national_total":7507
+        "updated_time":"8:09 PM",
+        "national_total":8931
     },
     {
         "state":"Pennsylvania",
-        "cases":205,
+        "cases":234,
         "state_fips":"42",
         "state_ap":"Pa.",
         "state_postal":"PA",
         "pop_acs_2020_5tr":12794885,
-        "cases_per_million":16.02,
+        "cases_per_million":18.29,
         "updated_date":"2022-08-08",
-        "updated_time":"6:34 AM",
-        "national_total":7507
+        "updated_time":"8:09 PM",
+        "national_total":8931
     },
     {
         "state":"Puerto Rico",
-        "cases":19,
+        "cases":32,
         "state_fips":"72",
         "state_ap":null,
         "state_postal":"PR",
         "pop_acs_2020_5tr":3255642,
-        "cases_per_million":5.84,
+        "cases_per_million":9.83,
         "updated_date":"2022-08-08",
-        "updated_time":"6:34 AM",
-        "national_total":7507
+        "updated_time":"8:09 PM",
+        "national_total":8931
     },
     {
         "state":"Rhode Island",
-        "cases":29,
+        "cases":31,
         "state_fips":"44",
         "state_ap":"R.I.",
         "state_postal":"RI",
         "pop_acs_2020_5tr":1057798,
-        "cases_per_million":27.42,
+        "cases_per_million":29.31,
         "updated_date":"2022-08-08",
-        "updated_time":"6:34 AM",
-        "national_total":7507
+        "updated_time":"8:09 PM",
+        "national_total":8931
     },
     {
         "state":"South Carolina",
-        "cases":30,
+        "cases":39,
         "state_fips":"45",
         "state_ap":"S.C.",
         "state_postal":"SC",
         "pop_acs_2020_5tr":5091517,
-        "cases_per_million":5.89,
+        "cases_per_million":7.66,
         "updated_date":"2022-08-08",
-        "updated_time":"6:34 AM",
-        "national_total":7507
+        "updated_time":"8:09 PM",
+        "national_total":8931
     },
     {
         "state":"South Dakota",
@@ -512,44 +512,44 @@
         "pop_acs_2020_5tr":879336,
         "cases_per_million":1.14,
         "updated_date":"2022-08-08",
-        "updated_time":"6:34 AM",
-        "national_total":7507
+        "updated_time":"8:09 PM",
+        "national_total":8931
     },
     {
         "state":"Tennessee",
-        "cases":42,
+        "cases":52,
         "state_fips":"47",
         "state_ap":"Tenn.",
         "state_postal":"TN",
         "pop_acs_2020_5tr":6772268,
-        "cases_per_million":6.2,
+        "cases_per_million":7.68,
         "updated_date":"2022-08-08",
-        "updated_time":"6:34 AM",
-        "national_total":7507
+        "updated_time":"8:09 PM",
+        "national_total":8931
     },
     {
         "state":"Texas",
-        "cases":606,
+        "cases":702,
         "state_fips":"48",
         "state_ap":"Texas",
         "state_postal":"TX",
         "pop_acs_2020_5tr":28635442,
-        "cases_per_million":21.16,
+        "cases_per_million":24.52,
         "updated_date":"2022-08-08",
-        "updated_time":"6:34 AM",
-        "national_total":7507
+        "updated_time":"8:09 PM",
+        "national_total":8931
     },
     {
         "state":"Utah",
-        "cases":46,
+        "cases":48,
         "state_fips":"49",
         "state_ap":"Utah",
         "state_postal":"UT",
         "pop_acs_2020_5tr":3151239,
-        "cases_per_million":14.6,
+        "cases_per_million":15.23,
         "updated_date":"2022-08-08",
-        "updated_time":"6:34 AM",
-        "national_total":7507
+        "updated_time":"8:09 PM",
+        "national_total":8931
     },
     {
         "state":"Vermont",
@@ -560,44 +560,44 @@
         "pop_acs_2020_5tr":624340,
         "cases_per_million":1.6,
         "updated_date":"2022-08-08",
-        "updated_time":"6:34 AM",
-        "national_total":7507
+        "updated_time":"8:09 PM",
+        "national_total":8931
     },
     {
         "state":"Virginia",
-        "cases":122,
+        "cases":145,
         "state_fips":"51",
         "state_ap":"Va.",
         "state_postal":"VA",
         "pop_acs_2020_5tr":8509358,
-        "cases_per_million":14.34,
+        "cases_per_million":17.04,
         "updated_date":"2022-08-08",
-        "updated_time":"6:34 AM",
-        "national_total":7507
+        "updated_time":"8:09 PM",
+        "national_total":8931
     },
     {
         "state":"Washington",
-        "cases":175,
+        "cases":183,
         "state_fips":"53",
         "state_ap":"Wash.",
         "state_postal":"WA",
         "pop_acs_2020_5tr":7512465,
-        "cases_per_million":23.29,
+        "cases_per_million":24.36,
         "updated_date":"2022-08-08",
-        "updated_time":"6:34 AM",
-        "national_total":7507
+        "updated_time":"8:09 PM",
+        "national_total":8931
     },
     {
         "state":"West Virginia",
-        "cases":3,
+        "cases":4,
         "state_fips":"54",
         "state_ap":"W.Va.",
         "state_postal":"WV",
         "pop_acs_2020_5tr":1807426,
-        "cases_per_million":1.66,
+        "cases_per_million":2.21,
         "updated_date":"2022-08-08",
-        "updated_time":"6:34 AM",
-        "national_total":7507
+        "updated_time":"8:09 PM",
+        "national_total":8931
     },
     {
         "state":"Wisconsin",
@@ -608,8 +608,8 @@
         "pop_acs_2020_5tr":5806975,
         "cases_per_million":3.79,
         "updated_date":"2022-08-08",
-        "updated_time":"6:34 AM",
-        "national_total":7507
+        "updated_time":"8:09 PM",
+        "national_total":8931
     },
     {
         "state":"Wyoming",
@@ -620,7 +620,7 @@
         "pop_acs_2020_5tr":581348,
         "cases_per_million":0.0,
         "updated_date":"2022-08-08",
-        "updated_time":"6:34 AM",
-        "national_total":7507
+        "updated_time":"8:09 PM",
+        "national_total":8931
     }
 ]
