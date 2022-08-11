@@ -21,7 +21,7 @@ time = pd.Timestamp.now(tz="America/Los_Angeles").strftime("%-I:%M %p")
 ## Cases timeseries
 
 src = pd.read_csv(
-    "https://raw.githubusercontent.com/gridviz/monkeypox/main/data/processed/monkeypox_cases_derived_timeseries_latest.csv"
+    "data/processed/monkeypox_cases_derived_timeseries_latest.csv"
 )
 
 src.head()
