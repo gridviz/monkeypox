@@ -23,7 +23,7 @@ states_pop['state_fips'] = states_pop['state'].map(us.states.mapping('name', 'fi
 ## CDC Monkeypox
 #### Aggregated by state
 
-states_url = 'https://www.cdc.gov/poxvirus/monkeypox/modules/data-viz/mpx-maps.json'
+states_url = 'https://www.cdc.gov/poxvirus/monkeypox/modules/data-viz/mpx_US_Total_databite.json'
 
 with urllib.request.urlopen(states_url) as url:
     data = json.loads(url.read().decode())
@@ -33,15 +33,16 @@ states_src.columns = states_src.columns.str.lower().str.replace(' ', '_', regex=
 
 #### Map FIPS codes and AP abbrevations to each state
 
-states_src['state_fips'] = states_src['state'].map(us.states.mapping('name', 'fips'))
-states_src['state_ap'] = states_src['state'].map(us.states.mapping('name', 'ap_abbr'))
-states_src['state_postal'] = states_src['state'].map(us.states.mapping('name', 'abbr'))
-
+states_src['state_fips'] = states_src['location'].map(us.states.mapping('name', 'fips'))
+states_src['state_ap'] = states_src['location'].map(us.states.mapping('name', 'ap_abbr'))
+states_src['state_postal'] = states_src['location'].map(us.states.mapping('name', 'abbr'))
 
 ## Merge
 #### Population and cases to create a rate
 
-df = pd.merge(states_src, states_pop, on=['state_fips', 'state'])
+src = pd.merge(states_src, states_pop, on=['state_fips'])
+
+df = src[(src['location'] != 'Total') | (src['location'] != 'Non-US Resident')].copy()
 
 df['cases'] = df['cases'].astype(int)
 
@@ -52,7 +53,6 @@ df['updated_time'] = time
 df['national_total'] = df['cases'].sum()
 
 df.drop(['case_range'], axis=1, inplace=True)
-
 
 ## Exports
 
