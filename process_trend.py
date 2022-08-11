@@ -18,7 +18,7 @@ historical_src = historical_src[historical_src['date'] < today].reset_index(drop
 
 ## CDC Monkeypox
 #### Latest totals, aggregated by state
-states_url = 'https://www.cdc.gov/poxvirus/monkeypox/modules/data-viz/mpx-maps.json'
+states_url = 'https://www.cdc.gov/poxvirus/monkeypox/modules/data-viz/mpx_US_Total_databite.json'
 
 with urllib.request.urlopen(states_url) as url:
     data = json.loads(url.read().decode())
