@@ -42,7 +42,7 @@ states_src['state_postal'] = states_src['location'].map(us.states.mapping('name'
 
 src = pd.merge(states_src, states_pop, on=['state_fips'])
 
-df = src[(src['location'] != 'Total') | (src['location'] != 'Non-US Resident')].copy()
+df = src[(src['location'] != 'Total') & (src['location'] != 'Non-US Resident')].copy()
 
 df['cases'] = df['cases'].astype(int)
 

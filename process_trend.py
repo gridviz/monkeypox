@@ -28,8 +28,10 @@ states_src.columns = states_src.columns.str.lower().str.replace(' ', '_', regex=
 states_src.drop(['case_range'], axis=1, inplace=True)
 states_src['cases'] = states_src['cases'].astype(int)
 
+states = states_src[(states_src['location'] != 'Total') & (states_src['location'] != 'Non-US Resident')].copy()
+
 #### Aggregate totals among all states to add to timeseries
-latest_total = states_src['cases'].sum()
+latest_total = states['cases'].sum()
 historical_total = historical_src[historical_src['date'] == historical_src['date'].max()]['cumulative_sum'][0]
 change = latest_total - historical_total
 updated_data = {'date': today, 'cases': change, 'cumulative_sum': latest_total}
