@@ -22,7 +22,7 @@ countries_pop = pd.read_csv('data/raw/countries_population.csv')
 ## CDC Monkeypox
 #### Aggregated by country
 
-countries_url = 'https://www.cdc.gov/wcms/vizdata/poxvirus/monkeypox/data/MPX-Cases-by-Country.csv'
+countries_url = 'https://www.cdc.gov/wcms/vizdata/poxvirus/monkeypox/data/MPX-Cases-Deaths-by-Country.csv'
 countries_src = pd.read_csv(countries_url)
 
 countries_src.columns = countries_src.columns.str.lower()

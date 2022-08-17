@@ -1,0 +1,902 @@
+[
+    {
+        "country":"United States",
+        "cases":12688,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"USA",
+        "population":331893745,
+        "cases_per_million":38.23
+    },
+    {
+        "country":"Spain",
+        "cases":5719,
+        "deaths":2,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"ESP",
+        "population":47326687,
+        "cases_per_million":120.84
+    },
+    {
+        "country":"Germany",
+        "cases":3186,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"DEU",
+        "population":83129285,
+        "cases_per_million":38.33
+    },
+    {
+        "country":"United Kingdom",
+        "cases":3081,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"GBR",
+        "population":67326569,
+        "cases_per_million":45.76
+    },
+    {
+        "country":"Brazil",
+        "cases":2893,
+        "deaths":1,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"BRA",
+        "population":213993441,
+        "cases_per_million":13.52
+    },
+    {
+        "country":"France",
+        "cases":2673,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"FRA",
+        "population":67499343,
+        "cases_per_million":39.6
+    },
+    {
+        "country":"Canada",
+        "cases":1076,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"CAN",
+        "population":38246108,
+        "cases_per_million":28.13
+    },
+    {
+        "country":"Netherlands",
+        "cases":1025,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"NLD",
+        "population":17533405,
+        "cases_per_million":58.46
+    },
+    {
+        "country":"Peru",
+        "cases":834,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"PER",
+        "population":33359416,
+        "cases_per_million":25.0
+    },
+    {
+        "country":"Portugal",
+        "cases":770,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"PRT",
+        "population":10299423,
+        "cases_per_million":74.76
+    },
+    {
+        "country":"Italy",
+        "cases":662,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"ITA",
+        "population":59066225,
+        "cases_per_million":11.21
+    },
+    {
+        "country":"Belgium",
+        "cases":546,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"BEL",
+        "population":11587882,
+        "cases_per_million":47.12
+    },
+    {
+        "country":"Switzerland",
+        "cases":399,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"CHE",
+        "population":8697723,
+        "cases_per_million":45.87
+    },
+    {
+        "country":"Austria",
+        "cases":210,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"AUT",
+        "population":8956279,
+        "cases_per_million":23.45
+    },
+    {
+        "country":"Israel",
+        "cases":189,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"ISR",
+        "population":9364000,
+        "cases_per_million":20.18
+    },
+    {
+        "country":"Democratic Republic of the Congo",
+        "cases":163,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has",
+        "code":"COD",
+        "population":92377986,
+        "cases_per_million":1.76
+    },
+    {
+        "country":"Nigeria",
+        "cases":157,
+        "deaths":4,
+        "updated_date":1660608000000,
+        "hist_had":"Has",
+        "code":"NGA",
+        "population":211400704,
+        "cases_per_million":0.74
+    },
+    {
+        "country":"Denmark",
+        "cases":154,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"DNK",
+        "population":5856733,
+        "cases_per_million":26.29
+    },
+    {
+        "country":"Mexico",
+        "cases":147,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"MEX",
+        "population":130262220,
+        "cases_per_million":1.13
+    },
+    {
+        "country":"Chile",
+        "cases":141,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"CHL",
+        "population":19212362,
+        "cases_per_million":7.34
+    },
+    {
+        "country":"Sweden",
+        "cases":130,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"SWE",
+        "population":10415811,
+        "cases_per_million":12.48
+    },
+    {
+        "country":"Colombia",
+        "cases":129,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"COL",
+        "population":51265841,
+        "cases_per_million":2.52
+    },
+    {
+        "country":"Ireland",
+        "cases":113,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"IRL",
+        "population":5028230,
+        "cases_per_million":22.47
+    },
+    {
+        "country":"Poland",
+        "cases":104,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"POL",
+        "population":37781024,
+        "cases_per_million":2.75
+    },
+    {
+        "country":"Norway",
+        "cases":72,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"NOR",
+        "population":5408320,
+        "cases_per_million":13.31
+    },
+    {
+        "country":"Australia",
+        "cases":70,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"AUS",
+        "population":25739256,
+        "cases_per_million":2.72
+    },
+    {
+        "country":"Hungary",
+        "cases":62,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"HUN",
+        "population":9709886,
+        "cases_per_million":6.39
+    },
+    {
+        "country":"Greece",
+        "cases":49,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"GRC",
+        "population":10664568,
+        "cases_per_million":4.59
+    },
+    {
+        "country":"Argentina",
+        "cases":49,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"ARG",
+        "population":45808747,
+        "cases_per_million":1.07
+    },
+    {
+        "country":"Ghana",
+        "cases":47,
+        "deaths":1,
+        "updated_date":1660608000000,
+        "hist_had":"Has",
+        "code":"GHA",
+        "population":31732128,
+        "cases_per_million":1.48
+    },
+    {
+        "country":"Slovenia",
+        "cases":43,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"SVN",
+        "population":2107007,
+        "cases_per_million":20.41
+    },
+    {
+        "country":"Luxembourg",
+        "cases":43,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"LUX",
+        "population":639070,
+        "cases_per_million":67.29
+    },
+    {
+        "country":"Czechia",
+        "cases":36,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"CZE",
+        "population":10703446,
+        "cases_per_million":3.36
+    },
+    {
+        "country":"Romania",
+        "cases":32,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"ROU",
+        "population":19115146,
+        "cases_per_million":1.67
+    },
+    {
+        "country":"Malta",
+        "cases":30,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"MLT",
+        "population":516869,
+        "cases_per_million":58.04
+    },
+    {
+        "country":"Serbia",
+        "cases":23,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"SRB",
+        "population":6844078,
+        "cases_per_million":3.36
+    },
+    {
+        "country":"Finland",
+        "cases":22,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"FIN",
+        "population":5541696,
+        "cases_per_million":3.97
+    },
+    {
+        "country":"Ecuador",
+        "cases":17,
+        "deaths":1,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"ECU",
+        "population":17888474,
+        "cases_per_million":0.95
+    },
+    {
+        "country":"Croatia",
+        "cases":17,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"HRV",
+        "population":3899000,
+        "cases_per_million":4.36
+    },
+    {
+        "country":"United Arab Emirates",
+        "cases":16,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"ARE",
+        "population":9991083,
+        "cases_per_million":1.6
+    },
+    {
+        "country":"Singapore",
+        "cases":15,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"SGP",
+        "population":5453566,
+        "cases_per_million":2.75
+    },
+    {
+        "country":"Bolivia",
+        "cases":15,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"BOL",
+        "population":11832936,
+        "cases_per_million":1.27
+    },
+    {
+        "country":"Iceland",
+        "cases":12,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"ISL",
+        "population":372295,
+        "cases_per_million":32.23
+    },
+    {
+        "country":"Slovakia",
+        "cases":10,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"SVK",
+        "population":5447247,
+        "cases_per_million":1.84
+    },
+    {
+        "country":"Estonia",
+        "cases":9,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"EST",
+        "population":1329254,
+        "cases_per_million":6.77
+    },
+    {
+        "country":"India",
+        "cases":9,
+        "deaths":1,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"IND",
+        "population":1393409033,
+        "cases_per_million":0.01
+    },
+    {
+        "country":"Central African Republic",
+        "cases":8,
+        "deaths":2,
+        "updated_date":1660608000000,
+        "hist_had":"Has",
+        "code":"CAF",
+        "population":4919987,
+        "cases_per_million":1.63
+    },
+    {
+        "country":"Cameroon",
+        "cases":7,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has",
+        "code":"CMR",
+        "population":27224262,
+        "cases_per_million":0.26
+    },
+    {
+        "country":"Lebanon",
+        "cases":6,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"LBN",
+        "population":6769151,
+        "cases_per_million":0.89
+    },
+    {
+        "country":"Gibraltar",
+        "cases":6,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"GIB",
+        "population":33691,
+        "cases_per_million":178.09
+    },
+    {
+        "country":"Saudi Arabia",
+        "cases":5,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"SAU",
+        "population":35340680,
+        "cases_per_million":0.14
+    },
+    {
+        "country":"Thailand",
+        "cases":5,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"THA",
+        "population":69950844,
+        "cases_per_million":0.07
+    },
+    {
+        "country":"Lithuania",
+        "cases":5,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"LTU",
+        "population":2795321,
+        "cases_per_million":1.79
+    },
+    {
+        "country":"Dominican Republic",
+        "cases":5,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"DOM",
+        "population":10953714,
+        "cases_per_million":0.46
+    },
+    {
+        "country":"Andorra",
+        "cases":4,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"AND",
+        "population":77354,
+        "cases_per_million":51.71
+    },
+    {
+        "country":"South Africa",
+        "cases":4,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"ZAF",
+        "population":60041996,
+        "cases_per_million":0.07
+    },
+    {
+        "country":"New Zealand",
+        "cases":4,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"NZL",
+        "population":5122600,
+        "cases_per_million":0.78
+    },
+    {
+        "country":"Japan",
+        "cases":4,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"JPN",
+        "population":125681593,
+        "cases_per_million":0.03
+    },
+    {
+        "country":"Latvia",
+        "cases":4,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"LVA",
+        "population":1883162,
+        "cases_per_million":2.12
+    },
+    {
+        "country":"Bulgaria",
+        "cases":4,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"BGR",
+        "population":6899125,
+        "cases_per_million":0.58
+    },
+    {
+        "country":"Jamaica",
+        "cases":4,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"JAM",
+        "population":2973462,
+        "cases_per_million":1.35
+    },
+    {
+        "country":"Guatemala",
+        "cases":3,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"GTM",
+        "population":17109746,
+        "cases_per_million":0.18
+    },
+    {
+        "country":"Bosnia and Herzegovina",
+        "cases":3,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"BIH",
+        "population":3263459,
+        "cases_per_million":0.92
+    },
+    {
+        "country":"Honduras",
+        "cases":3,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"HND",
+        "population":10062994,
+        "cases_per_million":0.3
+    },
+    {
+        "country":"Republic of the Congo",
+        "cases":3,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has",
+        "code":"COG",
+        "population":5657017,
+        "cases_per_million":0.53
+    },
+    {
+        "country":"Costa Rica",
+        "cases":3,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"CRI",
+        "population":5139053,
+        "cases_per_million":0.58
+    },
+    {
+        "country":"Qatar",
+        "cases":3,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"QAT",
+        "population":2930524,
+        "cases_per_million":1.02
+    },
+    {
+        "country":"Benin",
+        "cases":3,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"BEN",
+        "population":12451031,
+        "cases_per_million":0.24
+    },
+    {
+        "country":"Panama",
+        "cases":3,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"PAN",
+        "population":4381583,
+        "cases_per_million":0.68
+    },
+    {
+        "country":"Monaco",
+        "cases":3,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"MCO",
+        "population":39520,
+        "cases_per_million":75.91
+    },
+    {
+        "country":"Cyprus",
+        "cases":3,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"CYP",
+        "population":1215588,
+        "cases_per_million":2.47
+    },
+    {
+        "country":"Liberia",
+        "cases":2,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has",
+        "code":"LBR",
+        "population":5180208,
+        "cases_per_million":0.39
+    },
+    {
+        "country":"Uruguay",
+        "cases":2,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"URY",
+        "population":3485152,
+        "cases_per_million":0.57
+    },
+    {
+        "country":"Greenland",
+        "cases":2,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"GRL",
+        "population":56653,
+        "cases_per_million":35.3
+    },
+    {
+        "country":"Turkey",
+        "cases":1,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"TUR",
+        "population":85042736,
+        "cases_per_million":0.01
+    },
+    {
+        "country":"Bermuda",
+        "cases":1,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"BMU",
+        "population":63867,
+        "cases_per_million":15.66
+    },
+    {
+        "country":"Barbados",
+        "cases":1,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"BRB",
+        "population":287708,
+        "cases_per_million":3.48
+    },
+    {
+        "country":"Bahamas",
+        "cases":1,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"BHS",
+        "population":396914,
+        "cases_per_million":2.52
+    },
+    {
+        "country":"Sudan",
+        "cases":1,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"SDN",
+        "population":44909351,
+        "cases_per_million":0.02
+    },
+    {
+        "country":"Morocco",
+        "cases":1,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"MAR",
+        "population":37344787,
+        "cases_per_million":0.03
+    },
+    {
+        "country":"South Korea",
+        "cases":1,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"KOR",
+        "population":51744876,
+        "cases_per_million":0.02
+    },
+    {
+        "country":"Georgia",
+        "cases":1,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"GEO",
+        "population":3708610,
+        "cases_per_million":0.27
+    },
+    {
+        "country":"Montenegro",
+        "cases":1,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"MNE",
+        "population":620173,
+        "cases_per_million":1.61
+    },
+    {
+        "country":"Saint Martin",
+        "cases":1,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"MAF",
+        "population":39239,
+        "cases_per_million":25.48
+    },
+    {
+        "country":"Russia",
+        "cases":1,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"RUS",
+        "population":143446060,
+        "cases_per_million":0.01
+    },
+    {
+        "country":"Iran",
+        "cases":1,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"IRN",
+        "population":85028760,
+        "cases_per_million":0.01
+    },
+    {
+        "country":"Philippines",
+        "cases":1,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"PHL",
+        "population":111046910,
+        "cases_per_million":0.01
+    },
+    {
+        "country":"Moldova",
+        "cases":1,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"MDA",
+        "population":2573928,
+        "cases_per_million":0.39
+    },
+    {
+        "country":"New Caledonia",
+        "cases":1,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"NCL",
+        "population":272620,
+        "cases_per_million":3.67
+    },
+    {
+        "country":"Venezuela",
+        "cases":1,
+        "deaths":0,
+        "updated_date":1660608000000,
+        "hist_had":"Has not",
+        "code":"VEN",
+        "population":28704947,
+        "cases_per_million":0.03
+    }
+]
