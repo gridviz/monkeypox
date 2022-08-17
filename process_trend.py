@@ -18,11 +18,7 @@ historical_src = historical_src[historical_src['date'] < today].reset_index(drop
 
 ## CDC Monkeypox
 #### Latest totals, aggregated by state
-states_url = 'https://www.cdc.gov/poxvirus/monkeypox/modules/data-viz/mpx_US_Total_databite.json'
-
-with urllib.request.urlopen(states_url) as url:
-    data = json.loads(url.read().decode())
-    states_src = pd.DataFrame(data['data'])
+states_src = pd.read_csv('https://www.cdc.gov/wcms/vizdata/poxvirus/monkeypox/data/USmap_counts.csv')
 
 states_src.columns = states_src.columns.str.lower().str.replace(' ', '_', regex=False)
 states_src.drop(['case_range'], axis=1, inplace=True)
