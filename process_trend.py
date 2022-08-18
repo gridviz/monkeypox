@@ -54,7 +54,7 @@ historical_total = historical_src[historical_src['date'] == historical_src['date
 change = latest_total - historical_total
 updated_data = {'date': today, 'cases': change, 'cumulative_sum': latest_total}
 updated_data_df = pd.DataFrame(updated_data, index=[0])
-df = pd.concat([updated_data_df, historical_src]).copy()
+df = pd.concat([historical_src, updated_data_df]).drop_duplicates(subset="date").copy()
 
 ## Exports
 df.to_csv(f"data/processed/monkeypox_cases_timeseries_cdc_historical.csv", index=False)
