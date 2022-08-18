@@ -11,9 +11,32 @@ today = pd.Timestamp.now(tz='America/Los_Angeles').strftime("%Y-%m-%d")
 time = pd.Timestamp.now(tz='America/Los_Angeles').strftime("%-I:%M %p")
 
 ## Get historical case timeseries
-#### May 17-Aug. 3
-historical_src = pd.read_csv('data/processed/monkeypox_cases_timeseries_cdc_historical.csv', parse_dates=['date']).sort_values('date', ascending=False).reset_index(drop=True)
+#### CDC only updates this weekly
+
+cdc_timeseries = (
+    pd.read_csv(
+        "data/processed/monkeypox_cases_timeseries_cdc_latest.csv",
+        parse_dates=["date"],
+        names=["date", "cases", "asof", "cumulative_sum"],
+        header=0,
+    )
+    .drop(["asof"], axis=1)
+    .sort_values("date", ascending=False)
+)
+
+#### The latest we have
+
+historical_src = (
+    pd.read_csv(
+        "data/processed/monkeypox_cases_timeseries_cdc_historical.csv",
+        parse_dates=["date"],
+    )
+    .sort_values("date", ascending=False)
+    .reset_index(drop=True)
+)
+
 historical_src['date'] = historical_src['date'].astype(str)
+
 historical_src = historical_src[historical_src['date'] < today].reset_index(drop=True)
 
 ## CDC Monkeypox
@@ -23,7 +46,6 @@ states_src = pd.read_csv('https://www.cdc.gov/wcms/vizdata/poxvirus/monkeypox/da
 states_src.columns = states_src.columns.str.lower().str.replace(' ', '_', regex=False)
 states_src.drop(['case_range'], axis=1, inplace=True)
 states_src['cases'] = states_src['cases'].astype(int)
-
 states = states_src[(states_src['location'] != 'Total') & (states_src['location'] != 'Non-US Resident')].copy()
 
 #### Aggregate totals among all states to add to timeseries
@@ -35,6 +57,13 @@ updated_data_df = pd.DataFrame(updated_data, index=[0])
 df = pd.concat([updated_data_df, historical_src]).copy()
 
 ## Exports
-df.to_csv(f'data/processed/monkeypox_cases_timeseries_cdc_historical.csv', index=False)
-df.to_csv(f'data/processed/monkeypox_cases_derived_timeseries_latest.csv', index=False)
-df.to_json(f'data/processed/monkeypox_cases_derived_timeseries_latest.json', orient='records', indent=4)
+df.to_csv(f"data/processed/monkeypox_cases_timeseries_cdc_historical.csv", index=False)
+df.to_csv(
+    f"data/processed/monkeypox_cases_timeseries_cdc_historical_{today}.csv", index=False
+)
+df.to_csv(f"data/processed/monkeypox_cases_derived_timeseries_latest.csv", index=False)
+df.to_json(
+    f"data/processed/monkeypox_cases_derived_timeseries_latest.json",
+    orient="records",
+    indent=4,
+)

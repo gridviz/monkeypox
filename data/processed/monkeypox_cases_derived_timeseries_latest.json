@@ -1,456 +1,486 @@
 [
     {
-        "date":"2022-08-17",
-        "cases":3125,
+        "date":"2022-08-18",
+        "cases":0,
         "cumulative_sum":13514
     },
     {
+        "date":"2022-08-18",
+        "cases":457,
+        "cumulative_sum":13514
+    },
+    {
+        "date":"2022-08-17",
+        "cases":347,
+        "cumulative_sum":13057
+    },
+    {
         "date":"2022-08-16",
-        "cases":0,
-        "cumulative_sum":10389
+        "cases":361,
+        "cumulative_sum":12710
     },
     {
         "date":"2022-08-15",
-        "cases":0,
-        "cumulative_sum":10389
+        "cases":670,
+        "cumulative_sum":12349
     },
     {
         "date":"2022-08-14",
-        "cases":0,
-        "cumulative_sum":10389
+        "cases":10,
+        "cumulative_sum":11679
     },
     {
         "date":"2022-08-13",
-        "cases":0,
-        "cumulative_sum":10389
+        "cases":39,
+        "cumulative_sum":11669
     },
     {
         "date":"2022-08-12",
-        "cases":0,
-        "cumulative_sum":10389
+        "cases":280,
+        "cumulative_sum":11630
     },
     {
         "date":"2022-08-11",
-        "cases":900,
-        "cumulative_sum":10389
+        "cases":314,
+        "cumulative_sum":11350
+    },
+    {
+        "date":"2022-08-10",
+        "cases":366,
+        "cumulative_sum":11036
     },
     {
         "date":"2022-08-09",
-        "cases":558,
-        "cumulative_sum":9489
+        "cases":409,
+        "cumulative_sum":10670
     },
     {
         "date":"2022-08-08",
-        "cases":1424,
-        "cumulative_sum":8931
+        "cases":754,
+        "cumulative_sum":10261
     },
     {
         "date":"2022-08-07",
-        "cases":0,
-        "cumulative_sum":7507
+        "cases":78,
+        "cumulative_sum":9507
     },
     {
         "date":"2022-08-06",
-        "cases":408,
-        "cumulative_sum":7507
+        "cases":138,
+        "cumulative_sum":9429
     },
     {
         "date":"2022-08-05",
-        "cases":483,
-        "cumulative_sum":7099
+        "cases":424,
+        "cumulative_sum":9291
+    },
+    {
+        "date":"2022-08-04",
+        "cases":436,
+        "cumulative_sum":8867
     },
     {
         "date":"2022-08-03",
-        "cases":229,
-        "cumulative_sum":6616
+        "cases":426,
+        "cumulative_sum":8431
     },
     {
         "date":"2022-08-02",
-        "cases":516,
-        "cumulative_sum":6387
+        "cases":438,
+        "cumulative_sum":8005
     },
     {
         "date":"2022-08-01",
-        "cases":562,
-        "cumulative_sum":5871
+        "cases":473,
+        "cumulative_sum":7567
     },
     {
         "date":"2022-07-31",
-        "cases":14,
-        "cumulative_sum":5309
+        "cases":149,
+        "cumulative_sum":7094
     },
     {
         "date":"2022-07-30",
-        "cases":16,
-        "cumulative_sum":5295
+        "cases":160,
+        "cumulative_sum":6945
     },
     {
         "date":"2022-07-29",
-        "cases":435,
-        "cumulative_sum":5279
+        "cases":400,
+        "cumulative_sum":6785
     },
     {
         "date":"2022-07-28",
-        "cases":184,
-        "cumulative_sum":4844
+        "cases":299,
+        "cumulative_sum":6385
     },
     {
         "date":"2022-07-27",
-        "cases":476,
-        "cumulative_sum":4660
+        "cases":460,
+        "cumulative_sum":6086
     },
     {
         "date":"2022-07-26",
-        "cases":586,
-        "cumulative_sum":4184
+        "cases":378,
+        "cumulative_sum":5626
     },
     {
         "date":"2022-07-25",
-        "cases":812,
-        "cumulative_sum":3598
+        "cases":407,
+        "cumulative_sum":5248
     },
     {
         "date":"2022-07-24",
-        "cases":6,
-        "cumulative_sum":2786
+        "cases":110,
+        "cumulative_sum":4841
     },
     {
         "date":"2022-07-23",
-        "cases":13,
-        "cumulative_sum":2780
+        "cases":150,
+        "cumulative_sum":4731
     },
     {
         "date":"2022-07-22",
-        "cases":322,
-        "cumulative_sum":2767
+        "cases":319,
+        "cumulative_sum":4581
     },
     {
         "date":"2022-07-21",
-        "cases":183,
-        "cumulative_sum":2445
+        "cases":245,
+        "cumulative_sum":4262
     },
     {
         "date":"2022-07-20",
-        "cases":255,
-        "cumulative_sum":2262
+        "cases":281,
+        "cumulative_sum":4017
     },
     {
         "date":"2022-07-19",
-        "cases":292,
-        "cumulative_sum":2007
+        "cases":245,
+        "cumulative_sum":3736
     },
     {
         "date":"2022-07-18",
-        "cases":168,
-        "cumulative_sum":1715
+        "cases":379,
+        "cumulative_sum":3491
     },
     {
         "date":"2022-07-17",
-        "cases":1,
-        "cumulative_sum":1547
+        "cases":113,
+        "cumulative_sum":3112
     },
     {
         "date":"2022-07-16",
-        "cases":7,
-        "cumulative_sum":1546
+        "cases":133,
+        "cumulative_sum":2999
     },
     {
         "date":"2022-07-15",
-        "cases":152,
-        "cumulative_sum":1539
+        "cases":239,
+        "cumulative_sum":2866
     },
     {
         "date":"2022-07-14",
-        "cases":209,
-        "cumulative_sum":1387
+        "cases":231,
+        "cumulative_sum":2627
     },
     {
         "date":"2022-07-13",
-        "cases":141,
-        "cumulative_sum":1178
+        "cases":212,
+        "cumulative_sum":2396
     },
     {
         "date":"2022-07-12",
-        "cases":157,
-        "cumulative_sum":1037
+        "cases":169,
+        "cumulative_sum":2184
     },
     {
         "date":"2022-07-11",
-        "cases":95,
-        "cumulative_sum":880
+        "cases":233,
+        "cumulative_sum":2015
     },
     {
         "date":"2022-07-10",
-        "cases":7,
-        "cumulative_sum":785
+        "cases":85,
+        "cumulative_sum":1782
     },
     {
         "date":"2022-07-09",
-        "cases":41,
-        "cumulative_sum":778
+        "cases":116,
+        "cumulative_sum":1697
     },
     {
         "date":"2022-07-08",
-        "cases":36,
-        "cumulative_sum":737
+        "cases":170,
+        "cumulative_sum":1581
     },
     {
         "date":"2022-07-07",
-        "cases":53,
-        "cumulative_sum":701
+        "cases":130,
+        "cumulative_sum":1411
     },
     {
         "date":"2022-07-06",
-        "cases":46,
-        "cumulative_sum":648
+        "cases":132,
+        "cumulative_sum":1281
     },
     {
         "date":"2022-07-05",
-        "cases":36,
-        "cumulative_sum":602
+        "cases":121,
+        "cumulative_sum":1149
     },
     {
         "date":"2022-07-04",
-        "cases":24,
-        "cumulative_sum":566
+        "cases":81,
+        "cumulative_sum":1028
     },
     {
         "date":"2022-07-03",
-        "cases":8,
-        "cumulative_sum":542
+        "cases":58,
+        "cumulative_sum":947
     },
     {
         "date":"2022-07-02",
-        "cases":15,
-        "cumulative_sum":534
+        "cases":74,
+        "cumulative_sum":889
     },
     {
         "date":"2022-07-01",
-        "cases":54,
-        "cumulative_sum":519
+        "cases":115,
+        "cumulative_sum":815
     },
     {
         "date":"2022-06-30",
-        "cases":57,
-        "cumulative_sum":465
+        "cases":100,
+        "cumulative_sum":700
     },
     {
         "date":"2022-06-29",
-        "cases":42,
-        "cumulative_sum":408
+        "cases":69,
+        "cumulative_sum":600
     },
     {
         "date":"2022-06-28",
-        "cases":40,
-        "cumulative_sum":366
+        "cases":59,
+        "cumulative_sum":531
     },
     {
         "date":"2022-06-27",
-        "cases":60,
-        "cumulative_sum":326
+        "cases":91,
+        "cumulative_sum":472
     },
     {
         "date":"2022-06-26",
-        "cases":9,
-        "cumulative_sum":266
+        "cases":23,
+        "cumulative_sum":381
     },
     {
         "date":"2022-06-25",
-        "cases":12,
-        "cumulative_sum":257
+        "cases":25,
+        "cumulative_sum":358
     },
     {
         "date":"2022-06-24",
-        "cases":48,
-        "cumulative_sum":245
+        "cases":49,
+        "cumulative_sum":333
     },
     {
         "date":"2022-06-23",
-        "cases":20,
-        "cumulative_sum":197
+        "cases":25,
+        "cumulative_sum":284
     },
     {
         "date":"2022-06-22",
-        "cases":20,
-        "cumulative_sum":177
+        "cases":27,
+        "cumulative_sum":259
     },
     {
         "date":"2022-06-21",
-        "cases":14,
-        "cumulative_sum":157
+        "cases":22,
+        "cumulative_sum":232
     },
     {
         "date":"2022-06-20",
-        "cases":11,
-        "cumulative_sum":143
+        "cases":15,
+        "cumulative_sum":210
     },
     {
         "date":"2022-06-19",
-        "cases":4,
-        "cumulative_sum":132
+        "cases":5,
+        "cumulative_sum":195
     },
     {
         "date":"2022-06-18",
-        "cases":9,
-        "cumulative_sum":128
+        "cases":15,
+        "cumulative_sum":190
     },
     {
         "date":"2022-06-17",
-        "cases":8,
-        "cumulative_sum":119
+        "cases":13,
+        "cumulative_sum":175
     },
     {
         "date":"2022-06-16",
         "cases":17,
-        "cumulative_sum":111
+        "cumulative_sum":162
     },
     {
         "date":"2022-06-15",
-        "cases":10,
-        "cumulative_sum":94
+        "cases":15,
+        "cumulative_sum":145
     },
     {
         "date":"2022-06-14",
-        "cases":15,
-        "cumulative_sum":84
+        "cases":21,
+        "cumulative_sum":130
     },
     {
         "date":"2022-06-13",
-        "cases":3,
-        "cumulative_sum":69
+        "cases":8,
+        "cumulative_sum":109
     },
     {
         "date":"2022-06-12",
-        "cases":5,
-        "cumulative_sum":66
+        "cases":4,
+        "cumulative_sum":101
     },
     {
         "date":"2022-06-11",
-        "cases":2,
-        "cumulative_sum":61
+        "cases":5,
+        "cumulative_sum":97
     },
     {
         "date":"2022-06-10",
-        "cases":4,
-        "cumulative_sum":59
+        "cases":12,
+        "cumulative_sum":92
     },
     {
         "date":"2022-06-09",
         "cases":7,
-        "cumulative_sum":55
+        "cumulative_sum":80
     },
     {
         "date":"2022-06-08",
-        "cases":6,
-        "cumulative_sum":48
+        "cases":14,
+        "cumulative_sum":73
     },
     {
         "date":"2022-06-07",
-        "cases":4,
-        "cumulative_sum":42
+        "cases":9,
+        "cumulative_sum":59
     },
     {
         "date":"2022-06-06",
-        "cases":5,
-        "cumulative_sum":38
+        "cases":7,
+        "cumulative_sum":50
     },
     {
         "date":"2022-06-05",
-        "cases":0,
-        "cumulative_sum":33
+        "cases":1,
+        "cumulative_sum":43
     },
     {
         "date":"2022-06-04",
-        "cases":2,
-        "cumulative_sum":33
+        "cases":1,
+        "cumulative_sum":42
     },
     {
         "date":"2022-06-03",
         "cases":6,
-        "cumulative_sum":31
+        "cumulative_sum":41
     },
     {
         "date":"2022-06-02",
-        "cases":3,
-        "cumulative_sum":25
+        "cases":5,
+        "cumulative_sum":35
     },
     {
         "date":"2022-06-01",
+        "cases":2,
+        "cumulative_sum":30
+    },
+    {
+        "date":"2022-05-31",
+        "cases":6,
+        "cumulative_sum":28
+    },
+    {
+        "date":"2022-05-30",
         "cases":1,
         "cumulative_sum":22
     },
     {
-        "date":"2022-05-31",
-        "cases":3,
-        "cumulative_sum":21
-    },
-    {
-        "date":"2022-05-30",
-        "cases":0,
-        "cumulative_sum":18
-    },
-    {
         "date":"2022-05-29",
-        "cases":1,
-        "cumulative_sum":18
+        "cases":2,
+        "cumulative_sum":21
     },
     {
         "date":"2022-05-28",
         "cases":0,
-        "cumulative_sum":17
+        "cumulative_sum":19
     },
     {
         "date":"2022-05-27",
-        "cases":3,
-        "cumulative_sum":17
+        "cases":2,
+        "cumulative_sum":19
     },
     {
         "date":"2022-05-26",
         "cases":2,
-        "cumulative_sum":14
+        "cumulative_sum":17
     },
     {
         "date":"2022-05-25",
         "cases":2,
-        "cumulative_sum":12
+        "cumulative_sum":15
     },
     {
         "date":"2022-05-24",
         "cases":1,
-        "cumulative_sum":10
+        "cumulative_sum":13
     },
     {
         "date":"2022-05-23",
-        "cases":4,
-        "cumulative_sum":9
+        "cases":3,
+        "cumulative_sum":12
     },
     {
         "date":"2022-05-22",
-        "cases":1,
-        "cumulative_sum":5
+        "cases":2,
+        "cumulative_sum":9
     },
     {
         "date":"2022-05-21",
         "cases":2,
-        "cumulative_sum":4
+        "cumulative_sum":7
     },
     {
         "date":"2022-05-20",
-        "cases":1,
-        "cumulative_sum":2
+        "cases":2,
+        "cumulative_sum":5
     },
     {
         "date":"2022-05-19",
-        "cases":0,
-        "cumulative_sum":1
+        "cases":1,
+        "cumulative_sum":3
     },
     {
         "date":"2022-05-18",
         "cases":0,
-        "cumulative_sum":1
+        "cumulative_sum":2
     },
     {
         "date":"2022-05-17",
+        "cases":1,
+        "cumulative_sum":2
+    },
+    {
+        "date":"2022-05-16",
+        "cases":0,
+        "cumulative_sum":1
+    },
+    {
+        "date":"2022-05-15",
         "cases":1,
         "cumulative_sum":1
     }

@@ -14,11 +14,13 @@ time = pd.Timestamp.now(tz='America/Los_Angeles').strftime("%-I:%M %p")
 ## CDC Monkeypox
 #### Aggregated by state
 
-cases_url = 'https://www.cdc.gov/poxvirus/monkeypox/modules/data-viz/mpx-trend.json'
+cases_url = 'https://www.cdc.gov/wcms/vizdata/poxvirus/monkeypox/data/mpx_count_by_date.csv'
 
-with urllib.request.urlopen(cases_url) as url:
-    data = json.loads(url.read().decode())
-    cases_src = pd.DataFrame(data['data'])
+# with urllib.request.urlopen(cases_url) as url:
+#     data = json.loads(url.read().decode())
+#     cases_src = pd.DataFrame(data['data'])
+
+cases_src = pd.read_csv(cases_url)
 
 cases_src.columns = cases_src.columns.str.lower()
 
