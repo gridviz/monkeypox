@@ -1,5 +1,6 @@
 [
     {
+<<<<<<< HEAD
         "date":"2022-08-18",
         "cases":457,
         "cumulative_sum":13514
@@ -38,6 +39,41 @@
         "date":"2022-08-11",
         "cases":314,
         "cumulative_sum":11350
+=======
+        "date":"2022-08-17",
+        "cases":3125.0,
+        "cumulative_sum":13514.0
+    },
+    {
+        "date":"2022-08-16",
+        "cases":361.0,
+        "cumulative_sum":12710.0
+    },
+    {
+        "date":"2022-08-15",
+        "cases":0.0,
+        "cumulative_sum":10389.0
+    },
+    {
+        "date":"2022-08-14",
+        "cases":10.0,
+        "cumulative_sum":11679.0
+    },
+    {
+        "date":"2022-08-13",
+        "cases":39.0,
+        "cumulative_sum":11669.0
+    },
+    {
+        "date":"2022-08-12",
+        "cases":280.0,
+        "cumulative_sum":11630.0
+    },
+    {
+        "date":"2022-08-11",
+        "cases":900.0,
+        "cumulative_sum":10389.0
+>>>>>>> d4b5fa4a20a06de4ebe1d87b1b2f05364561bfb0
     },
     {
         "date":"2022-08-10",
@@ -46,6 +82,7 @@
     },
     {
         "date":"2022-08-09",
+<<<<<<< HEAD
         "cases":409,
         "cumulative_sum":10670
     },
@@ -68,6 +105,30 @@
         "date":"2022-08-05",
         "cases":424,
         "cumulative_sum":9291
+=======
+        "cases":409.0,
+        "cumulative_sum":10670.0
+    },
+    {
+        "date":"2022-08-08",
+        "cases":1424.0,
+        "cumulative_sum":8931.0
+    },
+    {
+        "date":"2022-08-07",
+        "cases":0.0,
+        "cumulative_sum":7507.0
+    },
+    {
+        "date":"2022-08-06",
+        "cases":408.0,
+        "cumulative_sum":7507.0
+    },
+    {
+        "date":"2022-08-05",
+        "cases":424.0,
+        "cumulative_sum":9291.0
+>>>>>>> d4b5fa4a20a06de4ebe1d87b1b2f05364561bfb0
     },
     {
         "date":"2022-08-04",
@@ -76,6 +137,7 @@
     },
     {
         "date":"2022-08-03",
+<<<<<<< HEAD
         "cases":426,
         "cumulative_sum":8431
     },
@@ -468,6 +530,400 @@
         "date":"2022-05-17",
         "cases":1,
         "cumulative_sum":2
+=======
+        "cases":426.0,
+        "cumulative_sum":8431.0
+    },
+    {
+        "date":"2022-08-02",
+        "cases":516.0,
+        "cumulative_sum":6387.0
+    },
+    {
+        "date":"2022-08-01",
+        "cases":562.0,
+        "cumulative_sum":5871.0
+    },
+    {
+        "date":"2022-07-31",
+        "cases":14.0,
+        "cumulative_sum":5309.0
+    },
+    {
+        "date":"2022-07-30",
+        "cases":160.0,
+        "cumulative_sum":6945.0
+    },
+    {
+        "date":"2022-07-29",
+        "cases":435.0,
+        "cumulative_sum":5279.0
+    },
+    {
+        "date":"2022-07-28",
+        "cases":299.0,
+        "cumulative_sum":6385.0
+    },
+    {
+        "date":"2022-07-27",
+        "cases":476.0,
+        "cumulative_sum":4660.0
+    },
+    {
+        "date":"2022-07-26",
+        "cases":378.0,
+        "cumulative_sum":5626.0
+    },
+    {
+        "date":"2022-07-25",
+        "cases":812.0,
+        "cumulative_sum":3598.0
+    },
+    {
+        "date":"2022-07-24",
+        "cases":6.0,
+        "cumulative_sum":2786.0
+    },
+    {
+        "date":"2022-07-23",
+        "cases":150.0,
+        "cumulative_sum":4731.0
+    },
+    {
+        "date":"2022-07-22",
+        "cases":319.0,
+        "cumulative_sum":4581.0
+    },
+    {
+        "date":"2022-07-21",
+        "cases":245.0,
+        "cumulative_sum":4262.0
+    },
+    {
+        "date":"2022-07-20",
+        "cases":281.0,
+        "cumulative_sum":4017.0
+    },
+    {
+        "date":"2022-07-19",
+        "cases":292.0,
+        "cumulative_sum":2007.0
+    },
+    {
+        "date":"2022-07-18",
+        "cases":168.0,
+        "cumulative_sum":1715.0
+    },
+    {
+        "date":"2022-07-17",
+        "cases":1.0,
+        "cumulative_sum":1547.0
+    },
+    {
+        "date":"2022-07-16",
+        "cases":133.0,
+        "cumulative_sum":2999.0
+    },
+    {
+        "date":"2022-07-15",
+        "cases":239.0,
+        "cumulative_sum":2866.0
+    },
+    {
+        "date":"2022-07-14",
+        "cases":231.0,
+        "cumulative_sum":2627.0
+    },
+    {
+        "date":"2022-07-13",
+        "cases":212.0,
+        "cumulative_sum":2396.0
+    },
+    {
+        "date":"2022-07-12",
+        "cases":157.0,
+        "cumulative_sum":1037.0
+    },
+    {
+        "date":"2022-07-11",
+        "cases":233.0,
+        "cumulative_sum":2015.0
+    },
+    {
+        "date":"2022-07-10",
+        "cases":85.0,
+        "cumulative_sum":1782.0
+    },
+    {
+        "date":"2022-07-09",
+        "cases":41.0,
+        "cumulative_sum":778.0
+    },
+    {
+        "date":"2022-07-08",
+        "cases":170.0,
+        "cumulative_sum":1581.0
+    },
+    {
+        "date":"2022-07-07",
+        "cases":53.0,
+        "cumulative_sum":701.0
+    },
+    {
+        "date":"2022-07-06",
+        "cases":132.0,
+        "cumulative_sum":1281.0
+    },
+    {
+        "date":"2022-07-05",
+        "cases":36.0,
+        "cumulative_sum":602.0
+    },
+    {
+        "date":"2022-07-04",
+        "cases":81.0,
+        "cumulative_sum":1028.0
+    },
+    {
+        "date":"2022-07-03",
+        "cases":58.0,
+        "cumulative_sum":947.0
+    },
+    {
+        "date":"2022-07-02",
+        "cases":74.0,
+        "cumulative_sum":889.0
+    },
+    {
+        "date":"2022-07-01",
+        "cases":54.0,
+        "cumulative_sum":519.0
+    },
+    {
+        "date":"2022-06-30",
+        "cases":57.0,
+        "cumulative_sum":465.0
+    },
+    {
+        "date":"2022-06-29",
+        "cases":69.0,
+        "cumulative_sum":600.0
+    },
+    {
+        "date":"2022-06-28",
+        "cases":59.0,
+        "cumulative_sum":531.0
+    },
+    {
+        "date":"2022-06-27",
+        "cases":60.0,
+        "cumulative_sum":326.0
+    },
+    {
+        "date":"2022-06-26",
+        "cases":23.0,
+        "cumulative_sum":381.0
+    },
+    {
+        "date":"2022-06-25",
+        "cases":25.0,
+        "cumulative_sum":358.0
+    },
+    {
+        "date":"2022-06-24",
+        "cases":48.0,
+        "cumulative_sum":245.0
+    },
+    {
+        "date":"2022-06-23",
+        "cases":20.0,
+        "cumulative_sum":197.0
+    },
+    {
+        "date":"2022-06-22",
+        "cases":20.0,
+        "cumulative_sum":177.0
+    },
+    {
+        "date":"2022-06-21",
+        "cases":22.0,
+        "cumulative_sum":232.0
+    },
+    {
+        "date":"2022-06-20",
+        "cases":15.0,
+        "cumulative_sum":210.0
+    },
+    {
+        "date":"2022-06-19",
+        "cases":4.0,
+        "cumulative_sum":132.0
+    },
+    {
+        "date":"2022-06-18",
+        "cases":15.0,
+        "cumulative_sum":190.0
+    },
+    {
+        "date":"2022-06-17",
+        "cases":8.0,
+        "cumulative_sum":119.0
+    },
+    {
+        "date":"2022-06-16",
+        "cases":17.0,
+        "cumulative_sum":162.0
+    },
+    {
+        "date":"2022-06-15",
+        "cases":15.0,
+        "cumulative_sum":145.0
+    },
+    {
+        "date":"2022-06-14",
+        "cases":15.0,
+        "cumulative_sum":84.0
+    },
+    {
+        "date":"2022-06-13",
+        "cases":8.0,
+        "cumulative_sum":109.0
+    },
+    {
+        "date":"2022-06-12",
+        "cases":5.0,
+        "cumulative_sum":66.0
+    },
+    {
+        "date":"2022-06-11",
+        "cases":2.0,
+        "cumulative_sum":61.0
+    },
+    {
+        "date":"2022-06-10",
+        "cases":4.0,
+        "cumulative_sum":59.0
+    },
+    {
+        "date":"2022-06-09",
+        "cases":7.0,
+        "cumulative_sum":80.0
+    },
+    {
+        "date":"2022-06-08",
+        "cases":14.0,
+        "cumulative_sum":73.0
+    },
+    {
+        "date":"2022-06-07",
+        "cases":9.0,
+        "cumulative_sum":59.0
+    },
+    {
+        "date":"2022-06-06",
+        "cases":5.0,
+        "cumulative_sum":38.0
+    },
+    {
+        "date":"2022-06-05",
+        "cases":1.0,
+        "cumulative_sum":43.0
+    },
+    {
+        "date":"2022-06-04",
+        "cases":1.0,
+        "cumulative_sum":42.0
+    },
+    {
+        "date":"2022-06-03",
+        "cases":6.0,
+        "cumulative_sum":31.0
+    },
+    {
+        "date":"2022-06-02",
+        "cases":3.0,
+        "cumulative_sum":25.0
+    },
+    {
+        "date":"2022-06-01",
+        "cases":2.0,
+        "cumulative_sum":30.0
+    },
+    {
+        "date":"2022-05-31",
+        "cases":6.0,
+        "cumulative_sum":28.0
+    },
+    {
+        "date":"2022-05-30",
+        "cases":0.0,
+        "cumulative_sum":18.0
+    },
+    {
+        "date":"2022-05-29",
+        "cases":1.0,
+        "cumulative_sum":18.0
+    },
+    {
+        "date":"2022-05-28",
+        "cases":0.0,
+        "cumulative_sum":17.0
+    },
+    {
+        "date":"2022-05-27",
+        "cases":3.0,
+        "cumulative_sum":17.0
+    },
+    {
+        "date":"2022-05-26",
+        "cases":2.0,
+        "cumulative_sum":14.0
+    },
+    {
+        "date":"2022-05-25",
+        "cases":2.0,
+        "cumulative_sum":15.0
+    },
+    {
+        "date":"2022-05-24",
+        "cases":1.0,
+        "cumulative_sum":10.0
+    },
+    {
+        "date":"2022-05-23",
+        "cases":4.0,
+        "cumulative_sum":9.0
+    },
+    {
+        "date":"2022-05-22",
+        "cases":1.0,
+        "cumulative_sum":5.0
+    },
+    {
+        "date":"2022-05-21",
+        "cases":2.0,
+        "cumulative_sum":4.0
+    },
+    {
+        "date":"2022-05-20",
+        "cases":1.0,
+        "cumulative_sum":2.0
+    },
+    {
+        "date":"2022-05-19",
+        "cases":0.0,
+        "cumulative_sum":1.0
+    },
+    {
+        "date":"2022-05-18",
+        "cases":0.0,
+        "cumulative_sum":1.0
+    },
+    {
+        "date":"2022-05-17",
+        "cases":1.0,
+        "cumulative_sum":1.0
+>>>>>>> d4b5fa4a20a06de4ebe1d87b1b2f05364561bfb0
     },
     {
         "date":"2022-05-16",
@@ -476,7 +932,17 @@
     },
     {
         "date":"2022-05-15",
+<<<<<<< HEAD
         "cases":1,
         "cumulative_sum":1
+=======
+        "cases":1.0,
+        "cumulative_sum":1.0
+    },
+    {
+        "date":"2022-08-18",
+        "cases":0.0,
+        "cumulative_sum":13514.0
+>>>>>>> d4b5fa4a20a06de4ebe1d87b1b2f05364561bfb0
     }
 ]
