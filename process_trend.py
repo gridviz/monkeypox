@@ -22,7 +22,9 @@ cdc_timeseries = (
     )
     .drop(["asof"], axis=1)
     .sort_values("date", ascending=False)
-)
+).reset_index(drop=True)
+
+cdc_timeseries["date"] = pd.to_datetime(cdc_timeseries["date"]).dt.strftime("%Y-%m-%d")
 
 #### The latest we have
 
@@ -35,7 +37,7 @@ historical_src = (
     .reset_index(drop=True)
 )
 
-historical_src['date'] = historical_src['date'].astype(str)
+historical_src["date"] = pd.to_datetime(historical_src["date"]).dt.strftime("%Y-%m-%d")
 
 historical_src = historical_src[historical_src['date'] < today].reset_index(drop=True)
 
@@ -50,11 +52,25 @@ states = states_src[(states_src['location'] != 'Total') & (states_src['location'
 
 #### Aggregate totals among all states to add to timeseries
 latest_total = states['cases'].sum()
-historical_total = historical_src[historical_src['date'] == historical_src['date'].max()]['cumulative_sum'][0]
+
+historical_total = historical_src[historical_src["date"] == historical_src["date"].max()]["cumulative_sum"][0]
+
 change = latest_total - historical_total
+
 updated_data = {'date': today, 'cases': change, 'cumulative_sum': latest_total}
+
 updated_data_df = pd.DataFrame(updated_data, index=[0])
-df = pd.concat([historical_src, updated_data_df]).drop_duplicates(subset="date").copy()
+
+updated_data_df["date"] = pd.to_datetime(updated_data_df["date"]).dt.strftime(
+    "%Y-%m-%d"
+)
+
+df = (
+    pd.concat([historical_src, updated_data_df])
+    .drop_duplicates(subset="date")
+    .sort_values("date", ascending=False)
+    .copy()
+)
 
 ## Exports
 df.to_csv(f"data/processed/monkeypox_cases_timeseries_cdc_historical.csv", index=False)
