@@ -1,4 +1,4 @@
-epi_date,cases,asof,cases_cumsum
+epi_date,cases,asof,cumulative_sum
 5/15/2022,1,Data as of 8/17/2022,1
 5/16/2022,0,Data as of 8/17/2022,1
 5/17/2022,1,Data as of 8/17/2022,2
