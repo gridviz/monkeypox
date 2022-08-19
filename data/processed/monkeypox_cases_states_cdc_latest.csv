@@ -1,53 +1,53 @@
 location,cases,asof,state_fips,state_ap,state_postal,state,pop_acs_2020_5tr,cases_per_million,updated_date,updated_time,national_total
-Alabama,34,Data as of 17 Aug 2022 2:00 PM EDT,01,Ala.,AL,Alabama,4893186,6.95,2022-08-18,7:09 AM,13514
-Alaska,2,Data as of 17 Aug 2022 2:00 PM EDT,02,Alaska,AK,Alaska,736990,2.71,2022-08-18,7:09 AM,13514
-Arizona,213,Data as of 17 Aug 2022 2:00 PM EDT,04,Ariz.,AZ,Arizona,7174064,29.69,2022-08-18,7:09 AM,13514
-Arkansas,21,Data as of 17 Aug 2022 2:00 PM EDT,05,Ark.,AR,Arkansas,3011873,6.97,2022-08-18,7:09 AM,13514
-California,2356,Data as of 17 Aug 2022 2:00 PM EDT,06,Calif.,CA,California,39346023,59.88,2022-08-18,7:09 AM,13514
-Colorado,155,Data as of 17 Aug 2022 2:00 PM EDT,08,Colo.,CO,Colorado,5684926,27.27,2022-08-18,7:09 AM,13514
-Connecticut,71,Data as of 17 Aug 2022 2:00 PM EDT,09,Conn.,CT,Connecticut,3570549,19.88,2022-08-18,7:09 AM,13514
-Delaware,10,Data as of 17 Aug 2022 2:00 PM EDT,10,Del.,DE,Delaware,967679,10.33,2022-08-18,7:09 AM,13514
-District of Columbia,351,Data as of 17 Aug 2022 2:00 PM EDT,11,D.C.,DC,District of Columbia,701974,500.02,2022-08-18,7:09 AM,13514
-Florida,1346,Data as of 17 Aug 2022 2:00 PM EDT,12,Fla.,FL,Florida,21216924,63.44,2022-08-18,7:09 AM,13514
-Georgia,1033,Data as of 17 Aug 2022 2:00 PM EDT,13,Ga.,GA,Georgia,10516579,98.23,2022-08-18,7:09 AM,13514
-Hawaii,13,Data as of 17 Aug 2022 2:00 PM EDT,15,Hawaii,HI,Hawaii,1420074,9.15,2022-08-18,7:09 AM,13514
-Idaho,9,Data as of 17 Aug 2022 2:00 PM EDT,16,Idaho,ID,Idaho,1754367,5.13,2022-08-18,7:09 AM,13514
-Illinois,875,Data as of 17 Aug 2022 2:00 PM EDT,17,Ill.,IL,Illinois,12716164,68.81,2022-08-18,7:09 AM,13514
-Indiana,101,Data as of 17 Aug 2022 2:00 PM EDT,18,Ind.,IN,Indiana,6696893,15.08,2022-08-18,7:09 AM,13514
-Iowa,15,Data as of 17 Aug 2022 2:00 PM EDT,19,Iowa,IA,Iowa,3150011,4.76,2022-08-18,7:09 AM,13514
-Kansas,3,Data as of 17 Aug 2022 2:00 PM EDT,20,Kan.,KS,Kansas,2912619,1.03,2022-08-18,7:09 AM,13514
-Kentucky,17,Data as of 17 Aug 2022 2:00 PM EDT,21,Ky.,KY,Kentucky,4461952,3.81,2022-08-18,7:09 AM,13514
-Louisiana,120,Data as of 17 Aug 2022 2:00 PM EDT,22,La.,LA,Louisiana,4664616,25.73,2022-08-18,7:09 AM,13514
-Maine,3,Data as of 17 Aug 2022 2:00 PM EDT,23,Maine,ME,Maine,1340825,2.24,2022-08-18,7:09 AM,13514
-Maryland,349,Data as of 17 Aug 2022 2:00 PM EDT,24,Md.,MD,Maryland,6037624,57.8,2022-08-18,7:09 AM,13514
-Massachusetts,228,Data as of 17 Aug 2022 2:00 PM EDT,25,Mass.,MA,Massachusetts,6873003,33.17,2022-08-18,7:09 AM,13514
-Michigan,99,Data as of 17 Aug 2022 2:00 PM EDT,26,Mich.,MI,Michigan,9973907,9.93,2022-08-18,7:09 AM,13514
-Minnesota,78,Data as of 17 Aug 2022 2:00 PM EDT,27,Minn.,MN,Minnesota,5600166,13.93,2022-08-18,7:09 AM,13514
-Mississippi,17,Data as of 17 Aug 2022 2:00 PM EDT,28,Miss.,MS,Mississippi,2981835,5.7,2022-08-18,7:09 AM,13514
-Missouri,25,Data as of 17 Aug 2022 2:00 PM EDT,29,Mo.,MO,Missouri,6124160,4.08,2022-08-18,7:09 AM,13514
-Montana,2,Data as of 17 Aug 2022 2:00 PM EDT,30,Mont.,MT,Montana,1061705,1.88,2022-08-18,7:09 AM,13514
-Nebraska,17,Data as of 17 Aug 2022 2:00 PM EDT,31,Neb.,NE,Nebraska,1923826,8.84,2022-08-18,7:09 AM,13514
-Nevada,109,Data as of 17 Aug 2022 2:00 PM EDT,32,Nev.,NV,Nevada,3030281,35.97,2022-08-18,7:09 AM,13514
-New Hampshire,15,Data as of 17 Aug 2022 2:00 PM EDT,33,N.H.,NH,New Hampshire,1355244,11.07,2022-08-18,7:09 AM,13514
-New Jersey,367,Data as of 17 Aug 2022 2:00 PM EDT,34,N.J.,NJ,New Jersey,8885418,41.3,2022-08-18,7:09 AM,13514
-New Mexico,16,Data as of 17 Aug 2022 2:00 PM EDT,35,N.M.,NM,New Mexico,2097021,7.63,2022-08-18,7:09 AM,13514
-New York,2675,Data as of 17 Aug 2022 2:00 PM EDT,36,N.Y.,NY,New York,19514849,137.08,2022-08-18,7:09 AM,13514
-North Carolina,188,Data as of 17 Aug 2022 2:00 PM EDT,37,N.C.,NC,North Carolina,10386227,18.1,2022-08-18,7:09 AM,13514
-North Dakota,3,Data as of 17 Aug 2022 2:00 PM EDT,38,N.D.,ND,North Dakota,760394,3.95,2022-08-18,7:09 AM,13514
-Ohio,119,Data as of 17 Aug 2022 2:00 PM EDT,39,Ohio,OH,Ohio,11675275,10.19,2022-08-18,7:09 AM,13514
-Oklahoma,15,Data as of 17 Aug 2022 2:00 PM EDT,40,Okla.,OK,Oklahoma,3949342,3.8,2022-08-18,7:09 AM,13514
-Oregon,116,Data as of 17 Aug 2022 2:00 PM EDT,41,Ore.,OR,Oregon,4176346,27.78,2022-08-18,7:09 AM,13514
-Pennsylvania,362,Data as of 17 Aug 2022 2:00 PM EDT,42,Pa.,PA,Pennsylvania,12794885,28.29,2022-08-18,7:09 AM,13514
-Puerto Rico,66,Data as of 17 Aug 2022 2:00 PM EDT,72,,PR,Puerto Rico,3255642,20.27,2022-08-18,7:09 AM,13514
-Rhode Island,33,Data as of 17 Aug 2022 2:00 PM EDT,44,R.I.,RI,Rhode Island,1057798,31.2,2022-08-18,7:09 AM,13514
-South Carolina,73,Data as of 17 Aug 2022 2:00 PM EDT,45,S.C.,SC,South Carolina,5091517,14.34,2022-08-18,7:09 AM,13514
-South Dakota,2,Data as of 17 Aug 2022 2:00 PM EDT,46,S.D.,SD,South Dakota,879336,2.27,2022-08-18,7:09 AM,13514
-Tennessee,99,Data as of 17 Aug 2022 2:00 PM EDT,47,Tenn.,TN,Tennessee,6772268,14.62,2022-08-18,7:09 AM,13514
-Texas,1078,Data as of 17 Aug 2022 2:00 PM EDT,48,Texas,TX,Texas,28635442,37.65,2022-08-18,7:09 AM,13514
-Utah,73,Data as of 17 Aug 2022 2:00 PM EDT,49,Utah,UT,Utah,3151239,23.17,2022-08-18,7:09 AM,13514
-Vermont,2,Data as of 17 Aug 2022 2:00 PM EDT,50,Vt.,VT,Vermont,624340,3.2,2022-08-18,7:09 AM,13514
-Virginia,189,Data as of 17 Aug 2022 2:00 PM EDT,51,Va.,VA,Virginia,8509358,22.21,2022-08-18,7:09 AM,13514
-Washington,303,Data as of 17 Aug 2022 2:00 PM EDT,53,Wash.,WA,Washington,7512465,40.33,2022-08-18,7:09 AM,13514
-West Virginia,5,Data as of 17 Aug 2022 2:00 PM EDT,54,W.Va.,WV,West Virginia,1807426,2.77,2022-08-18,7:09 AM,13514
-Wisconsin,43,Data as of 17 Aug 2022 2:00 PM EDT,55,Wis.,WI,Wisconsin,5806975,7.4,2022-08-18,7:09 AM,13514
-Wyoming,0,Data as of 17 Aug 2022 2:00 PM EDT,56,Wyo.,WY,Wyoming,581348,0.0,2022-08-18,7:09 AM,13514
+Alabama,34,Data as of 18 Aug 2022 2:00 PM EDT,01,Ala.,AL,Alabama,4893186,6.95,2022-08-18,8:13 PM,14112
+Alaska,2,Data as of 18 Aug 2022 2:00 PM EDT,02,Alaska,AK,Alaska,736990,2.71,2022-08-18,8:13 PM,14112
+Arizona,220,Data as of 18 Aug 2022 2:00 PM EDT,04,Ariz.,AZ,Arizona,7174064,30.67,2022-08-18,8:13 PM,14112
+Arkansas,21,Data as of 18 Aug 2022 2:00 PM EDT,05,Ark.,AR,Arkansas,3011873,6.97,2022-08-18,8:13 PM,14112
+California,2663,Data as of 18 Aug 2022 2:00 PM EDT,06,Calif.,CA,California,39346023,67.68,2022-08-18,8:13 PM,14112
+Colorado,155,Data as of 18 Aug 2022 2:00 PM EDT,08,Colo.,CO,Colorado,5684926,27.27,2022-08-18,8:13 PM,14112
+Connecticut,73,Data as of 18 Aug 2022 2:00 PM EDT,09,Conn.,CT,Connecticut,3570549,20.45,2022-08-18,8:13 PM,14112
+Delaware,10,Data as of 18 Aug 2022 2:00 PM EDT,10,Del.,DE,Delaware,967679,10.33,2022-08-18,8:13 PM,14112
+District of Columbia,351,Data as of 18 Aug 2022 2:00 PM EDT,11,D.C.,DC,District of Columbia,701974,500.02,2022-08-18,8:13 PM,14112
+Florida,1372,Data as of 18 Aug 2022 2:00 PM EDT,12,Fla.,FL,Florida,21216924,64.67,2022-08-18,8:13 PM,14112
+Georgia,1066,Data as of 18 Aug 2022 2:00 PM EDT,13,Ga.,GA,Georgia,10516579,101.36,2022-08-18,8:13 PM,14112
+Hawaii,13,Data as of 18 Aug 2022 2:00 PM EDT,15,Hawaii,HI,Hawaii,1420074,9.15,2022-08-18,8:13 PM,14112
+Idaho,9,Data as of 18 Aug 2022 2:00 PM EDT,16,Idaho,ID,Idaho,1754367,5.13,2022-08-18,8:13 PM,14112
+Illinois,888,Data as of 18 Aug 2022 2:00 PM EDT,17,Ill.,IL,Illinois,12716164,69.83,2022-08-18,8:13 PM,14112
+Indiana,102,Data as of 18 Aug 2022 2:00 PM EDT,18,Ind.,IN,Indiana,6696893,15.23,2022-08-18,8:13 PM,14112
+Iowa,15,Data as of 18 Aug 2022 2:00 PM EDT,19,Iowa,IA,Iowa,3150011,4.76,2022-08-18,8:13 PM,14112
+Kansas,3,Data as of 18 Aug 2022 2:00 PM EDT,20,Kan.,KS,Kansas,2912619,1.03,2022-08-18,8:13 PM,14112
+Kentucky,18,Data as of 18 Aug 2022 2:00 PM EDT,21,Ky.,KY,Kentucky,4461952,4.03,2022-08-18,8:13 PM,14112
+Louisiana,127,Data as of 18 Aug 2022 2:00 PM EDT,22,La.,LA,Louisiana,4664616,27.23,2022-08-18,8:13 PM,14112
+Maine,3,Data as of 18 Aug 2022 2:00 PM EDT,23,Maine,ME,Maine,1340825,2.24,2022-08-18,8:13 PM,14112
+Maryland,349,Data as of 18 Aug 2022 2:00 PM EDT,24,Md.,MD,Maryland,6037624,57.8,2022-08-18,8:13 PM,14112
+Massachusetts,243,Data as of 18 Aug 2022 2:00 PM EDT,25,Mass.,MA,Massachusetts,6873003,35.36,2022-08-18,8:13 PM,14112
+Michigan,108,Data as of 18 Aug 2022 2:00 PM EDT,26,Mich.,MI,Michigan,9973907,10.83,2022-08-18,8:13 PM,14112
+Minnesota,87,Data as of 18 Aug 2022 2:00 PM EDT,27,Minn.,MN,Minnesota,5600166,15.54,2022-08-18,8:13 PM,14112
+Mississippi,18,Data as of 18 Aug 2022 2:00 PM EDT,28,Miss.,MS,Mississippi,2981835,6.04,2022-08-18,8:13 PM,14112
+Missouri,25,Data as of 18 Aug 2022 2:00 PM EDT,29,Mo.,MO,Missouri,6124160,4.08,2022-08-18,8:13 PM,14112
+Montana,2,Data as of 18 Aug 2022 2:00 PM EDT,30,Mont.,MT,Montana,1061705,1.88,2022-08-18,8:13 PM,14112
+Nebraska,18,Data as of 18 Aug 2022 2:00 PM EDT,31,Neb.,NE,Nebraska,1923826,9.36,2022-08-18,8:13 PM,14112
+Nevada,113,Data as of 18 Aug 2022 2:00 PM EDT,32,Nev.,NV,Nevada,3030281,37.29,2022-08-18,8:13 PM,14112
+New Hampshire,16,Data as of 18 Aug 2022 2:00 PM EDT,33,N.H.,NH,New Hampshire,1355244,11.81,2022-08-18,8:13 PM,14112
+New Jersey,377,Data as of 18 Aug 2022 2:00 PM EDT,34,N.J.,NJ,New Jersey,8885418,42.43,2022-08-18,8:13 PM,14112
+New Mexico,16,Data as of 18 Aug 2022 2:00 PM EDT,35,N.M.,NM,New Mexico,2097021,7.63,2022-08-18,8:13 PM,14112
+New York,2744,Data as of 18 Aug 2022 2:00 PM EDT,36,N.Y.,NY,New York,19514849,140.61,2022-08-18,8:13 PM,14112
+North Carolina,188,Data as of 18 Aug 2022 2:00 PM EDT,37,N.C.,NC,North Carolina,10386227,18.1,2022-08-18,8:13 PM,14112
+North Dakota,3,Data as of 18 Aug 2022 2:00 PM EDT,38,N.D.,ND,North Dakota,760394,3.95,2022-08-18,8:13 PM,14112
+Ohio,123,Data as of 18 Aug 2022 2:00 PM EDT,39,Ohio,OH,Ohio,11675275,10.54,2022-08-18,8:13 PM,14112
+Oklahoma,17,Data as of 18 Aug 2022 2:00 PM EDT,40,Okla.,OK,Oklahoma,3949342,4.3,2022-08-18,8:13 PM,14112
+Oregon,116,Data as of 18 Aug 2022 2:00 PM EDT,41,Ore.,OR,Oregon,4176346,27.78,2022-08-18,8:13 PM,14112
+Pennsylvania,371,Data as of 18 Aug 2022 2:00 PM EDT,42,Pa.,PA,Pennsylvania,12794885,29.0,2022-08-18,8:13 PM,14112
+Puerto Rico,66,Data as of 18 Aug 2022 2:00 PM EDT,72,,PR,Puerto Rico,3255642,20.27,2022-08-18,8:13 PM,14112
+Rhode Island,37,Data as of 18 Aug 2022 2:00 PM EDT,44,R.I.,RI,Rhode Island,1057798,34.98,2022-08-18,8:13 PM,14112
+South Carolina,72,Data as of 18 Aug 2022 2:00 PM EDT,45,S.C.,SC,South Carolina,5091517,14.14,2022-08-18,8:13 PM,14112
+South Dakota,2,Data as of 18 Aug 2022 2:00 PM EDT,46,S.D.,SD,South Dakota,879336,2.27,2022-08-18,8:13 PM,14112
+Tennessee,107,Data as of 18 Aug 2022 2:00 PM EDT,47,Tenn.,TN,Tennessee,6772268,15.8,2022-08-18,8:13 PM,14112
+Texas,1079,Data as of 18 Aug 2022 2:00 PM EDT,48,Texas,TX,Texas,28635442,37.68,2022-08-18,8:13 PM,14112
+Utah,77,Data as of 18 Aug 2022 2:00 PM EDT,49,Utah,UT,Utah,3151239,24.43,2022-08-18,8:13 PM,14112
+Vermont,2,Data as of 18 Aug 2022 2:00 PM EDT,50,Vt.,VT,Vermont,624340,3.2,2022-08-18,8:13 PM,14112
+Virginia,229,Data as of 18 Aug 2022 2:00 PM EDT,51,Va.,VA,Virginia,8509358,26.91,2022-08-18,8:13 PM,14112
+Washington,314,Data as of 18 Aug 2022 2:00 PM EDT,53,Wash.,WA,Washington,7512465,41.8,2022-08-18,8:13 PM,14112
+West Virginia,5,Data as of 18 Aug 2022 2:00 PM EDT,54,W.Va.,WV,West Virginia,1807426,2.77,2022-08-18,8:13 PM,14112
+Wisconsin,43,Data as of 18 Aug 2022 2:00 PM EDT,55,Wis.,WI,Wisconsin,5806975,7.4,2022-08-18,8:13 PM,14112
+Wyoming,0,Data as of 18 Aug 2022 2:00 PM EDT,56,Wyo.,WY,Wyoming,581348,0.0,2022-08-18,8:13 PM,14112
