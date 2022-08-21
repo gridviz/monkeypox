@@ -1,5 +1,10 @@
 [
     {
+        "date":"2022-08-21",
+        "cases":0,
+        "cumulative_sum":14112
+    },
+    {
         "date":"2022-08-20",
         "cases":0,
         "cumulative_sum":14112
