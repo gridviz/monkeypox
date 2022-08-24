@@ -1,0 +1,572 @@
+[
+    {
+        "epi_date":"5\/15\/2022",
+        "cases":1,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":1
+    },
+    {
+        "epi_date":"5\/16\/2022",
+        "cases":0,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":1
+    },
+    {
+        "epi_date":"5\/17\/2022",
+        "cases":1,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":2
+    },
+    {
+        "epi_date":"5\/18\/2022",
+        "cases":0,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":2
+    },
+    {
+        "epi_date":"5\/19\/2022",
+        "cases":1,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":3
+    },
+    {
+        "epi_date":"5\/20\/2022",
+        "cases":2,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":5
+    },
+    {
+        "epi_date":"5\/21\/2022",
+        "cases":2,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":7
+    },
+    {
+        "epi_date":"5\/22\/2022",
+        "cases":2,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":9
+    },
+    {
+        "epi_date":"5\/23\/2022",
+        "cases":3,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":12
+    },
+    {
+        "epi_date":"5\/24\/2022",
+        "cases":1,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":13
+    },
+    {
+        "epi_date":"5\/25\/2022",
+        "cases":2,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":15
+    },
+    {
+        "epi_date":"5\/26\/2022",
+        "cases":2,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":17
+    },
+    {
+        "epi_date":"5\/27\/2022",
+        "cases":2,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":19
+    },
+    {
+        "epi_date":"5\/28\/2022",
+        "cases":0,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":19
+    },
+    {
+        "epi_date":"5\/29\/2022",
+        "cases":2,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":21
+    },
+    {
+        "epi_date":"5\/30\/2022",
+        "cases":1,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":22
+    },
+    {
+        "epi_date":"5\/31\/2022",
+        "cases":6,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":28
+    },
+    {
+        "epi_date":"6\/1\/2022",
+        "cases":2,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":30
+    },
+    {
+        "epi_date":"6\/2\/2022",
+        "cases":5,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":35
+    },
+    {
+        "epi_date":"6\/3\/2022",
+        "cases":6,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":41
+    },
+    {
+        "epi_date":"6\/4\/2022",
+        "cases":1,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":42
+    },
+    {
+        "epi_date":"6\/5\/2022",
+        "cases":1,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":43
+    },
+    {
+        "epi_date":"6\/6\/2022",
+        "cases":7,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":50
+    },
+    {
+        "epi_date":"6\/7\/2022",
+        "cases":9,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":59
+    },
+    {
+        "epi_date":"6\/8\/2022",
+        "cases":14,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":73
+    },
+    {
+        "epi_date":"6\/9\/2022",
+        "cases":7,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":80
+    },
+    {
+        "epi_date":"6\/10\/2022",
+        "cases":12,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":92
+    },
+    {
+        "epi_date":"6\/11\/2022",
+        "cases":5,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":97
+    },
+    {
+        "epi_date":"6\/12\/2022",
+        "cases":4,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":101
+    },
+    {
+        "epi_date":"6\/13\/2022",
+        "cases":8,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":109
+    },
+    {
+        "epi_date":"6\/14\/2022",
+        "cases":21,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":130
+    },
+    {
+        "epi_date":"6\/15\/2022",
+        "cases":15,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":145
+    },
+    {
+        "epi_date":"6\/16\/2022",
+        "cases":17,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":162
+    },
+    {
+        "epi_date":"6\/17\/2022",
+        "cases":13,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":175
+    },
+    {
+        "epi_date":"6\/18\/2022",
+        "cases":15,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":190
+    },
+    {
+        "epi_date":"6\/19\/2022",
+        "cases":5,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":195
+    },
+    {
+        "epi_date":"6\/20\/2022",
+        "cases":15,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":210
+    },
+    {
+        "epi_date":"6\/21\/2022",
+        "cases":22,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":232
+    },
+    {
+        "epi_date":"6\/22\/2022",
+        "cases":27,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":259
+    },
+    {
+        "epi_date":"6\/23\/2022",
+        "cases":25,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":284
+    },
+    {
+        "epi_date":"6\/24\/2022",
+        "cases":49,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":333
+    },
+    {
+        "epi_date":"6\/25\/2022",
+        "cases":25,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":358
+    },
+    {
+        "epi_date":"6\/26\/2022",
+        "cases":23,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":381
+    },
+    {
+        "epi_date":"6\/27\/2022",
+        "cases":91,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":472
+    },
+    {
+        "epi_date":"6\/28\/2022",
+        "cases":59,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":531
+    },
+    {
+        "epi_date":"6\/29\/2022",
+        "cases":69,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":600
+    },
+    {
+        "epi_date":"6\/30\/2022",
+        "cases":100,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":700
+    },
+    {
+        "epi_date":"7\/1\/2022",
+        "cases":115,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":815
+    },
+    {
+        "epi_date":"7\/2\/2022",
+        "cases":74,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":889
+    },
+    {
+        "epi_date":"7\/3\/2022",
+        "cases":58,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":947
+    },
+    {
+        "epi_date":"7\/4\/2022",
+        "cases":81,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":1028
+    },
+    {
+        "epi_date":"7\/5\/2022",
+        "cases":121,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":1149
+    },
+    {
+        "epi_date":"7\/6\/2022",
+        "cases":132,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":1281
+    },
+    {
+        "epi_date":"7\/7\/2022",
+        "cases":130,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":1411
+    },
+    {
+        "epi_date":"7\/8\/2022",
+        "cases":170,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":1581
+    },
+    {
+        "epi_date":"7\/9\/2022",
+        "cases":116,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":1697
+    },
+    {
+        "epi_date":"7\/10\/2022",
+        "cases":85,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":1782
+    },
+    {
+        "epi_date":"7\/11\/2022",
+        "cases":233,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":2015
+    },
+    {
+        "epi_date":"7\/12\/2022",
+        "cases":169,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":2184
+    },
+    {
+        "epi_date":"7\/13\/2022",
+        "cases":212,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":2396
+    },
+    {
+        "epi_date":"7\/14\/2022",
+        "cases":231,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":2627
+    },
+    {
+        "epi_date":"7\/15\/2022",
+        "cases":239,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":2866
+    },
+    {
+        "epi_date":"7\/16\/2022",
+        "cases":133,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":2999
+    },
+    {
+        "epi_date":"7\/17\/2022",
+        "cases":113,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":3112
+    },
+    {
+        "epi_date":"7\/18\/2022",
+        "cases":379,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":3491
+    },
+    {
+        "epi_date":"7\/19\/2022",
+        "cases":245,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":3736
+    },
+    {
+        "epi_date":"7\/20\/2022",
+        "cases":281,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":4017
+    },
+    {
+        "epi_date":"7\/21\/2022",
+        "cases":245,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":4262
+    },
+    {
+        "epi_date":"7\/22\/2022",
+        "cases":319,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":4581
+    },
+    {
+        "epi_date":"7\/23\/2022",
+        "cases":150,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":4731
+    },
+    {
+        "epi_date":"7\/24\/2022",
+        "cases":110,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":4841
+    },
+    {
+        "epi_date":"7\/25\/2022",
+        "cases":407,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":5248
+    },
+    {
+        "epi_date":"7\/26\/2022",
+        "cases":378,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":5626
+    },
+    {
+        "epi_date":"7\/27\/2022",
+        "cases":460,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":6086
+    },
+    {
+        "epi_date":"7\/28\/2022",
+        "cases":299,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":6385
+    },
+    {
+        "epi_date":"7\/29\/2022",
+        "cases":400,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":6785
+    },
+    {
+        "epi_date":"7\/30\/2022",
+        "cases":160,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":6945
+    },
+    {
+        "epi_date":"7\/31\/2022",
+        "cases":149,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":7094
+    },
+    {
+        "epi_date":"8\/1\/2022",
+        "cases":473,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":7567
+    },
+    {
+        "epi_date":"8\/2\/2022",
+        "cases":438,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":8005
+    },
+    {
+        "epi_date":"8\/3\/2022",
+        "cases":426,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":8431
+    },
+    {
+        "epi_date":"8\/4\/2022",
+        "cases":436,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":8867
+    },
+    {
+        "epi_date":"8\/5\/2022",
+        "cases":424,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":9291
+    },
+    {
+        "epi_date":"8\/6\/2022",
+        "cases":138,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":9429
+    },
+    {
+        "epi_date":"8\/7\/2022",
+        "cases":78,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":9507
+    },
+    {
+        "epi_date":"8\/8\/2022",
+        "cases":754,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":10261
+    },
+    {
+        "epi_date":"8\/9\/2022",
+        "cases":409,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":10670
+    },
+    {
+        "epi_date":"8\/10\/2022",
+        "cases":366,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":11036
+    },
+    {
+        "epi_date":"8\/11\/2022",
+        "cases":314,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":11350
+    },
+    {
+        "epi_date":"8\/12\/2022",
+        "cases":280,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":11630
+    },
+    {
+        "epi_date":"8\/13\/2022",
+        "cases":39,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":11669
+    },
+    {
+        "epi_date":"8\/14\/2022",
+        "cases":10,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":11679
+    },
+    {
+        "epi_date":"8\/15\/2022",
+        "cases":670,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":12349
+    },
+    {
+        "epi_date":"8\/16\/2022",
+        "cases":361,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":12710
+    },
+    {
+        "epi_date":"8\/17\/2022",
+        "cases":347,
+        "asof":"Data as of 8\/17\/2022",
+        "cumulative_sum":13057
+    }
+]
