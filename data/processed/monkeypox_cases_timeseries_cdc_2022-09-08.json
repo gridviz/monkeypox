@@ -67,12 +67,6 @@
     },
     {
         "epi_date":"5\/28\/2022",
-        "cases":0,
-        "asof":"Data as of 9\/7\/2022",
-        "cumulative_sum":19
-    },
-    {
-        "epi_date":"5\/28\/2022",
         "cases":1,
         "asof":"Data as of 9\/7\/2022",
         "cumulative_sum":20
