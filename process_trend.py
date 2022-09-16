@@ -16,15 +16,22 @@ time = pd.Timestamp.now(tz='America/Los_Angeles').strftime("%-I:%M %p")
 cdc_timeseries = (
     pd.read_csv(
         "data/processed/monkeypox_cases_timeseries_cdc_latest.csv",
-        parse_dates=["date"],
-        names=["date", "cases", "asof", "cumulative_sum"],
+        parse_dates=["epi_date"],
+        names=[
+            "epi_date",
+            "cases",
+            "weekly-average",
+            "cumulative_cases",
+            "asof",
+            "cumulative_sum",
+        ],
         header=0,
-    )
-    .drop(["asof"], axis=1)
-    .sort_values("date", ascending=False)
+    ).sort_values("epi_date", ascending=False)
 ).reset_index(drop=True)
 
-cdc_timeseries["date"] = pd.to_datetime(cdc_timeseries["date"]).dt.strftime("%Y-%m-%d")
+cdc_timeseries["date"] = pd.to_datetime(cdc_timeseries["epi_date"]).dt.strftime(
+    "%Y-%m-%d"
+)
 
 #### The latest we have
 
