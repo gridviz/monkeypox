@@ -1,53 +1,53 @@
 location,cases,asof,state_fips,state_ap,state_postal,state,pop_acs_2020_5tr,cases_per_million,updated_date,updated_time,national_total
-Alabama,90,Data as of September 16 2022 at 2:00 pm EDT,01,Ala.,AL,Alabama,4893186,18.39,2022-09-19,6:41 AM,23496
-Alaska,3,Data as of September 16 2022 at 2:00 pm EDT,02,Alaska,AK,Alaska,736990,4.07,2022-09-19,6:41 AM,23496
-Arizona,411,Data as of September 16 2022 at 2:00 pm EDT,04,Ariz.,AZ,Arizona,7174064,57.29,2022-09-19,6:41 AM,23496
-Arkansas,54,Data as of September 16 2022 at 2:00 pm EDT,05,Ark.,AR,Arkansas,3011873,17.93,2022-09-19,6:41 AM,23496
-California,4656,Data as of September 16 2022 at 2:00 pm EDT,06,Calif.,CA,California,39346023,118.33,2022-09-19,6:41 AM,23496
-Colorado,253,Data as of September 16 2022 at 2:00 pm EDT,08,Colo.,CO,Colorado,5684926,44.5,2022-09-19,6:41 AM,23496
-Connecticut,120,Data as of September 16 2022 at 2:00 pm EDT,09,Conn.,CT,Connecticut,3570549,33.61,2022-09-19,6:41 AM,23496
-Delaware,35,Data as of September 16 2022 at 2:00 pm EDT,10,Del.,DE,Delaware,967679,36.17,2022-09-19,6:41 AM,23496
-District of Columbia,477,Data as of September 16 2022 at 2:00 pm EDT,11,D.C.,DC,District of Columbia,701974,679.51,2022-09-19,6:41 AM,23496
-Florida,2352,Data as of September 16 2022 at 2:00 pm EDT,12,Fla.,FL,Florida,21216924,110.85,2022-09-19,6:41 AM,23496
-Georgia,1658,Data as of September 16 2022 at 2:00 pm EDT,13,Ga.,GA,Georgia,10516579,157.66,2022-09-19,6:41 AM,23496
-Hawaii,25,Data as of September 16 2022 at 2:00 pm EDT,15,Hawaii,HI,Hawaii,1420074,17.6,2022-09-19,6:41 AM,23496
-Idaho,12,Data as of September 16 2022 at 2:00 pm EDT,16,Idaho,ID,Idaho,1754367,6.84,2022-09-19,6:41 AM,23496
-Illinois,1212,Data as of September 16 2022 at 2:00 pm EDT,17,Ill.,IL,Illinois,12716164,95.31,2022-09-19,6:41 AM,23496
-Indiana,203,Data as of September 16 2022 at 2:00 pm EDT,18,Ind.,IN,Indiana,6696893,30.31,2022-09-19,6:41 AM,23496
-Iowa,23,Data as of September 16 2022 at 2:00 pm EDT,19,Iowa,IA,Iowa,3150011,7.3,2022-09-19,6:41 AM,23496
-Kansas,8,Data as of September 16 2022 at 2:00 pm EDT,20,Kan.,KS,Kansas,2912619,2.75,2022-09-19,6:41 AM,23496
-Kentucky,45,Data as of September 16 2022 at 2:00 pm EDT,21,Ky.,KY,Kentucky,4461952,10.09,2022-09-19,6:41 AM,23496
-Louisiana,230,Data as of September 16 2022 at 2:00 pm EDT,22,La.,LA,Louisiana,4664616,49.31,2022-09-19,6:41 AM,23496
-Maine,9,Data as of September 16 2022 at 2:00 pm EDT,23,Maine,ME,Maine,1340825,6.71,2022-09-19,6:41 AM,23496
-Maryland,609,Data as of September 16 2022 at 2:00 pm EDT,24,Md.,MD,Maryland,6037624,100.87,2022-09-19,6:41 AM,23496
-Massachusetts,364,Data as of September 16 2022 at 2:00 pm EDT,25,Mass.,MA,Massachusetts,6873003,52.96,2022-09-19,6:41 AM,23496
-Michigan,244,Data as of September 16 2022 at 2:00 pm EDT,26,Mich.,MI,Michigan,9973907,24.46,2022-09-19,6:41 AM,23496
-Minnesota,167,Data as of September 16 2022 at 2:00 pm EDT,27,Minn.,MN,Minnesota,5600166,29.82,2022-09-19,6:41 AM,23496
-Mississippi,61,Data as of September 16 2022 at 2:00 pm EDT,28,Miss.,MS,Mississippi,2981835,20.46,2022-09-19,6:41 AM,23496
-Missouri,75,Data as of September 16 2022 at 2:00 pm EDT,29,Mo.,MO,Missouri,6124160,12.25,2022-09-19,6:41 AM,23496
-Montana,5,Data as of September 16 2022 at 2:00 pm EDT,30,Mont.,MT,Montana,1061705,4.71,2022-09-19,6:41 AM,23496
-Nebraska,28,Data as of September 16 2022 at 2:00 pm EDT,31,Neb.,NE,Nebraska,1923826,14.55,2022-09-19,6:41 AM,23496
-Nevada,217,Data as of September 16 2022 at 2:00 pm EDT,32,Nev.,NV,Nevada,3030281,71.61,2022-09-19,6:41 AM,23496
-New Hampshire,27,Data as of September 16 2022 at 2:00 pm EDT,33,N.H.,NH,New Hampshire,1355244,19.92,2022-09-19,6:41 AM,23496
-New Jersey,647,Data as of September 16 2022 at 2:00 pm EDT,34,N.J.,NJ,New Jersey,8885418,72.82,2022-09-19,6:41 AM,23496
-New Mexico,33,Data as of September 16 2022 at 2:00 pm EDT,35,N.M.,NM,New Mexico,2097021,15.74,2022-09-19,6:41 AM,23496
-New York,3738,Data as of September 16 2022 at 2:00 pm EDT,36,N.Y.,NY,New York,19514849,191.55,2022-09-19,6:41 AM,23496
-North Carolina,434,Data as of September 16 2022 at 2:00 pm EDT,37,N.C.,NC,North Carolina,10386227,41.79,2022-09-19,6:41 AM,23496
-North Dakota,5,Data as of September 16 2022 at 2:00 pm EDT,38,N.D.,ND,North Dakota,760394,6.58,2022-09-19,6:41 AM,23496
-Ohio,240,Data as of September 16 2022 at 2:00 pm EDT,39,Ohio,OH,Ohio,11675275,20.56,2022-09-19,6:41 AM,23496
-Oklahoma,33,Data as of September 16 2022 at 2:00 pm EDT,40,Okla.,OK,Oklahoma,3949342,8.36,2022-09-19,6:41 AM,23496
-Oregon,183,Data as of September 16 2022 at 2:00 pm EDT,41,Ore.,OR,Oregon,4176346,43.82,2022-09-19,6:41 AM,23496
-Pennsylvania,691,Data as of September 16 2022 at 2:00 pm EDT,42,Pa.,PA,Pennsylvania,12794885,54.01,2022-09-19,6:41 AM,23496
-Puerto Rico,160,Data as of September 16 2022 at 2:00 pm EDT,72,,PR,Puerto Rico,3255642,49.15,2022-09-19,6:41 AM,23496
-Rhode Island,63,Data as of September 16 2022 at 2:00 pm EDT,44,R.I.,RI,Rhode Island,1057798,59.56,2022-09-19,6:41 AM,23496
-South Carolina,138,Data as of September 16 2022 at 2:00 pm EDT,45,S.C.,SC,South Carolina,5091517,27.1,2022-09-19,6:41 AM,23496
-South Dakota,2,Data as of September 16 2022 at 2:00 pm EDT,46,S.D.,SD,South Dakota,879336,2.27,2022-09-19,6:41 AM,23496
-Tennessee,249,Data as of September 16 2022 at 2:00 pm EDT,47,Tenn.,TN,Tennessee,6772268,36.77,2022-09-19,6:41 AM,23496
-Texas,2017,Data as of September 16 2022 at 2:00 pm EDT,48,Texas,TX,Texas,28635442,70.44,2022-09-19,6:41 AM,23496
-Utah,133,Data as of September 16 2022 at 2:00 pm EDT,49,Utah,UT,Utah,3151239,42.21,2022-09-19,6:41 AM,23496
-Vermont,3,Data as of September 16 2022 at 2:00 pm EDT,50,Vt.,VT,Vermont,624340,4.81,2022-09-19,6:41 AM,23496
-Virginia,430,Data as of September 16 2022 at 2:00 pm EDT,51,Va.,VA,Virginia,8509358,50.53,2022-09-19,6:41 AM,23496
-Washington,547,Data as of September 16 2022 at 2:00 pm EDT,53,Wash.,WA,Washington,7512465,72.81,2022-09-19,6:41 AM,23496
-West Virginia,11,Data as of September 16 2022 at 2:00 pm EDT,54,W.Va.,WV,West Virginia,1807426,6.09,2022-09-19,6:41 AM,23496
-Wisconsin,64,Data as of September 16 2022 at 2:00 pm EDT,55,Wis.,WI,Wisconsin,5806975,11.02,2022-09-19,6:41 AM,23496
-Wyoming,2,Data as of September 16 2022 at 2:00 pm EDT,56,Wyo.,WY,Wyoming,581348,3.44,2022-09-19,6:41 AM,23496
+Alabama,90,Data as of September 19 2022 at 2:00 pm EDT,01,Ala.,AL,Alabama,4893186,18.39,2022-09-19,8:34 PM,23890
+Alaska,5,Data as of September 19 2022 at 2:00 pm EDT,02,Alaska,AK,Alaska,736990,6.78,2022-09-19,8:34 PM,23890
+Arizona,411,Data as of September 19 2022 at 2:00 pm EDT,04,Ariz.,AZ,Arizona,7174064,57.29,2022-09-19,8:34 PM,23890
+Arkansas,54,Data as of September 19 2022 at 2:00 pm EDT,05,Ark.,AR,Arkansas,3011873,17.93,2022-09-19,8:34 PM,23890
+California,4656,Data as of September 19 2022 at 2:00 pm EDT,06,Calif.,CA,California,39346023,118.33,2022-09-19,8:34 PM,23890
+Colorado,253,Data as of September 19 2022 at 2:00 pm EDT,08,Colo.,CO,Colorado,5684926,44.5,2022-09-19,8:34 PM,23890
+Connecticut,124,Data as of September 19 2022 at 2:00 pm EDT,09,Conn.,CT,Connecticut,3570549,34.73,2022-09-19,8:34 PM,23890
+Delaware,35,Data as of September 19 2022 at 2:00 pm EDT,10,Del.,DE,Delaware,967679,36.17,2022-09-19,8:34 PM,23890
+District of Columbia,484,Data as of September 19 2022 at 2:00 pm EDT,11,D.C.,DC,District of Columbia,701974,689.48,2022-09-19,8:34 PM,23890
+Florida,2398,Data as of September 19 2022 at 2:00 pm EDT,12,Fla.,FL,Florida,21216924,113.02,2022-09-19,8:34 PM,23890
+Georgia,1702,Data as of September 19 2022 at 2:00 pm EDT,13,Ga.,GA,Georgia,10516579,161.84,2022-09-19,8:34 PM,23890
+Hawaii,25,Data as of September 19 2022 at 2:00 pm EDT,15,Hawaii,HI,Hawaii,1420074,17.6,2022-09-19,8:34 PM,23890
+Idaho,12,Data as of September 19 2022 at 2:00 pm EDT,16,Idaho,ID,Idaho,1754367,6.84,2022-09-19,8:34 PM,23890
+Illinois,1220,Data as of September 19 2022 at 2:00 pm EDT,17,Ill.,IL,Illinois,12716164,95.94,2022-09-19,8:34 PM,23890
+Indiana,209,Data as of September 19 2022 at 2:00 pm EDT,18,Ind.,IN,Indiana,6696893,31.21,2022-09-19,8:34 PM,23890
+Iowa,22,Data as of September 19 2022 at 2:00 pm EDT,19,Iowa,IA,Iowa,3150011,6.98,2022-09-19,8:34 PM,23890
+Kansas,9,Data as of September 19 2022 at 2:00 pm EDT,20,Kan.,KS,Kansas,2912619,3.09,2022-09-19,8:34 PM,23890
+Kentucky,47,Data as of September 19 2022 at 2:00 pm EDT,21,Ky.,KY,Kentucky,4461952,10.53,2022-09-19,8:34 PM,23890
+Louisiana,234,Data as of September 19 2022 at 2:00 pm EDT,22,La.,LA,Louisiana,4664616,50.16,2022-09-19,8:34 PM,23890
+Maine,9,Data as of September 19 2022 at 2:00 pm EDT,23,Maine,ME,Maine,1340825,6.71,2022-09-19,8:34 PM,23890
+Maryland,621,Data as of September 19 2022 at 2:00 pm EDT,24,Md.,MD,Maryland,6037624,102.86,2022-09-19,8:34 PM,23890
+Massachusetts,374,Data as of September 19 2022 at 2:00 pm EDT,25,Mass.,MA,Massachusetts,6873003,54.42,2022-09-19,8:34 PM,23890
+Michigan,246,Data as of September 19 2022 at 2:00 pm EDT,26,Mich.,MI,Michigan,9973907,24.66,2022-09-19,8:34 PM,23890
+Minnesota,171,Data as of September 19 2022 at 2:00 pm EDT,27,Minn.,MN,Minnesota,5600166,30.53,2022-09-19,8:34 PM,23890
+Mississippi,65,Data as of September 19 2022 at 2:00 pm EDT,28,Miss.,MS,Mississippi,2981835,21.8,2022-09-19,8:34 PM,23890
+Missouri,81,Data as of September 19 2022 at 2:00 pm EDT,29,Mo.,MO,Missouri,6124160,13.23,2022-09-19,8:34 PM,23890
+Montana,5,Data as of September 19 2022 at 2:00 pm EDT,30,Mont.,MT,Montana,1061705,4.71,2022-09-19,8:34 PM,23890
+Nebraska,28,Data as of September 19 2022 at 2:00 pm EDT,31,Neb.,NE,Nebraska,1923826,14.55,2022-09-19,8:34 PM,23890
+Nevada,217,Data as of September 19 2022 at 2:00 pm EDT,32,Nev.,NV,Nevada,3030281,71.61,2022-09-19,8:34 PM,23890
+New Hampshire,28,Data as of September 19 2022 at 2:00 pm EDT,33,N.H.,NH,New Hampshire,1355244,20.66,2022-09-19,8:34 PM,23890
+New Jersey,654,Data as of September 19 2022 at 2:00 pm EDT,34,N.J.,NJ,New Jersey,8885418,73.6,2022-09-19,8:34 PM,23890
+New Mexico,33,Data as of September 19 2022 at 2:00 pm EDT,35,N.M.,NM,New Mexico,2097021,15.74,2022-09-19,8:34 PM,23890
+New York,3755,Data as of September 19 2022 at 2:00 pm EDT,36,N.Y.,NY,New York,19514849,192.42,2022-09-19,8:34 PM,23890
+North Carolina,434,Data as of September 19 2022 at 2:00 pm EDT,37,N.C.,NC,North Carolina,10386227,41.79,2022-09-19,8:34 PM,23890
+North Dakota,5,Data as of September 19 2022 at 2:00 pm EDT,38,N.D.,ND,North Dakota,760394,6.58,2022-09-19,8:34 PM,23890
+Ohio,248,Data as of September 19 2022 at 2:00 pm EDT,39,Ohio,OH,Ohio,11675275,21.24,2022-09-19,8:34 PM,23890
+Oklahoma,35,Data as of September 19 2022 at 2:00 pm EDT,40,Okla.,OK,Oklahoma,3949342,8.86,2022-09-19,8:34 PM,23890
+Oregon,185,Data as of September 19 2022 at 2:00 pm EDT,41,Ore.,OR,Oregon,4176346,44.3,2022-09-19,8:34 PM,23890
+Pennsylvania,703,Data as of September 19 2022 at 2:00 pm EDT,42,Pa.,PA,Pennsylvania,12794885,54.94,2022-09-19,8:34 PM,23890
+Puerto Rico,163,Data as of September 19 2022 at 2:00 pm EDT,72,,PR,Puerto Rico,3255642,50.07,2022-09-19,8:34 PM,23890
+Rhode Island,68,Data as of September 19 2022 at 2:00 pm EDT,44,R.I.,RI,Rhode Island,1057798,64.28,2022-09-19,8:34 PM,23890
+South Carolina,142,Data as of September 19 2022 at 2:00 pm EDT,45,S.C.,SC,South Carolina,5091517,27.89,2022-09-19,8:34 PM,23890
+South Dakota,2,Data as of September 19 2022 at 2:00 pm EDT,46,S.D.,SD,South Dakota,879336,2.27,2022-09-19,8:34 PM,23890
+Tennessee,257,Data as of September 19 2022 at 2:00 pm EDT,47,Tenn.,TN,Tennessee,6772268,37.95,2022-09-19,8:34 PM,23890
+Texas,2150,Data as of September 19 2022 at 2:00 pm EDT,48,Texas,TX,Texas,28635442,75.08,2022-09-19,8:34 PM,23890
+Utah,140,Data as of September 19 2022 at 2:00 pm EDT,49,Utah,UT,Utah,3151239,44.43,2022-09-19,8:34 PM,23890
+Vermont,3,Data as of September 19 2022 at 2:00 pm EDT,50,Vt.,VT,Vermont,624340,4.81,2022-09-19,8:34 PM,23890
+Virginia,440,Data as of September 19 2022 at 2:00 pm EDT,51,Va.,VA,Virginia,8509358,51.71,2022-09-19,8:34 PM,23890
+Washington,556,Data as of September 19 2022 at 2:00 pm EDT,53,Wash.,WA,Washington,7512465,74.01,2022-09-19,8:34 PM,23890
+West Virginia,11,Data as of September 19 2022 at 2:00 pm EDT,54,W.Va.,WV,West Virginia,1807426,6.09,2022-09-19,8:34 PM,23890
+Wisconsin,69,Data as of September 19 2022 at 2:00 pm EDT,55,Wis.,WI,Wisconsin,5806975,11.88,2022-09-19,8:34 PM,23890
+Wyoming,2,Data as of September 19 2022 at 2:00 pm EDT,56,Wyo.,WY,Wyoming,581348,3.44,2022-09-19,8:34 PM,23890
