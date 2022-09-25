@@ -1,0 +1,1026 @@
+[
+    {
+        "epi_date":"5\/17\/2022",
+        "cases":1,
+        "7-day average":0.0,
+        "cumulative cases":1,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":1
+    },
+    {
+        "epi_date":"5\/18\/2022",
+        "cases":0,
+        "7-day average":0.0,
+        "cumulative cases":1,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":1
+    },
+    {
+        "epi_date":"5\/19\/2022",
+        "cases":1,
+        "7-day average":0.0,
+        "cumulative cases":2,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":2
+    },
+    {
+        "epi_date":"5\/20\/2022",
+        "cases":4,
+        "7-day average":0.0,
+        "cumulative cases":6,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":6
+    },
+    {
+        "epi_date":"5\/21\/2022",
+        "cases":0,
+        "7-day average":0.0,
+        "cumulative cases":6,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":6
+    },
+    {
+        "epi_date":"5\/22\/2022",
+        "cases":1,
+        "7-day average":0.0,
+        "cumulative cases":7,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":7
+    },
+    {
+        "epi_date":"5\/23\/2022",
+        "cases":3,
+        "7-day average":1.428571429,
+        "cumulative cases":10,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":10
+    },
+    {
+        "epi_date":"5\/24\/2022",
+        "cases":1,
+        "7-day average":1.428571429,
+        "cumulative cases":11,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":11
+    },
+    {
+        "epi_date":"5\/25\/2022",
+        "cases":2,
+        "7-day average":1.714285714,
+        "cumulative cases":13,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":13
+    },
+    {
+        "epi_date":"5\/26\/2022",
+        "cases":2,
+        "7-day average":1.857142857,
+        "cumulative cases":15,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":15
+    },
+    {
+        "epi_date":"5\/27\/2022",
+        "cases":4,
+        "7-day average":1.857142857,
+        "cumulative cases":19,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":19
+    },
+    {
+        "epi_date":"5\/28\/2022",
+        "cases":0,
+        "7-day average":1.857142857,
+        "cumulative cases":19,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":19
+    },
+    {
+        "epi_date":"5\/29\/2022",
+        "cases":3,
+        "7-day average":2.142857143,
+        "cumulative cases":22,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":22
+    },
+    {
+        "epi_date":"5\/30\/2022",
+        "cases":3,
+        "7-day average":2.142857143,
+        "cumulative cases":25,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":25
+    },
+    {
+        "epi_date":"5\/31\/2022",
+        "cases":5,
+        "7-day average":2.714285714,
+        "cumulative cases":30,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":30
+    },
+    {
+        "epi_date":"6\/1\/2022",
+        "cases":5,
+        "7-day average":3.142857143,
+        "cumulative cases":35,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":35
+    },
+    {
+        "epi_date":"6\/2\/2022",
+        "cases":9,
+        "7-day average":4.142857143,
+        "cumulative cases":44,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":44
+    },
+    {
+        "epi_date":"6\/3\/2022",
+        "cases":6,
+        "7-day average":4.428571429,
+        "cumulative cases":50,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":50
+    },
+    {
+        "epi_date":"6\/4\/2022",
+        "cases":1,
+        "7-day average":4.571428571,
+        "cumulative cases":51,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":51
+    },
+    {
+        "epi_date":"6\/5\/2022",
+        "cases":3,
+        "7-day average":4.571428571,
+        "cumulative cases":54,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":54
+    },
+    {
+        "epi_date":"6\/6\/2022",
+        "cases":12,
+        "7-day average":5.857142857,
+        "cumulative cases":66,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":66
+    },
+    {
+        "epi_date":"6\/7\/2022",
+        "cases":9,
+        "7-day average":6.428571429,
+        "cumulative cases":75,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":75
+    },
+    {
+        "epi_date":"6\/8\/2022",
+        "cases":8,
+        "7-day average":6.857142857,
+        "cumulative cases":83,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":83
+    },
+    {
+        "epi_date":"6\/9\/2022",
+        "cases":4,
+        "7-day average":6.142857143,
+        "cumulative cases":87,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":87
+    },
+    {
+        "epi_date":"6\/10\/2022",
+        "cases":12,
+        "7-day average":7.0,
+        "cumulative cases":99,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":99
+    },
+    {
+        "epi_date":"6\/11\/2022",
+        "cases":12,
+        "7-day average":8.571428571,
+        "cumulative cases":111,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":111
+    },
+    {
+        "epi_date":"6\/12\/2022",
+        "cases":9,
+        "7-day average":9.428571429,
+        "cumulative cases":120,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":120
+    },
+    {
+        "epi_date":"6\/13\/2022",
+        "cases":13,
+        "7-day average":9.571428571,
+        "cumulative cases":133,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":133
+    },
+    {
+        "epi_date":"6\/14\/2022",
+        "cases":17,
+        "7-day average":10.71428571,
+        "cumulative cases":150,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":150
+    },
+    {
+        "epi_date":"6\/15\/2022",
+        "cases":19,
+        "7-day average":12.28571429,
+        "cumulative cases":169,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":169
+    },
+    {
+        "epi_date":"6\/16\/2022",
+        "cases":17,
+        "7-day average":14.14285714,
+        "cumulative cases":186,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":186
+    },
+    {
+        "epi_date":"6\/17\/2022",
+        "cases":20,
+        "7-day average":15.28571429,
+        "cumulative cases":206,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":206
+    },
+    {
+        "epi_date":"6\/18\/2022",
+        "cases":15,
+        "7-day average":15.71428571,
+        "cumulative cases":221,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":221
+    },
+    {
+        "epi_date":"6\/19\/2022",
+        "cases":15,
+        "7-day average":16.57142857,
+        "cumulative cases":236,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":236
+    },
+    {
+        "epi_date":"6\/20\/2022",
+        "cases":12,
+        "7-day average":16.42857143,
+        "cumulative cases":248,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":248
+    },
+    {
+        "epi_date":"6\/21\/2022",
+        "cases":18,
+        "7-day average":16.57142857,
+        "cumulative cases":266,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":266
+    },
+    {
+        "epi_date":"6\/22\/2022",
+        "cases":22,
+        "7-day average":17.0,
+        "cumulative cases":288,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":288
+    },
+    {
+        "epi_date":"6\/23\/2022",
+        "cases":33,
+        "7-day average":19.28571429,
+        "cumulative cases":321,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":321
+    },
+    {
+        "epi_date":"6\/24\/2022",
+        "cases":40,
+        "7-day average":22.14285714,
+        "cumulative cases":361,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":361
+    },
+    {
+        "epi_date":"6\/25\/2022",
+        "cases":28,
+        "7-day average":24.0,
+        "cumulative cases":389,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":389
+    },
+    {
+        "epi_date":"6\/26\/2022",
+        "cases":19,
+        "7-day average":24.57142857,
+        "cumulative cases":408,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":408
+    },
+    {
+        "epi_date":"6\/27\/2022",
+        "cases":58,
+        "7-day average":31.14285714,
+        "cumulative cases":466,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":466
+    },
+    {
+        "epi_date":"6\/28\/2022",
+        "cases":59,
+        "7-day average":37.0,
+        "cumulative cases":525,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":525
+    },
+    {
+        "epi_date":"6\/29\/2022",
+        "cases":65,
+        "7-day average":43.14285714,
+        "cumulative cases":590,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":590
+    },
+    {
+        "epi_date":"6\/30\/2022",
+        "cases":72,
+        "7-day average":48.71428571,
+        "cumulative cases":662,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":662
+    },
+    {
+        "epi_date":"7\/1\/2022",
+        "cases":58,
+        "7-day average":51.28571429,
+        "cumulative cases":720,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":720
+    },
+    {
+        "epi_date":"7\/2\/2022",
+        "cases":47,
+        "7-day average":54.0,
+        "cumulative cases":767,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":767
+    },
+    {
+        "epi_date":"7\/3\/2022",
+        "cases":44,
+        "7-day average":57.57142857,
+        "cumulative cases":811,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":811
+    },
+    {
+        "epi_date":"7\/4\/2022",
+        "cases":41,
+        "7-day average":55.14285714,
+        "cumulative cases":852,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":852
+    },
+    {
+        "epi_date":"7\/5\/2022",
+        "cases":90,
+        "7-day average":59.57142857,
+        "cumulative cases":942,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":942
+    },
+    {
+        "epi_date":"7\/6\/2022",
+        "cases":84,
+        "7-day average":62.28571429,
+        "cumulative cases":1026,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":1026
+    },
+    {
+        "epi_date":"7\/7\/2022",
+        "cases":89,
+        "7-day average":64.71428571,
+        "cumulative cases":1115,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":1115
+    },
+    {
+        "epi_date":"7\/8\/2022",
+        "cases":124,
+        "7-day average":74.14285714,
+        "cumulative cases":1239,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":1239
+    },
+    {
+        "epi_date":"7\/9\/2022",
+        "cases":78,
+        "7-day average":78.57142857,
+        "cumulative cases":1317,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":1317
+    },
+    {
+        "epi_date":"7\/10\/2022",
+        "cases":58,
+        "7-day average":80.57142857,
+        "cumulative cases":1375,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":1375
+    },
+    {
+        "epi_date":"7\/11\/2022",
+        "cases":184,
+        "7-day average":101.0,
+        "cumulative cases":1559,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":1559
+    },
+    {
+        "epi_date":"7\/12\/2022",
+        "cases":176,
+        "7-day average":113.2857143,
+        "cumulative cases":1735,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":1735
+    },
+    {
+        "epi_date":"7\/13\/2022",
+        "cases":175,
+        "7-day average":126.2857143,
+        "cumulative cases":1910,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":1910
+    },
+    {
+        "epi_date":"7\/14\/2022",
+        "cases":199,
+        "7-day average":142.0,
+        "cumulative cases":2109,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":2109
+    },
+    {
+        "epi_date":"7\/15\/2022",
+        "cases":222,
+        "7-day average":156.0,
+        "cumulative cases":2331,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":2331
+    },
+    {
+        "epi_date":"7\/16\/2022",
+        "cases":132,
+        "7-day average":163.7142857,
+        "cumulative cases":2463,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":2463
+    },
+    {
+        "epi_date":"7\/17\/2022",
+        "cases":62,
+        "7-day average":164.2857143,
+        "cumulative cases":2525,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":2525
+    },
+    {
+        "epi_date":"7\/18\/2022",
+        "cases":275,
+        "7-day average":177.2857143,
+        "cumulative cases":2800,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":2800
+    },
+    {
+        "epi_date":"7\/19\/2022",
+        "cases":282,
+        "7-day average":192.4285714,
+        "cumulative cases":3082,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":3082
+    },
+    {
+        "epi_date":"7\/20\/2022",
+        "cases":298,
+        "7-day average":210.0,
+        "cumulative cases":3380,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":3380
+    },
+    {
+        "epi_date":"7\/21\/2022",
+        "cases":250,
+        "7-day average":217.2857143,
+        "cumulative cases":3630,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":3630
+    },
+    {
+        "epi_date":"7\/22\/2022",
+        "cases":351,
+        "7-day average":235.7142857,
+        "cumulative cases":3981,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":3981
+    },
+    {
+        "epi_date":"7\/23\/2022",
+        "cases":166,
+        "7-day average":240.5714286,
+        "cumulative cases":4147,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":4147
+    },
+    {
+        "epi_date":"7\/24\/2022",
+        "cases":85,
+        "7-day average":243.8571429,
+        "cumulative cases":4232,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":4232
+    },
+    {
+        "epi_date":"7\/25\/2022",
+        "cases":509,
+        "7-day average":277.2857143,
+        "cumulative cases":4741,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":4741
+    },
+    {
+        "epi_date":"7\/26\/2022",
+        "cases":362,
+        "7-day average":288.7142857,
+        "cumulative cases":5103,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":5103
+    },
+    {
+        "epi_date":"7\/27\/2022",
+        "cases":472,
+        "7-day average":313.5714286,
+        "cumulative cases":5575,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":5575
+    },
+    {
+        "epi_date":"7\/28\/2022",
+        "cases":346,
+        "7-day average":327.2857143,
+        "cumulative cases":5921,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":5921
+    },
+    {
+        "epi_date":"7\/29\/2022",
+        "cases":395,
+        "7-day average":333.5714286,
+        "cumulative cases":6316,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":6316
+    },
+    {
+        "epi_date":"7\/30\/2022",
+        "cases":211,
+        "7-day average":340.0,
+        "cumulative cases":6527,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":6527
+    },
+    {
+        "epi_date":"7\/31\/2022",
+        "cases":140,
+        "7-day average":347.8571429,
+        "cumulative cases":6667,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":6667
+    },
+    {
+        "epi_date":"8\/1\/2022",
+        "cases":611,
+        "7-day average":362.4285714,
+        "cumulative cases":7278,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":7278
+    },
+    {
+        "epi_date":"8\/2\/2022",
+        "cases":442,
+        "7-day average":373.8571429,
+        "cumulative cases":7720,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":7720
+    },
+    {
+        "epi_date":"8\/3\/2022",
+        "cases":531,
+        "7-day average":382.2857143,
+        "cumulative cases":8251,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":8251
+    },
+    {
+        "epi_date":"8\/4\/2022",
+        "cases":531,
+        "7-day average":408.7142857,
+        "cumulative cases":8782,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":8782
+    },
+    {
+        "epi_date":"8\/5\/2022",
+        "cases":439,
+        "7-day average":415.0,
+        "cumulative cases":9221,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":9221
+    },
+    {
+        "epi_date":"8\/6\/2022",
+        "cases":151,
+        "7-day average":406.4285714,
+        "cumulative cases":9372,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":9372
+    },
+    {
+        "epi_date":"8\/7\/2022",
+        "cases":136,
+        "7-day average":405.8571429,
+        "cumulative cases":9508,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":9508
+    },
+    {
+        "epi_date":"8\/8\/2022",
+        "cases":792,
+        "7-day average":431.7142857,
+        "cumulative cases":10300,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":10300
+    },
+    {
+        "epi_date":"8\/9\/2022",
+        "cases":472,
+        "7-day average":436.0,
+        "cumulative cases":10772,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":10772
+    },
+    {
+        "epi_date":"8\/10\/2022",
+        "cases":669,
+        "7-day average":455.7142857,
+        "cumulative cases":11441,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":11441
+    },
+    {
+        "epi_date":"8\/11\/2022",
+        "cases":399,
+        "7-day average":436.8571429,
+        "cumulative cases":11840,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":11840
+    },
+    {
+        "epi_date":"8\/12\/2022",
+        "cases":498,
+        "7-day average":445.2857143,
+        "cumulative cases":12338,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":12338
+    },
+    {
+        "epi_date":"8\/13\/2022",
+        "cases":187,
+        "7-day average":450.4285714,
+        "cumulative cases":12525,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":12525
+    },
+    {
+        "epi_date":"8\/14\/2022",
+        "cases":150,
+        "7-day average":452.4285714,
+        "cumulative cases":12675,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":12675
+    },
+    {
+        "epi_date":"8\/15\/2022",
+        "cases":804,
+        "7-day average":454.1428571,
+        "cumulative cases":13479,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":13479
+    },
+    {
+        "epi_date":"8\/16\/2022",
+        "cases":414,
+        "7-day average":445.8571429,
+        "cumulative cases":13893,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":13893
+    },
+    {
+        "epi_date":"8\/17\/2022",
+        "cases":421,
+        "7-day average":410.4285714,
+        "cumulative cases":14314,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":14314
+    },
+    {
+        "epi_date":"8\/18\/2022",
+        "cases":426,
+        "7-day average":414.2857143,
+        "cumulative cases":14740,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":14740
+    },
+    {
+        "epi_date":"8\/19\/2022",
+        "cases":431,
+        "7-day average":404.7142857,
+        "cumulative cases":15171,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":15171
+    },
+    {
+        "epi_date":"8\/20\/2022",
+        "cases":160,
+        "7-day average":400.8571429,
+        "cumulative cases":15331,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":15331
+    },
+    {
+        "epi_date":"8\/21\/2022",
+        "cases":107,
+        "7-day average":394.7142857,
+        "cumulative cases":15438,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":15438
+    },
+    {
+        "epi_date":"8\/22\/2022",
+        "cases":916,
+        "7-day average":410.7142857,
+        "cumulative cases":16354,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":16354
+    },
+    {
+        "epi_date":"8\/23\/2022",
+        "cases":623,
+        "7-day average":440.5714286,
+        "cumulative cases":16977,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":16977
+    },
+    {
+        "epi_date":"8\/24\/2022",
+        "cases":350,
+        "7-day average":430.4285714,
+        "cumulative cases":17327,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":17327
+    },
+    {
+        "epi_date":"8\/25\/2022",
+        "cases":473,
+        "7-day average":437.1428571,
+        "cumulative cases":17800,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":17800
+    },
+    {
+        "epi_date":"8\/26\/2022",
+        "cases":341,
+        "7-day average":424.2857143,
+        "cumulative cases":18141,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":18141
+    },
+    {
+        "epi_date":"8\/27\/2022",
+        "cases":96,
+        "7-day average":415.1428571,
+        "cumulative cases":18237,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":18237
+    },
+    {
+        "epi_date":"8\/28\/2022",
+        "cases":61,
+        "7-day average":408.5714286,
+        "cumulative cases":18298,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":18298
+    },
+    {
+        "epi_date":"8\/29\/2022",
+        "cases":571,
+        "7-day average":359.2857143,
+        "cumulative cases":18869,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":18869
+    },
+    {
+        "epi_date":"8\/30\/2022",
+        "cases":425,
+        "7-day average":331.0,
+        "cumulative cases":19294,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":19294
+    },
+    {
+        "epi_date":"8\/31\/2022",
+        "cases":297,
+        "7-day average":323.4285714,
+        "cumulative cases":19591,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":19591
+    },
+    {
+        "epi_date":"9\/1\/2022",
+        "cases":578,
+        "7-day average":338.4285714,
+        "cumulative cases":20169,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":20169
+    },
+    {
+        "epi_date":"9\/2\/2022",
+        "cases":396,
+        "7-day average":346.2857143,
+        "cumulative cases":20565,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":20565
+    },
+    {
+        "epi_date":"9\/3\/2022",
+        "cases":70,
+        "7-day average":342.5714286,
+        "cumulative cases":20635,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":20635
+    },
+    {
+        "epi_date":"9\/4\/2022",
+        "cases":42,
+        "7-day average":339.8571429,
+        "cumulative cases":20677,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":20677
+    },
+    {
+        "epi_date":"9\/5\/2022",
+        "cases":51,
+        "7-day average":265.5714286,
+        "cumulative cases":20728,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":20728
+    },
+    {
+        "epi_date":"9\/6\/2022",
+        "cases":697,
+        "7-day average":304.4285714,
+        "cumulative cases":21425,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":21425
+    },
+    {
+        "epi_date":"9\/7\/2022",
+        "cases":244,
+        "7-day average":296.8571429,
+        "cumulative cases":21669,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":21669
+    },
+    {
+        "epi_date":"9\/8\/2022",
+        "cases":261,
+        "7-day average":251.5714286,
+        "cumulative cases":21930,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":21930
+    },
+    {
+        "epi_date":"9\/9\/2022",
+        "cases":251,
+        "7-day average":230.8571429,
+        "cumulative cases":22181,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":22181
+    },
+    {
+        "epi_date":"9\/10\/2022",
+        "cases":45,
+        "7-day average":227.2857143,
+        "cumulative cases":22226,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":22226
+    },
+    {
+        "epi_date":"9\/11\/2022",
+        "cases":32,
+        "7-day average":225.8571429,
+        "cumulative cases":22258,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":22258
+    },
+    {
+        "epi_date":"9\/12\/2022",
+        "cases":311,
+        "7-day average":263.0,
+        "cumulative cases":22569,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":22569
+    },
+    {
+        "epi_date":"9\/13\/2022",
+        "cases":234,
+        "7-day average":196.8571429,
+        "cumulative cases":22803,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":22803
+    },
+    {
+        "epi_date":"9\/14\/2022",
+        "cases":198,
+        "7-day average":190.2857143,
+        "cumulative cases":23001,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":23001
+    },
+    {
+        "epi_date":"9\/15\/2022",
+        "cases":189,
+        "7-day average":180.0,
+        "cumulative cases":23190,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":23190
+    },
+    {
+        "epi_date":"9\/16\/2022",
+        "cases":268,
+        "7-day average":182.4285714,
+        "cumulative cases":23458,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":23458
+    },
+    {
+        "epi_date":"9\/17\/2022",
+        "cases":17,
+        "7-day average":178.4285714,
+        "cumulative cases":23475,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":23475
+    },
+    {
+        "epi_date":"9\/18\/2022",
+        "cases":23,
+        "7-day average":177.1428571,
+        "cumulative cases":23498,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":23498
+    },
+    {
+        "epi_date":"9\/19\/2022",
+        "cases":332,
+        "7-day average":180.1428571,
+        "cumulative cases":23830,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":23830
+    },
+    {
+        "epi_date":"9\/20\/2022",
+        "cases":485,
+        "7-day average":216.0,
+        "cumulative cases":24315,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":24315
+    },
+    {
+        "epi_date":"9\/21\/2022",
+        "cases":66,
+        "7-day average":197.1428571,
+        "cumulative cases":24381,
+        "asof":"Data as of 09\/21\/2022",
+        "cumulative_sum":24381
+    }
+]
