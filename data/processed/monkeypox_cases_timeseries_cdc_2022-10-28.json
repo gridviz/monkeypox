@@ -1,0 +1,1362 @@
+[
+    {
+        "epi_date_v2":"5\/10\/2022",
+        "cases":1,
+        "7-day average":0.0,
+        "cumulative cases":1,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":1
+    },
+    {
+        "epi_date_v2":"5\/11\/2022",
+        "cases":1,
+        "7-day average":0.0,
+        "cumulative cases":2,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":2
+    },
+    {
+        "epi_date_v2":"5\/12\/2022",
+        "cases":2,
+        "7-day average":0.0,
+        "cumulative cases":4,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":4
+    },
+    {
+        "epi_date_v2":"5\/13\/2022",
+        "cases":0,
+        "7-day average":0.0,
+        "cumulative cases":4,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":4
+    },
+    {
+        "epi_date_v2":"5\/14\/2022",
+        "cases":0,
+        "7-day average":0.0,
+        "cumulative cases":4,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":4
+    },
+    {
+        "epi_date_v2":"5\/15\/2022",
+        "cases":1,
+        "7-day average":0.0,
+        "cumulative cases":5,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":5
+    },
+    {
+        "epi_date_v2":"5\/16\/2022",
+        "cases":4,
+        "7-day average":1.285714286,
+        "cumulative cases":9,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":9
+    },
+    {
+        "epi_date_v2":"5\/17\/2022",
+        "cases":3,
+        "7-day average":1.571428571,
+        "cumulative cases":12,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":12
+    },
+    {
+        "epi_date_v2":"5\/18\/2022",
+        "cases":1,
+        "7-day average":1.571428571,
+        "cumulative cases":13,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":13
+    },
+    {
+        "epi_date_v2":"5\/19\/2022",
+        "cases":2,
+        "7-day average":1.571428571,
+        "cumulative cases":15,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":15
+    },
+    {
+        "epi_date_v2":"5\/20\/2022",
+        "cases":1,
+        "7-day average":1.714285714,
+        "cumulative cases":16,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":16
+    },
+    {
+        "epi_date_v2":"5\/21\/2022",
+        "cases":1,
+        "7-day average":1.857142857,
+        "cumulative cases":17,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":17
+    },
+    {
+        "epi_date_v2":"5\/22\/2022",
+        "cases":1,
+        "7-day average":1.857142857,
+        "cumulative cases":18,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":18
+    },
+    {
+        "epi_date_v2":"5\/23\/2022",
+        "cases":2,
+        "7-day average":1.571428571,
+        "cumulative cases":20,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":20
+    },
+    {
+        "epi_date_v2":"5\/24\/2022",
+        "cases":3,
+        "7-day average":1.571428571,
+        "cumulative cases":23,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":23
+    },
+    {
+        "epi_date_v2":"5\/25\/2022",
+        "cases":4,
+        "7-day average":2.0,
+        "cumulative cases":27,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":27
+    },
+    {
+        "epi_date_v2":"5\/26\/2022",
+        "cases":1,
+        "7-day average":1.857142857,
+        "cumulative cases":28,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":28
+    },
+    {
+        "epi_date_v2":"5\/27\/2022",
+        "cases":4,
+        "7-day average":2.285714286,
+        "cumulative cases":32,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":32
+    },
+    {
+        "epi_date_v2":"5\/28\/2022",
+        "cases":0,
+        "7-day average":2.142857143,
+        "cumulative cases":32,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":32
+    },
+    {
+        "epi_date_v2":"5\/29\/2022",
+        "cases":4,
+        "7-day average":2.571428571,
+        "cumulative cases":36,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":36
+    },
+    {
+        "epi_date_v2":"5\/30\/2022",
+        "cases":5,
+        "7-day average":3.0,
+        "cumulative cases":41,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":41
+    },
+    {
+        "epi_date_v2":"5\/31\/2022",
+        "cases":6,
+        "7-day average":3.428571429,
+        "cumulative cases":47,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":47
+    },
+    {
+        "epi_date_v2":"6\/1\/2022",
+        "cases":6,
+        "7-day average":3.714285714,
+        "cumulative cases":53,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":53
+    },
+    {
+        "epi_date_v2":"6\/2\/2022",
+        "cases":9,
+        "7-day average":4.857142857,
+        "cumulative cases":62,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":62
+    },
+    {
+        "epi_date_v2":"6\/3\/2022",
+        "cases":6,
+        "7-day average":5.142857143,
+        "cumulative cases":68,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":68
+    },
+    {
+        "epi_date_v2":"6\/4\/2022",
+        "cases":3,
+        "7-day average":5.571428571,
+        "cumulative cases":71,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":71
+    },
+    {
+        "epi_date_v2":"6\/5\/2022",
+        "cases":5,
+        "7-day average":5.714285714,
+        "cumulative cases":76,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":76
+    },
+    {
+        "epi_date_v2":"6\/6\/2022",
+        "cases":12,
+        "7-day average":6.714285714,
+        "cumulative cases":88,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":88
+    },
+    {
+        "epi_date_v2":"6\/7\/2022",
+        "cases":17,
+        "7-day average":8.285714286,
+        "cumulative cases":105,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":105
+    },
+    {
+        "epi_date_v2":"6\/8\/2022",
+        "cases":6,
+        "7-day average":8.285714286,
+        "cumulative cases":111,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":111
+    },
+    {
+        "epi_date_v2":"6\/9\/2022",
+        "cases":4,
+        "7-day average":7.571428571,
+        "cumulative cases":115,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":115
+    },
+    {
+        "epi_date_v2":"6\/10\/2022",
+        "cases":20,
+        "7-day average":9.571428571,
+        "cumulative cases":135,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":135
+    },
+    {
+        "epi_date_v2":"6\/11\/2022",
+        "cases":13,
+        "7-day average":11.0,
+        "cumulative cases":148,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":148
+    },
+    {
+        "epi_date_v2":"6\/12\/2022",
+        "cases":17,
+        "7-day average":12.71428571,
+        "cumulative cases":165,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":165
+    },
+    {
+        "epi_date_v2":"6\/13\/2022",
+        "cases":14,
+        "7-day average":13.0,
+        "cumulative cases":179,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":179
+    },
+    {
+        "epi_date_v2":"6\/14\/2022",
+        "cases":23,
+        "7-day average":13.85714286,
+        "cumulative cases":202,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":202
+    },
+    {
+        "epi_date_v2":"6\/15\/2022",
+        "cases":28,
+        "7-day average":17.0,
+        "cumulative cases":230,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":230
+    },
+    {
+        "epi_date_v2":"6\/16\/2022",
+        "cases":20,
+        "7-day average":19.28571429,
+        "cumulative cases":250,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":250
+    },
+    {
+        "epi_date_v2":"6\/17\/2022",
+        "cases":22,
+        "7-day average":19.57142857,
+        "cumulative cases":272,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":272
+    },
+    {
+        "epi_date_v2":"6\/18\/2022",
+        "cases":22,
+        "7-day average":20.85714286,
+        "cumulative cases":294,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":294
+    },
+    {
+        "epi_date_v2":"6\/19\/2022",
+        "cases":24,
+        "7-day average":21.85714286,
+        "cumulative cases":318,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":318
+    },
+    {
+        "epi_date_v2":"6\/20\/2022",
+        "cases":24,
+        "7-day average":23.28571429,
+        "cumulative cases":342,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":342
+    },
+    {
+        "epi_date_v2":"6\/21\/2022",
+        "cases":26,
+        "7-day average":23.71428571,
+        "cumulative cases":368,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":368
+    },
+    {
+        "epi_date_v2":"6\/22\/2022",
+        "cases":40,
+        "7-day average":25.42857143,
+        "cumulative cases":408,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":408
+    },
+    {
+        "epi_date_v2":"6\/23\/2022",
+        "cases":42,
+        "7-day average":28.57142857,
+        "cumulative cases":450,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":450
+    },
+    {
+        "epi_date_v2":"6\/24\/2022",
+        "cases":43,
+        "7-day average":31.57142857,
+        "cumulative cases":493,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":493
+    },
+    {
+        "epi_date_v2":"6\/25\/2022",
+        "cases":43,
+        "7-day average":34.57142857,
+        "cumulative cases":536,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":536
+    },
+    {
+        "epi_date_v2":"6\/26\/2022",
+        "cases":47,
+        "7-day average":37.85714286,
+        "cumulative cases":583,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":583
+    },
+    {
+        "epi_date_v2":"6\/27\/2022",
+        "cases":94,
+        "7-day average":47.85714286,
+        "cumulative cases":677,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":677
+    },
+    {
+        "epi_date_v2":"6\/28\/2022",
+        "cases":80,
+        "7-day average":55.57142857,
+        "cumulative cases":757,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":757
+    },
+    {
+        "epi_date_v2":"6\/29\/2022",
+        "cases":76,
+        "7-day average":60.71428571,
+        "cumulative cases":833,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":833
+    },
+    {
+        "epi_date_v2":"6\/30\/2022",
+        "cases":99,
+        "7-day average":68.85714286,
+        "cumulative cases":932,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":932
+    },
+    {
+        "epi_date_v2":"7\/1\/2022",
+        "cases":118,
+        "7-day average":79.57142857,
+        "cumulative cases":1050,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":1050
+    },
+    {
+        "epi_date_v2":"7\/2\/2022",
+        "cases":102,
+        "7-day average":88.0,
+        "cumulative cases":1152,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":1152
+    },
+    {
+        "epi_date_v2":"7\/3\/2022",
+        "cases":100,
+        "7-day average":95.57142857,
+        "cumulative cases":1252,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":1252
+    },
+    {
+        "epi_date_v2":"7\/4\/2022",
+        "cases":106,
+        "7-day average":97.28571429,
+        "cumulative cases":1358,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":1358
+    },
+    {
+        "epi_date_v2":"7\/5\/2022",
+        "cases":153,
+        "7-day average":107.7142857,
+        "cumulative cases":1511,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":1511
+    },
+    {
+        "epi_date_v2":"7\/6\/2022",
+        "cases":157,
+        "7-day average":119.2857143,
+        "cumulative cases":1668,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":1668
+    },
+    {
+        "epi_date_v2":"7\/7\/2022",
+        "cases":166,
+        "7-day average":128.8571429,
+        "cumulative cases":1834,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":1834
+    },
+    {
+        "epi_date_v2":"7\/8\/2022",
+        "cases":198,
+        "7-day average":140.2857143,
+        "cumulative cases":2032,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":2032
+    },
+    {
+        "epi_date_v2":"7\/9\/2022",
+        "cases":151,
+        "7-day average":147.2857143,
+        "cumulative cases":2183,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":2183
+    },
+    {
+        "epi_date_v2":"7\/10\/2022",
+        "cases":139,
+        "7-day average":152.8571429,
+        "cumulative cases":2322,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":2322
+    },
+    {
+        "epi_date_v2":"7\/11\/2022",
+        "cases":299,
+        "7-day average":180.4285714,
+        "cumulative cases":2621,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":2621
+    },
+    {
+        "epi_date_v2":"7\/12\/2022",
+        "cases":212,
+        "7-day average":188.8571429,
+        "cumulative cases":2833,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":2833
+    },
+    {
+        "epi_date_v2":"7\/13\/2022",
+        "cases":273,
+        "7-day average":205.4285714,
+        "cumulative cases":3106,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":3106
+    },
+    {
+        "epi_date_v2":"7\/14\/2022",
+        "cases":263,
+        "7-day average":219.2857143,
+        "cumulative cases":3369,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":3369
+    },
+    {
+        "epi_date_v2":"7\/15\/2022",
+        "cases":345,
+        "7-day average":240.2857143,
+        "cumulative cases":3714,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":3714
+    },
+    {
+        "epi_date_v2":"7\/16\/2022",
+        "cases":206,
+        "7-day average":248.1428571,
+        "cumulative cases":3920,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":3920
+    },
+    {
+        "epi_date_v2":"7\/17\/2022",
+        "cases":174,
+        "7-day average":253.1428571,
+        "cumulative cases":4094,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":4094
+    },
+    {
+        "epi_date_v2":"7\/18\/2022",
+        "cases":373,
+        "7-day average":263.7142857,
+        "cumulative cases":4467,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":4467
+    },
+    {
+        "epi_date_v2":"7\/19\/2022",
+        "cases":309,
+        "7-day average":277.5714286,
+        "cumulative cases":4776,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":4776
+    },
+    {
+        "epi_date_v2":"7\/20\/2022",
+        "cases":315,
+        "7-day average":283.5714286,
+        "cumulative cases":5091,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":5091
+    },
+    {
+        "epi_date_v2":"7\/21\/2022",
+        "cases":301,
+        "7-day average":289.0,
+        "cumulative cases":5392,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":5392
+    },
+    {
+        "epi_date_v2":"7\/22\/2022",
+        "cases":372,
+        "7-day average":292.8571429,
+        "cumulative cases":5764,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":5764
+    },
+    {
+        "epi_date_v2":"7\/23\/2022",
+        "cases":250,
+        "7-day average":299.1428571,
+        "cumulative cases":6014,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":6014
+    },
+    {
+        "epi_date_v2":"7\/24\/2022",
+        "cases":230,
+        "7-day average":307.1428571,
+        "cumulative cases":6244,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":6244
+    },
+    {
+        "epi_date_v2":"7\/25\/2022",
+        "cases":532,
+        "7-day average":329.8571429,
+        "cumulative cases":6776,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":6776
+    },
+    {
+        "epi_date_v2":"7\/26\/2022",
+        "cases":355,
+        "7-day average":336.4285714,
+        "cumulative cases":7131,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":7131
+    },
+    {
+        "epi_date_v2":"7\/27\/2022",
+        "cases":471,
+        "7-day average":358.7142857,
+        "cumulative cases":7602,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":7602
+    },
+    {
+        "epi_date_v2":"7\/28\/2022",
+        "cases":428,
+        "7-day average":376.8571429,
+        "cumulative cases":8030,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":8030
+    },
+    {
+        "epi_date_v2":"7\/29\/2022",
+        "cases":461,
+        "7-day average":389.5714286,
+        "cumulative cases":8491,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":8491
+    },
+    {
+        "epi_date_v2":"7\/30\/2022",
+        "cases":312,
+        "7-day average":398.4285714,
+        "cumulative cases":8803,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":8803
+    },
+    {
+        "epi_date_v2":"7\/31\/2022",
+        "cases":261,
+        "7-day average":402.8571429,
+        "cumulative cases":9064,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":9064
+    },
+    {
+        "epi_date_v2":"8\/1\/2022",
+        "cases":569,
+        "7-day average":408.1428571,
+        "cumulative cases":9633,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":9633
+    },
+    {
+        "epi_date_v2":"8\/2\/2022",
+        "cases":507,
+        "7-day average":429.8571429,
+        "cumulative cases":10140,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":10140
+    },
+    {
+        "epi_date_v2":"8\/3\/2022",
+        "cases":488,
+        "7-day average":432.2857143,
+        "cumulative cases":10628,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":10628
+    },
+    {
+        "epi_date_v2":"8\/4\/2022",
+        "cases":450,
+        "7-day average":435.4285714,
+        "cumulative cases":11078,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":11078
+    },
+    {
+        "epi_date_v2":"8\/5\/2022",
+        "cases":494,
+        "7-day average":440.1428571,
+        "cumulative cases":11572,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":11572
+    },
+    {
+        "epi_date_v2":"8\/6\/2022",
+        "cases":346,
+        "7-day average":445.0,
+        "cumulative cases":11918,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":11918
+    },
+    {
+        "epi_date_v2":"8\/7\/2022",
+        "cases":269,
+        "7-day average":446.1428571,
+        "cumulative cases":12187,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":12187
+    },
+    {
+        "epi_date_v2":"8\/8\/2022",
+        "cases":552,
+        "7-day average":443.7142857,
+        "cumulative cases":12739,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":12739
+    },
+    {
+        "epi_date_v2":"8\/9\/2022",
+        "cases":462,
+        "7-day average":437.2857143,
+        "cumulative cases":13201,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":13201
+    },
+    {
+        "epi_date_v2":"8\/10\/2022",
+        "cases":517,
+        "7-day average":441.4285714,
+        "cumulative cases":13718,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":13718
+    },
+    {
+        "epi_date_v2":"8\/11\/2022",
+        "cases":429,
+        "7-day average":438.4285714,
+        "cumulative cases":14147,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":14147
+    },
+    {
+        "epi_date_v2":"8\/12\/2022",
+        "cases":432,
+        "7-day average":429.5714286,
+        "cumulative cases":14579,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":14579
+    },
+    {
+        "epi_date_v2":"8\/13\/2022",
+        "cases":304,
+        "7-day average":423.5714286,
+        "cumulative cases":14883,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":14883
+    },
+    {
+        "epi_date_v2":"8\/14\/2022",
+        "cases":262,
+        "7-day average":422.5714286,
+        "cumulative cases":15145,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":15145
+    },
+    {
+        "epi_date_v2":"8\/15\/2022",
+        "cases":556,
+        "7-day average":423.1428571,
+        "cumulative cases":15701,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":15701
+    },
+    {
+        "epi_date_v2":"8\/16\/2022",
+        "cases":379,
+        "7-day average":411.2857143,
+        "cumulative cases":16080,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":16080
+    },
+    {
+        "epi_date_v2":"8\/17\/2022",
+        "cases":370,
+        "7-day average":390.2857143,
+        "cumulative cases":16450,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":16450
+    },
+    {
+        "epi_date_v2":"8\/18\/2022",
+        "cases":440,
+        "7-day average":391.8571429,
+        "cumulative cases":16890,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":16890
+    },
+    {
+        "epi_date_v2":"8\/19\/2022",
+        "cases":434,
+        "7-day average":392.1428571,
+        "cumulative cases":17324,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":17324
+    },
+    {
+        "epi_date_v2":"8\/20\/2022",
+        "cases":282,
+        "7-day average":389.0,
+        "cumulative cases":17606,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":17606
+    },
+    {
+        "epi_date_v2":"8\/21\/2022",
+        "cases":200,
+        "7-day average":380.1428571,
+        "cumulative cases":17806,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":17806
+    },
+    {
+        "epi_date_v2":"8\/22\/2022",
+        "cases":429,
+        "7-day average":362.0,
+        "cumulative cases":18235,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":18235
+    },
+    {
+        "epi_date_v2":"8\/23\/2022",
+        "cases":414,
+        "7-day average":367.0,
+        "cumulative cases":18649,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":18649
+    },
+    {
+        "epi_date_v2":"8\/24\/2022",
+        "cases":322,
+        "7-day average":360.1428571,
+        "cumulative cases":18971,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":18971
+    },
+    {
+        "epi_date_v2":"8\/25\/2022",
+        "cases":358,
+        "7-day average":348.4285714,
+        "cumulative cases":19329,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":19329
+    },
+    {
+        "epi_date_v2":"8\/26\/2022",
+        "cases":364,
+        "7-day average":338.4285714,
+        "cumulative cases":19693,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":19693
+    },
+    {
+        "epi_date_v2":"8\/27\/2022",
+        "cases":175,
+        "7-day average":323.1428571,
+        "cumulative cases":19868,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":19868
+    },
+    {
+        "epi_date_v2":"8\/28\/2022",
+        "cases":173,
+        "7-day average":319.2857143,
+        "cumulative cases":20041,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":20041
+    },
+    {
+        "epi_date_v2":"8\/29\/2022",
+        "cases":405,
+        "7-day average":315.8571429,
+        "cumulative cases":20446,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":20446
+    },
+    {
+        "epi_date_v2":"8\/30\/2022",
+        "cases":328,
+        "7-day average":303.5714286,
+        "cumulative cases":20774,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":20774
+    },
+    {
+        "epi_date_v2":"8\/31\/2022",
+        "cases":277,
+        "7-day average":297.1428571,
+        "cumulative cases":21051,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":21051
+    },
+    {
+        "epi_date_v2":"9\/1\/2022",
+        "cases":348,
+        "7-day average":295.7142857,
+        "cumulative cases":21399,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":21399
+    },
+    {
+        "epi_date_v2":"9\/2\/2022",
+        "cases":334,
+        "7-day average":291.4285714,
+        "cumulative cases":21733,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":21733
+    },
+    {
+        "epi_date_v2":"9\/3\/2022",
+        "cases":151,
+        "7-day average":288.0,
+        "cumulative cases":21884,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":21884
+    },
+    {
+        "epi_date_v2":"9\/4\/2022",
+        "cases":122,
+        "7-day average":280.7142857,
+        "cumulative cases":22006,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":22006
+    },
+    {
+        "epi_date_v2":"9\/5\/2022",
+        "cases":170,
+        "7-day average":247.1428571,
+        "cumulative cases":22176,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":22176
+    },
+    {
+        "epi_date_v2":"9\/6\/2022",
+        "cases":421,
+        "7-day average":260.4285714,
+        "cumulative cases":22597,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":22597
+    },
+    {
+        "epi_date_v2":"9\/7\/2022",
+        "cases":237,
+        "7-day average":254.7142857,
+        "cumulative cases":22834,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":22834
+    },
+    {
+        "epi_date_v2":"9\/8\/2022",
+        "cases":254,
+        "7-day average":241.2857143,
+        "cumulative cases":23088,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":23088
+    },
+    {
+        "epi_date_v2":"9\/9\/2022",
+        "cases":253,
+        "7-day average":229.7142857,
+        "cumulative cases":23341,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":23341
+    },
+    {
+        "epi_date_v2":"9\/10\/2022",
+        "cases":117,
+        "7-day average":224.8571429,
+        "cumulative cases":23458,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":23458
+    },
+    {
+        "epi_date_v2":"9\/11\/2022",
+        "cases":93,
+        "7-day average":220.7142857,
+        "cumulative cases":23551,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":23551
+    },
+    {
+        "epi_date_v2":"9\/12\/2022",
+        "cases":198,
+        "7-day average":224.7142857,
+        "cumulative cases":23749,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":23749
+    },
+    {
+        "epi_date_v2":"9\/13\/2022",
+        "cases":236,
+        "7-day average":198.2857143,
+        "cumulative cases":23985,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":23985
+    },
+    {
+        "epi_date_v2":"9\/14\/2022",
+        "cases":173,
+        "7-day average":189.1428571,
+        "cumulative cases":24158,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":24158
+    },
+    {
+        "epi_date_v2":"9\/15\/2022",
+        "cases":185,
+        "7-day average":179.2857143,
+        "cumulative cases":24343,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":24343
+    },
+    {
+        "epi_date_v2":"9\/16\/2022",
+        "cases":198,
+        "7-day average":171.4285714,
+        "cumulative cases":24541,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":24541
+    },
+    {
+        "epi_date_v2":"9\/17\/2022",
+        "cases":110,
+        "7-day average":170.4285714,
+        "cumulative cases":24651,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":24651
+    },
+    {
+        "epi_date_v2":"9\/18\/2022",
+        "cases":91,
+        "7-day average":170.1428571,
+        "cumulative cases":24742,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":24742
+    },
+    {
+        "epi_date_v2":"9\/19\/2022",
+        "cases":292,
+        "7-day average":183.5714286,
+        "cumulative cases":25034,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":25034
+    },
+    {
+        "epi_date_v2":"9\/20\/2022",
+        "cases":183,
+        "7-day average":176.0,
+        "cumulative cases":25217,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":25217
+    },
+    {
+        "epi_date_v2":"9\/21\/2022",
+        "cases":152,
+        "7-day average":173.0,
+        "cumulative cases":25369,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":25369
+    },
+    {
+        "epi_date_v2":"9\/22\/2022",
+        "cases":160,
+        "7-day average":169.4285714,
+        "cumulative cases":25529,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":25529
+    },
+    {
+        "epi_date_v2":"9\/23\/2022",
+        "cases":168,
+        "7-day average":165.1428571,
+        "cumulative cases":25697,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":25697
+    },
+    {
+        "epi_date_v2":"9\/24\/2022",
+        "cases":74,
+        "7-day average":160.0,
+        "cumulative cases":25771,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":25771
+    },
+    {
+        "epi_date_v2":"9\/25\/2022",
+        "cases":59,
+        "7-day average":155.4285714,
+        "cumulative cases":25830,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":25830
+    },
+    {
+        "epi_date_v2":"9\/26\/2022",
+        "cases":171,
+        "7-day average":138.1428571,
+        "cumulative cases":26001,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":26001
+    },
+    {
+        "epi_date_v2":"9\/27\/2022",
+        "cases":142,
+        "7-day average":132.2857143,
+        "cumulative cases":26143,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":26143
+    },
+    {
+        "epi_date_v2":"9\/28\/2022",
+        "cases":117,
+        "7-day average":127.2857143,
+        "cumulative cases":26260,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":26260
+    },
+    {
+        "epi_date_v2":"9\/29\/2022",
+        "cases":127,
+        "7-day average":122.5714286,
+        "cumulative cases":26387,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":26387
+    },
+    {
+        "epi_date_v2":"9\/30\/2022",
+        "cases":113,
+        "7-day average":114.7142857,
+        "cumulative cases":26500,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":26500
+    },
+    {
+        "epi_date_v2":"10\/1\/2022",
+        "cases":64,
+        "7-day average":113.2857143,
+        "cumulative cases":26564,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":26564
+    },
+    {
+        "epi_date_v2":"10\/2\/2022",
+        "cases":39,
+        "7-day average":110.4285714,
+        "cumulative cases":26603,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":26603
+    },
+    {
+        "epi_date_v2":"10\/3\/2022",
+        "cases":129,
+        "7-day average":104.4285714,
+        "cumulative cases":26732,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":26732
+    },
+    {
+        "epi_date_v2":"10\/4\/2022",
+        "cases":110,
+        "7-day average":99.85714286,
+        "cumulative cases":26842,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":26842
+    },
+    {
+        "epi_date_v2":"10\/5\/2022",
+        "cases":83,
+        "7-day average":95.0,
+        "cumulative cases":26925,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":26925
+    },
+    {
+        "epi_date_v2":"10\/6\/2022",
+        "cases":104,
+        "7-day average":91.71428571,
+        "cumulative cases":27029,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":27029
+    },
+    {
+        "epi_date_v2":"10\/7\/2022",
+        "cases":106,
+        "7-day average":90.71428571,
+        "cumulative cases":27135,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":27135
+    },
+    {
+        "epi_date_v2":"10\/8\/2022",
+        "cases":33,
+        "7-day average":86.28571429,
+        "cumulative cases":27168,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":27168
+    },
+    {
+        "epi_date_v2":"10\/9\/2022",
+        "cases":25,
+        "7-day average":84.28571429,
+        "cumulative cases":27193,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":27193
+    },
+    {
+        "epi_date_v2":"10\/10\/2022",
+        "cases":47,
+        "7-day average":72.57142857,
+        "cumulative cases":27240,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":27240
+    },
+    {
+        "epi_date_v2":"10\/11\/2022",
+        "cases":129,
+        "7-day average":75.28571429,
+        "cumulative cases":27369,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":27369
+    },
+    {
+        "epi_date_v2":"10\/12\/2022",
+        "cases":88,
+        "7-day average":76.0,
+        "cumulative cases":27457,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":27457
+    },
+    {
+        "epi_date_v2":"10\/13\/2022",
+        "cases":82,
+        "7-day average":72.85714286,
+        "cumulative cases":27539,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":27539
+    },
+    {
+        "epi_date_v2":"10\/14\/2022",
+        "cases":80,
+        "7-day average":69.14285714,
+        "cumulative cases":27619,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":27619
+    },
+    {
+        "epi_date_v2":"10\/15\/2022",
+        "cases":21,
+        "7-day average":67.42857143,
+        "cumulative cases":27640,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":27640
+    },
+    {
+        "epi_date_v2":"10\/16\/2022",
+        "cases":14,
+        "7-day average":65.85714286,
+        "cumulative cases":27654,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":27654
+    },
+    {
+        "epi_date_v2":"10\/17\/2022",
+        "cases":92,
+        "7-day average":72.28571429,
+        "cumulative cases":27746,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":27746
+    },
+    {
+        "epi_date_v2":"10\/18\/2022",
+        "cases":47,
+        "7-day average":60.57142857,
+        "cumulative cases":27793,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":27793
+    },
+    {
+        "epi_date_v2":"10\/19\/2022",
+        "cases":71,
+        "7-day average":58.14285714,
+        "cumulative cases":27864,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":27864
+    },
+    {
+        "epi_date_v2":"10\/20\/2022",
+        "cases":72,
+        "7-day average":56.71428571,
+        "cumulative cases":27936,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":27936
+    },
+    {
+        "epi_date_v2":"10\/21\/2022",
+        "cases":28,
+        "7-day average":49.28571429,
+        "cumulative cases":27964,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":27964
+    },
+    {
+        "epi_date_v2":"10\/22\/2022",
+        "cases":12,
+        "7-day average":48.0,
+        "cumulative cases":27976,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":27976
+    },
+    {
+        "epi_date_v2":"10\/23\/2022",
+        "cases":7,
+        "7-day average":47.0,
+        "cumulative cases":27983,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":27983
+    },
+    {
+        "epi_date_v2":"10\/24\/2022",
+        "cases":62,
+        "7-day average":42.71428571,
+        "cumulative cases":28045,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":28045
+    },
+    {
+        "epi_date_v2":"10\/25\/2022",
+        "cases":22,
+        "7-day average":39.14285714,
+        "cumulative cases":28067,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":28067
+    },
+    {
+        "epi_date_v2":"10\/26\/2022",
+        "cases":6,
+        "7-day average":29.85714286,
+        "cumulative cases":28073,
+        "asof":"Data as Reported to CDC as of 26 Oct 2022 2:00 PM EDT",
+        "cumulative_sum":28073
+    }
+]
