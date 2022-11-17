@@ -1,53 +1,53 @@
 location,cases,asof,state_fips,state_ap,state_postal,state,pop_acs_2020_5tr,cases_per_million,updated_date,updated_time,national_total
-Alabama,130,Data as of October 03 2022 at 2:00 pm EDT,01,Ala.,AL,Alabama,4893186,26.57,2022-11-16,5:30 AM,26046
-Alaska,5,Data as of October 03 2022 at 2:00 pm EDT,02,Alaska,AK,Alaska,736990,6.78,2022-11-16,5:30 AM,26046
-Arizona,474,Data as of October 03 2022 at 2:00 pm EDT,04,Ariz.,AZ,Arizona,7174064,66.07,2022-11-16,5:30 AM,26046
-Arkansas,59,Data as of October 03 2022 at 2:00 pm EDT,05,Ark.,AR,Arkansas,3011873,19.59,2022-11-16,5:30 AM,26046
-California,5010,Data as of October 03 2022 at 2:00 pm EDT,06,Calif.,CA,California,39346023,127.33,2022-11-16,5:30 AM,26046
-Colorado,278,Data as of October 03 2022 at 2:00 pm EDT,08,Colo.,CO,Colorado,5684926,48.9,2022-11-16,5:30 AM,26046
-Connecticut,126,Data as of October 03 2022 at 2:00 pm EDT,09,Conn.,CT,Connecticut,3570549,35.29,2022-11-16,5:30 AM,26046
-Delaware,38,Data as of October 03 2022 at 2:00 pm EDT,10,Del.,DE,Delaware,967679,39.27,2022-11-16,5:30 AM,26046
-District of Columbia,497,Data as of October 03 2022 at 2:00 pm EDT,11,D.C.,DC,District of Columbia,701974,708.0,2022-11-16,5:30 AM,26046
-Florida,2543,Data as of October 03 2022 at 2:00 pm EDT,12,Fla.,FL,Florida,21216924,119.86,2022-11-16,5:30 AM,26046
-Georgia,1815,Data as of October 03 2022 at 2:00 pm EDT,13,Ga.,GA,Georgia,10516579,172.58,2022-11-16,5:30 AM,26046
-Hawaii,34,Data as of October 03 2022 at 2:00 pm EDT,15,Hawaii,HI,Hawaii,1420074,23.94,2022-11-16,5:30 AM,26046
-Idaho,13,Data as of October 03 2022 at 2:00 pm EDT,16,Idaho,ID,Idaho,1754367,7.41,2022-11-16,5:30 AM,26046
-Illinois,1315,Data as of October 03 2022 at 2:00 pm EDT,17,Ill.,IL,Illinois,12716164,103.41,2022-11-16,5:30 AM,26046
-Indiana,234,Data as of October 03 2022 at 2:00 pm EDT,18,Ind.,IN,Indiana,6696893,34.94,2022-11-16,5:30 AM,26046
-Iowa,25,Data as of October 03 2022 at 2:00 pm EDT,19,Iowa,IA,Iowa,3150011,7.94,2022-11-16,5:30 AM,26046
-Kansas,14,Data as of October 03 2022 at 2:00 pm EDT,20,Kan.,KS,Kansas,2912619,4.81,2022-11-16,5:30 AM,26046
-Kentucky,56,Data as of October 03 2022 at 2:00 pm EDT,21,Ky.,KY,Kentucky,4461952,12.55,2022-11-16,5:30 AM,26046
-Louisiana,254,Data as of October 03 2022 at 2:00 pm EDT,22,La.,LA,Louisiana,4664616,54.45,2022-11-16,5:30 AM,26046
-Maine,9,Data as of October 03 2022 at 2:00 pm EDT,23,Maine,ME,Maine,1340825,6.71,2022-11-16,5:30 AM,26046
-Maryland,662,Data as of October 03 2022 at 2:00 pm EDT,24,Md.,MD,Maryland,6037624,109.65,2022-11-16,5:30 AM,26046
-Massachusetts,402,Data as of October 03 2022 at 2:00 pm EDT,25,Mass.,MA,Massachusetts,6873003,58.49,2022-11-16,5:30 AM,26046
-Michigan,266,Data as of October 03 2022 at 2:00 pm EDT,26,Mich.,MI,Michigan,9973907,26.67,2022-11-16,5:30 AM,26046
-Minnesota,202,Data as of October 03 2022 at 2:00 pm EDT,27,Minn.,MN,Minnesota,5600166,36.07,2022-11-16,5:30 AM,26046
-Mississippi,87,Data as of October 03 2022 at 2:00 pm EDT,28,Miss.,MS,Mississippi,2981835,29.18,2022-11-16,5:30 AM,26046
-Missouri,119,Data as of October 03 2022 at 2:00 pm EDT,29,Mo.,MO,Missouri,6124160,19.43,2022-11-16,5:30 AM,26046
-Montana,6,Data as of October 03 2022 at 2:00 pm EDT,30,Mont.,MT,Montana,1061705,5.65,2022-11-16,5:30 AM,26046
-Nebraska,29,Data as of October 03 2022 at 2:00 pm EDT,31,Neb.,NE,Nebraska,1923826,15.07,2022-11-16,5:30 AM,26046
-Nevada,267,Data as of October 03 2022 at 2:00 pm EDT,32,Nev.,NV,Nevada,3030281,88.11,2022-11-16,5:30 AM,26046
-New Hampshire,30,Data as of October 03 2022 at 2:00 pm EDT,33,N.H.,NH,New Hampshire,1355244,22.14,2022-11-16,5:30 AM,26046
-New Jersey,720,Data as of October 03 2022 at 2:00 pm EDT,34,N.J.,NJ,New Jersey,8885418,81.03,2022-11-16,5:30 AM,26046
-New Mexico,42,Data as of October 03 2022 at 2:00 pm EDT,35,N.M.,NM,New Mexico,2097021,20.03,2022-11-16,5:30 AM,26046
-New York,3948,Data as of October 03 2022 at 2:00 pm EDT,36,N.Y.,NY,New York,19514849,202.31,2022-11-16,5:30 AM,26046
-North Carolina,566,Data as of October 03 2022 at 2:00 pm EDT,37,N.C.,NC,North Carolina,10386227,54.5,2022-11-16,5:30 AM,26046
-North Dakota,6,Data as of October 03 2022 at 2:00 pm EDT,38,N.D.,ND,North Dakota,760394,7.89,2022-11-16,5:30 AM,26046
-Ohio,281,Data as of October 03 2022 at 2:00 pm EDT,39,Ohio,OH,Ohio,11675275,24.07,2022-11-16,5:30 AM,26046
-Oklahoma,43,Data as of October 03 2022 at 2:00 pm EDT,40,Okla.,OK,Oklahoma,3949342,10.89,2022-11-16,5:30 AM,26046
-Oregon,216,Data as of October 03 2022 at 2:00 pm EDT,41,Ore.,OR,Oregon,4176346,51.72,2022-11-16,5:30 AM,26046
-Pennsylvania,773,Data as of October 03 2022 at 2:00 pm EDT,42,Pa.,PA,Pennsylvania,12794885,60.41,2022-11-16,5:30 AM,26046
-Puerto Rico,183,Data as of October 03 2022 at 2:00 pm EDT,72,,PR,Puerto Rico,3255642,56.21,2022-11-16,5:30 AM,26046
-Rhode Island,74,Data as of October 03 2022 at 2:00 pm EDT,44,R.I.,RI,Rhode Island,1057798,69.96,2022-11-16,5:30 AM,26046
-South Carolina,172,Data as of October 03 2022 at 2:00 pm EDT,45,S.C.,SC,South Carolina,5091517,33.78,2022-11-16,5:30 AM,26046
-South Dakota,2,Data as of October 03 2022 at 2:00 pm EDT,46,S.D.,SD,South Dakota,879336,2.27,2022-11-16,5:30 AM,26046
-Tennessee,309,Data as of October 03 2022 at 2:00 pm EDT,47,Tenn.,TN,Tennessee,6772268,45.63,2022-11-16,5:30 AM,26046
-Texas,2372,Data as of October 03 2022 at 2:00 pm EDT,48,Texas,TX,Texas,28635442,82.83,2022-11-16,5:30 AM,26046
-Utah,161,Data as of October 03 2022 at 2:00 pm EDT,49,Utah,UT,Utah,3151239,51.09,2022-11-16,5:30 AM,26046
-Vermont,3,Data as of October 03 2022 at 2:00 pm EDT,50,Vt.,VT,Vermont,624340,4.81,2022-11-16,5:30 AM,26046
-Virginia,484,Data as of October 03 2022 at 2:00 pm EDT,51,Va.,VA,Virginia,8509358,56.88,2022-11-16,5:30 AM,26046
-Washington,600,Data as of October 03 2022 at 2:00 pm EDT,53,Wash.,WA,Washington,7512465,79.87,2022-11-16,5:30 AM,26046
-West Virginia,12,Data as of October 03 2022 at 2:00 pm EDT,54,W.Va.,WV,West Virginia,1807426,6.64,2022-11-16,5:30 AM,26046
-Wisconsin,76,Data as of October 03 2022 at 2:00 pm EDT,55,Wis.,WI,Wisconsin,5806975,13.09,2022-11-16,5:30 AM,26046
-Wyoming,4,Data as of October 03 2022 at 2:00 pm EDT,56,Wyo.,WY,Wyoming,581348,6.88,2022-11-16,5:30 AM,26046
+Alabama,130,Data as of October 03 2022 at 2:00 pm EDT,01,Ala.,AL,Alabama,4893186,26.57,2022-11-16,6:42 PM,26046
+Alaska,5,Data as of October 03 2022 at 2:00 pm EDT,02,Alaska,AK,Alaska,736990,6.78,2022-11-16,6:42 PM,26046
+Arizona,474,Data as of October 03 2022 at 2:00 pm EDT,04,Ariz.,AZ,Arizona,7174064,66.07,2022-11-16,6:42 PM,26046
+Arkansas,59,Data as of October 03 2022 at 2:00 pm EDT,05,Ark.,AR,Arkansas,3011873,19.59,2022-11-16,6:42 PM,26046
+California,5010,Data as of October 03 2022 at 2:00 pm EDT,06,Calif.,CA,California,39346023,127.33,2022-11-16,6:42 PM,26046
+Colorado,278,Data as of October 03 2022 at 2:00 pm EDT,08,Colo.,CO,Colorado,5684926,48.9,2022-11-16,6:42 PM,26046
+Connecticut,126,Data as of October 03 2022 at 2:00 pm EDT,09,Conn.,CT,Connecticut,3570549,35.29,2022-11-16,6:42 PM,26046
+Delaware,38,Data as of October 03 2022 at 2:00 pm EDT,10,Del.,DE,Delaware,967679,39.27,2022-11-16,6:42 PM,26046
+District of Columbia,497,Data as of October 03 2022 at 2:00 pm EDT,11,D.C.,DC,District of Columbia,701974,708.0,2022-11-16,6:42 PM,26046
+Florida,2543,Data as of October 03 2022 at 2:00 pm EDT,12,Fla.,FL,Florida,21216924,119.86,2022-11-16,6:42 PM,26046
+Georgia,1815,Data as of October 03 2022 at 2:00 pm EDT,13,Ga.,GA,Georgia,10516579,172.58,2022-11-16,6:42 PM,26046
+Hawaii,34,Data as of October 03 2022 at 2:00 pm EDT,15,Hawaii,HI,Hawaii,1420074,23.94,2022-11-16,6:42 PM,26046
+Idaho,13,Data as of October 03 2022 at 2:00 pm EDT,16,Idaho,ID,Idaho,1754367,7.41,2022-11-16,6:42 PM,26046
+Illinois,1315,Data as of October 03 2022 at 2:00 pm EDT,17,Ill.,IL,Illinois,12716164,103.41,2022-11-16,6:42 PM,26046
+Indiana,234,Data as of October 03 2022 at 2:00 pm EDT,18,Ind.,IN,Indiana,6696893,34.94,2022-11-16,6:42 PM,26046
+Iowa,25,Data as of October 03 2022 at 2:00 pm EDT,19,Iowa,IA,Iowa,3150011,7.94,2022-11-16,6:42 PM,26046
+Kansas,14,Data as of October 03 2022 at 2:00 pm EDT,20,Kan.,KS,Kansas,2912619,4.81,2022-11-16,6:42 PM,26046
+Kentucky,56,Data as of October 03 2022 at 2:00 pm EDT,21,Ky.,KY,Kentucky,4461952,12.55,2022-11-16,6:42 PM,26046
+Louisiana,254,Data as of October 03 2022 at 2:00 pm EDT,22,La.,LA,Louisiana,4664616,54.45,2022-11-16,6:42 PM,26046
+Maine,9,Data as of October 03 2022 at 2:00 pm EDT,23,Maine,ME,Maine,1340825,6.71,2022-11-16,6:42 PM,26046
+Maryland,662,Data as of October 03 2022 at 2:00 pm EDT,24,Md.,MD,Maryland,6037624,109.65,2022-11-16,6:42 PM,26046
+Massachusetts,402,Data as of October 03 2022 at 2:00 pm EDT,25,Mass.,MA,Massachusetts,6873003,58.49,2022-11-16,6:42 PM,26046
+Michigan,266,Data as of October 03 2022 at 2:00 pm EDT,26,Mich.,MI,Michigan,9973907,26.67,2022-11-16,6:42 PM,26046
+Minnesota,202,Data as of October 03 2022 at 2:00 pm EDT,27,Minn.,MN,Minnesota,5600166,36.07,2022-11-16,6:42 PM,26046
+Mississippi,87,Data as of October 03 2022 at 2:00 pm EDT,28,Miss.,MS,Mississippi,2981835,29.18,2022-11-16,6:42 PM,26046
+Missouri,119,Data as of October 03 2022 at 2:00 pm EDT,29,Mo.,MO,Missouri,6124160,19.43,2022-11-16,6:42 PM,26046
+Montana,6,Data as of October 03 2022 at 2:00 pm EDT,30,Mont.,MT,Montana,1061705,5.65,2022-11-16,6:42 PM,26046
+Nebraska,29,Data as of October 03 2022 at 2:00 pm EDT,31,Neb.,NE,Nebraska,1923826,15.07,2022-11-16,6:42 PM,26046
+Nevada,267,Data as of October 03 2022 at 2:00 pm EDT,32,Nev.,NV,Nevada,3030281,88.11,2022-11-16,6:42 PM,26046
+New Hampshire,30,Data as of October 03 2022 at 2:00 pm EDT,33,N.H.,NH,New Hampshire,1355244,22.14,2022-11-16,6:42 PM,26046
+New Jersey,720,Data as of October 03 2022 at 2:00 pm EDT,34,N.J.,NJ,New Jersey,8885418,81.03,2022-11-16,6:42 PM,26046
+New Mexico,42,Data as of October 03 2022 at 2:00 pm EDT,35,N.M.,NM,New Mexico,2097021,20.03,2022-11-16,6:42 PM,26046
+New York,3948,Data as of October 03 2022 at 2:00 pm EDT,36,N.Y.,NY,New York,19514849,202.31,2022-11-16,6:42 PM,26046
+North Carolina,566,Data as of October 03 2022 at 2:00 pm EDT,37,N.C.,NC,North Carolina,10386227,54.5,2022-11-16,6:42 PM,26046
+North Dakota,6,Data as of October 03 2022 at 2:00 pm EDT,38,N.D.,ND,North Dakota,760394,7.89,2022-11-16,6:42 PM,26046
+Ohio,281,Data as of October 03 2022 at 2:00 pm EDT,39,Ohio,OH,Ohio,11675275,24.07,2022-11-16,6:42 PM,26046
+Oklahoma,43,Data as of October 03 2022 at 2:00 pm EDT,40,Okla.,OK,Oklahoma,3949342,10.89,2022-11-16,6:42 PM,26046
+Oregon,216,Data as of October 03 2022 at 2:00 pm EDT,41,Ore.,OR,Oregon,4176346,51.72,2022-11-16,6:42 PM,26046
+Pennsylvania,773,Data as of October 03 2022 at 2:00 pm EDT,42,Pa.,PA,Pennsylvania,12794885,60.41,2022-11-16,6:42 PM,26046
+Puerto Rico,183,Data as of October 03 2022 at 2:00 pm EDT,72,,PR,Puerto Rico,3255642,56.21,2022-11-16,6:42 PM,26046
+Rhode Island,74,Data as of October 03 2022 at 2:00 pm EDT,44,R.I.,RI,Rhode Island,1057798,69.96,2022-11-16,6:42 PM,26046
+South Carolina,172,Data as of October 03 2022 at 2:00 pm EDT,45,S.C.,SC,South Carolina,5091517,33.78,2022-11-16,6:42 PM,26046
+South Dakota,2,Data as of October 03 2022 at 2:00 pm EDT,46,S.D.,SD,South Dakota,879336,2.27,2022-11-16,6:42 PM,26046
+Tennessee,309,Data as of October 03 2022 at 2:00 pm EDT,47,Tenn.,TN,Tennessee,6772268,45.63,2022-11-16,6:42 PM,26046
+Texas,2372,Data as of October 03 2022 at 2:00 pm EDT,48,Texas,TX,Texas,28635442,82.83,2022-11-16,6:42 PM,26046
+Utah,161,Data as of October 03 2022 at 2:00 pm EDT,49,Utah,UT,Utah,3151239,51.09,2022-11-16,6:42 PM,26046
+Vermont,3,Data as of October 03 2022 at 2:00 pm EDT,50,Vt.,VT,Vermont,624340,4.81,2022-11-16,6:42 PM,26046
+Virginia,484,Data as of October 03 2022 at 2:00 pm EDT,51,Va.,VA,Virginia,8509358,56.88,2022-11-16,6:42 PM,26046
+Washington,600,Data as of October 03 2022 at 2:00 pm EDT,53,Wash.,WA,Washington,7512465,79.87,2022-11-16,6:42 PM,26046
+West Virginia,12,Data as of October 03 2022 at 2:00 pm EDT,54,W.Va.,WV,West Virginia,1807426,6.64,2022-11-16,6:42 PM,26046
+Wisconsin,76,Data as of October 03 2022 at 2:00 pm EDT,55,Wis.,WI,Wisconsin,5806975,13.09,2022-11-16,6:42 PM,26046
+Wyoming,4,Data as of October 03 2022 at 2:00 pm EDT,56,Wyo.,WY,Wyoming,581348,6.88,2022-11-16,6:42 PM,26046
