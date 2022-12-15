@@ -4,7 +4,7 @@
         "cases":1,
         "7-day average":0.0,
         "cumulative cases":1,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
         "cumulative_sum":1
     },
     {
@@ -12,7 +12,7 @@
         "cases":2,
         "7-day average":0.0,
         "cumulative cases":3,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
         "cumulative_sum":3
     },
     {
@@ -20,7 +20,7 @@
         "cases":2,
         "7-day average":0.0,
         "cumulative cases":5,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
         "cumulative_sum":5
     },
     {
@@ -28,7 +28,7 @@
         "cases":0,
         "7-day average":0.0,
         "cumulative cases":5,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
         "cumulative_sum":5
     },
     {
@@ -36,7 +36,7 @@
         "cases":0,
         "7-day average":0.0,
         "cumulative cases":5,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
         "cumulative_sum":5
     },
     {
@@ -44,7 +44,7 @@
         "cases":1,
         "7-day average":0.0,
         "cumulative cases":6,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
         "cumulative_sum":6
     },
     {
@@ -52,7 +52,7 @@
         "cases":6,
         "7-day average":1.714285714,
         "cumulative cases":12,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
         "cumulative_sum":12
     },
     {
@@ -60,7 +60,7 @@
         "cases":3,
         "7-day average":2.0,
         "cumulative cases":15,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
         "cumulative_sum":15
     },
     {
@@ -68,7 +68,7 @@
         "cases":2,
         "7-day average":2.0,
         "cumulative cases":17,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
         "cumulative_sum":17
     },
     {
@@ -76,7 +76,7 @@
         "cases":3,
         "7-day average":2.142857143,
         "cumulative cases":20,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
         "cumulative_sum":20
     },
     {
@@ -84,7 +84,7 @@
         "cases":0,
         "7-day average":2.142857143,
         "cumulative cases":20,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
         "cumulative_sum":20
     },
     {
@@ -92,7 +92,7 @@
         "cases":1,
         "7-day average":2.285714286,
         "cumulative cases":21,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
         "cumulative_sum":21
     },
     {
@@ -100,7 +100,7 @@
         "cases":1,
         "7-day average":2.285714286,
         "cumulative cases":22,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
         "cumulative_sum":22
     },
     {
@@ -108,7 +108,7 @@
         "cases":3,
         "7-day average":1.857142857,
         "cumulative cases":25,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
         "cumulative_sum":25
     },
     {
@@ -116,7 +116,7 @@
         "cases":4,
         "7-day average":2.0,
         "cumulative cases":29,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
         "cumulative_sum":29
     },
     {
@@ -124,7 +124,7 @@
         "cases":4,
         "7-day average":2.285714286,
         "cumulative cases":33,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
         "cumulative_sum":33
     },
     {
@@ -132,1567 +132,1623 @@
         "cases":2,
         "7-day average":2.142857143,
         "cumulative cases":35,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
         "cumulative_sum":35
     },
     {
         "epi_date_v2":"5\/27\/2022",
-        "cases":5,
-        "7-day average":2.857142857,
-        "cumulative cases":40,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":40
+        "cases":6,
+        "7-day average":3.0,
+        "cumulative cases":41,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":41
     },
     {
         "epi_date_v2":"5\/28\/2022",
         "cases":0,
-        "7-day average":2.714285714,
-        "cumulative cases":40,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":40
+        "7-day average":2.857142857,
+        "cumulative cases":41,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":41
     },
     {
         "epi_date_v2":"5\/29\/2022",
-        "cases":6,
-        "7-day average":3.428571429,
-        "cumulative cases":46,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":46
+        "cases":7,
+        "7-day average":3.714285714,
+        "cumulative cases":48,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":48
     },
     {
         "epi_date_v2":"5\/30\/2022",
         "cases":5,
-        "7-day average":3.714285714,
-        "cumulative cases":51,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":51
+        "7-day average":4.0,
+        "cumulative cases":53,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":53
     },
     {
         "epi_date_v2":"5\/31\/2022",
         "cases":6,
-        "7-day average":4.0,
-        "cumulative cases":57,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":57
+        "7-day average":4.285714286,
+        "cumulative cases":59,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":59
     },
     {
         "epi_date_v2":"6\/1\/2022",
         "cases":11,
-        "7-day average":5.0,
-        "cumulative cases":68,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":68
+        "7-day average":5.285714286,
+        "cumulative cases":70,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":70
     },
     {
         "epi_date_v2":"6\/2\/2022",
         "cases":12,
-        "7-day average":6.428571429,
-        "cumulative cases":80,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":80
+        "7-day average":6.714285714,
+        "cumulative cases":82,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":82
     },
     {
         "epi_date_v2":"6\/3\/2022",
         "cases":6,
-        "7-day average":6.571428571,
-        "cumulative cases":86,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":86
+        "7-day average":6.714285714,
+        "cumulative cases":88,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":88
     },
     {
         "epi_date_v2":"6\/4\/2022",
         "cases":4,
-        "7-day average":7.142857143,
-        "cumulative cases":90,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":90
+        "7-day average":7.285714286,
+        "cumulative cases":92,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":92
     },
     {
         "epi_date_v2":"6\/5\/2022",
         "cases":5,
         "7-day average":7.0,
-        "cumulative cases":95,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":95
+        "cumulative cases":97,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":97
     },
     {
         "epi_date_v2":"6\/6\/2022",
         "cases":22,
         "7-day average":9.428571429,
-        "cumulative cases":117,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":117
+        "cumulative cases":119,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":119
     },
     {
         "epi_date_v2":"6\/7\/2022",
         "cases":19,
         "7-day average":11.28571429,
-        "cumulative cases":136,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":136
+        "cumulative cases":138,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":138
     },
     {
         "epi_date_v2":"6\/8\/2022",
         "cases":12,
         "7-day average":11.42857143,
-        "cumulative cases":148,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":148
+        "cumulative cases":150,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":150
     },
     {
         "epi_date_v2":"6\/9\/2022",
-        "cases":6,
-        "7-day average":10.57142857,
-        "cumulative cases":154,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":154
+        "cases":7,
+        "7-day average":10.71428571,
+        "cumulative cases":157,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":157
     },
     {
         "epi_date_v2":"6\/10\/2022",
         "cases":23,
-        "7-day average":13.0,
-        "cumulative cases":177,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":177
+        "7-day average":13.14285714,
+        "cumulative cases":180,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":180
     },
     {
         "epi_date_v2":"6\/11\/2022",
         "cases":11,
-        "7-day average":14.0,
-        "cumulative cases":188,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":188
+        "7-day average":14.14285714,
+        "cumulative cases":191,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":191
     },
     {
         "epi_date_v2":"6\/12\/2022",
         "cases":26,
-        "7-day average":17.0,
-        "cumulative cases":214,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":214
+        "7-day average":17.14285714,
+        "cumulative cases":217,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":217
     },
     {
         "epi_date_v2":"6\/13\/2022",
         "cases":23,
-        "7-day average":17.14285714,
-        "cumulative cases":237,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":237
+        "7-day average":17.28571429,
+        "cumulative cases":240,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":240
     },
     {
         "epi_date_v2":"6\/14\/2022",
         "cases":26,
-        "7-day average":18.14285714,
-        "cumulative cases":263,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":263
+        "7-day average":18.28571429,
+        "cumulative cases":266,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":266
     },
     {
         "epi_date_v2":"6\/15\/2022",
         "cases":35,
-        "7-day average":21.42857143,
-        "cumulative cases":298,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":298
+        "7-day average":21.57142857,
+        "cumulative cases":301,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":301
     },
     {
         "epi_date_v2":"6\/16\/2022",
-        "cases":25,
-        "7-day average":24.14285714,
-        "cumulative cases":323,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":323
+        "cases":26,
+        "7-day average":24.28571429,
+        "cumulative cases":327,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":327
     },
     {
         "epi_date_v2":"6\/17\/2022",
-        "cases":31,
-        "7-day average":25.28571429,
-        "cumulative cases":354,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":354
+        "cases":32,
+        "7-day average":25.57142857,
+        "cumulative cases":359,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":359
     },
     {
         "epi_date_v2":"6\/18\/2022",
         "cases":25,
-        "7-day average":27.28571429,
-        "cumulative cases":379,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":379
+        "7-day average":27.57142857,
+        "cumulative cases":384,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":384
     },
     {
         "epi_date_v2":"6\/19\/2022",
-        "cases":36,
-        "7-day average":28.71428571,
-        "cumulative cases":415,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":415
+        "cases":37,
+        "7-day average":29.14285714,
+        "cumulative cases":421,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":421
     },
     {
         "epi_date_v2":"6\/20\/2022",
-        "cases":39,
-        "7-day average":31.0,
-        "cumulative cases":454,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":454
+        "cases":38,
+        "7-day average":31.28571429,
+        "cumulative cases":459,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":459
     },
     {
         "epi_date_v2":"6\/21\/2022",
-        "cases":42,
-        "7-day average":33.28571429,
-        "cumulative cases":496,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":496
+        "cases":43,
+        "7-day average":33.71428571,
+        "cumulative cases":502,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":502
     },
     {
         "epi_date_v2":"6\/22\/2022",
-        "cases":62,
-        "7-day average":37.14285714,
-        "cumulative cases":558,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":558
+        "cases":63,
+        "7-day average":37.71428571,
+        "cumulative cases":565,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":565
     },
     {
         "epi_date_v2":"6\/23\/2022",
-        "cases":56,
-        "7-day average":41.57142857,
-        "cumulative cases":614,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":614
+        "cases":57,
+        "7-day average":42.14285714,
+        "cumulative cases":622,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":622
     },
     {
         "epi_date_v2":"6\/24\/2022",
         "cases":48,
-        "7-day average":44.0,
-        "cumulative cases":662,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":662
+        "7-day average":44.42857143,
+        "cumulative cases":670,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":670
     },
     {
         "epi_date_v2":"6\/25\/2022",
         "cases":54,
-        "7-day average":48.14285714,
-        "cumulative cases":716,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":716
+        "7-day average":48.57142857,
+        "cumulative cases":724,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":724
     },
     {
         "epi_date_v2":"6\/26\/2022",
         "cases":64,
-        "7-day average":52.14285714,
-        "cumulative cases":780,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":780
+        "7-day average":52.42857143,
+        "cumulative cases":788,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":788
     },
     {
         "epi_date_v2":"6\/27\/2022",
-        "cases":93,
-        "7-day average":59.85714286,
-        "cumulative cases":873,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":873
+        "cases":95,
+        "7-day average":60.57142857,
+        "cumulative cases":883,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":883
     },
     {
         "epi_date_v2":"6\/28\/2022",
-        "cases":88,
-        "7-day average":66.42857143,
-        "cumulative cases":961,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":961
+        "cases":90,
+        "7-day average":67.28571429,
+        "cumulative cases":973,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":973
     },
     {
         "epi_date_v2":"6\/29\/2022",
-        "cases":76,
-        "7-day average":68.42857143,
-        "cumulative cases":1037,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":1037
+        "cases":77,
+        "7-day average":69.28571429,
+        "cumulative cases":1050,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":1050
     },
     {
         "epi_date_v2":"6\/30\/2022",
-        "cases":112,
-        "7-day average":76.42857143,
-        "cumulative cases":1149,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":1149
+        "cases":115,
+        "7-day average":77.57142857,
+        "cumulative cases":1165,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":1165
     },
     {
         "epi_date_v2":"7\/1\/2022",
-        "cases":136,
-        "7-day average":89.0,
-        "cumulative cases":1285,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":1285
+        "cases":137,
+        "7-day average":90.28571429,
+        "cumulative cases":1302,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":1302
     },
     {
         "epi_date_v2":"7\/2\/2022",
-        "cases":120,
-        "7-day average":98.42857143,
-        "cumulative cases":1405,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":1405
+        "cases":126,
+        "7-day average":100.5714286,
+        "cumulative cases":1428,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":1428
     },
     {
         "epi_date_v2":"7\/3\/2022",
-        "cases":125,
-        "7-day average":107.1428571,
-        "cumulative cases":1530,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":1530
+        "cases":128,
+        "7-day average":109.7142857,
+        "cumulative cases":1556,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":1556
     },
     {
         "epi_date_v2":"7\/4\/2022",
-        "cases":157,
-        "7-day average":116.2857143,
-        "cumulative cases":1687,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":1687
+        "cases":161,
+        "7-day average":119.1428571,
+        "cumulative cases":1717,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":1717
     },
     {
         "epi_date_v2":"7\/5\/2022",
-        "cases":185,
-        "7-day average":130.1428571,
-        "cumulative cases":1872,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":1872
+        "cases":191,
+        "7-day average":133.5714286,
+        "cumulative cases":1908,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":1908
     },
     {
         "epi_date_v2":"7\/6\/2022",
-        "cases":169,
-        "7-day average":143.4285714,
-        "cumulative cases":2041,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":2041
+        "cases":174,
+        "7-day average":147.4285714,
+        "cumulative cases":2082,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":2082
     },
     {
         "epi_date_v2":"7\/7\/2022",
-        "cases":182,
-        "7-day average":153.4285714,
-        "cumulative cases":2223,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":2223
+        "cases":185,
+        "7-day average":157.4285714,
+        "cumulative cases":2267,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":2267
     },
     {
         "epi_date_v2":"7\/8\/2022",
-        "cases":243,
-        "7-day average":168.7142857,
-        "cumulative cases":2466,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":2466
+        "cases":246,
+        "7-day average":173.0,
+        "cumulative cases":2513,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":2513
     },
     {
         "epi_date_v2":"7\/9\/2022",
-        "cases":189,
-        "7-day average":178.5714286,
-        "cumulative cases":2655,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":2655
+        "cases":188,
+        "7-day average":181.8571429,
+        "cumulative cases":2701,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":2701
     },
     {
         "epi_date_v2":"7\/10\/2022",
-        "cases":212,
-        "7-day average":191.0,
-        "cumulative cases":2867,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":2867
+        "cases":218,
+        "7-day average":194.7142857,
+        "cumulative cases":2919,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":2919
     },
     {
         "epi_date_v2":"7\/11\/2022",
-        "cases":347,
-        "7-day average":218.1428571,
-        "cumulative cases":3214,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":3214
+        "cases":344,
+        "7-day average":220.8571429,
+        "cumulative cases":3263,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":3263
     },
     {
         "epi_date_v2":"7\/12\/2022",
-        "cases":228,
-        "7-day average":224.2857143,
-        "cumulative cases":3442,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":3442
+        "cases":233,
+        "7-day average":226.8571429,
+        "cumulative cases":3496,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":3496
     },
     {
         "epi_date_v2":"7\/13\/2022",
-        "cases":267,
-        "7-day average":238.2857143,
-        "cumulative cases":3709,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":3709
+        "cases":275,
+        "7-day average":241.2857143,
+        "cumulative cases":3771,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":3771
     },
     {
         "epi_date_v2":"7\/14\/2022",
         "cases":293,
-        "7-day average":254.1428571,
-        "cumulative cases":4002,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":4002
+        "7-day average":256.7142857,
+        "cumulative cases":4064,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":4064
     },
     {
         "epi_date_v2":"7\/15\/2022",
-        "cases":347,
-        "7-day average":269.0,
-        "cumulative cases":4349,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":4349
+        "cases":348,
+        "7-day average":271.2857143,
+        "cumulative cases":4412,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":4412
     },
     {
         "epi_date_v2":"7\/16\/2022",
-        "cases":253,
-        "7-day average":278.1428571,
-        "cumulative cases":4602,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":4602
+        "cases":258,
+        "7-day average":281.2857143,
+        "cumulative cases":4670,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":4670
     },
     {
         "epi_date_v2":"7\/17\/2022",
-        "cases":242,
-        "7-day average":282.4285714,
-        "cumulative cases":4844,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":4844
+        "cases":245,
+        "7-day average":285.1428571,
+        "cumulative cases":4915,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":4915
     },
     {
         "epi_date_v2":"7\/18\/2022",
-        "cases":385,
-        "7-day average":287.8571429,
-        "cumulative cases":5229,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":5229
+        "cases":396,
+        "7-day average":292.5714286,
+        "cumulative cases":5311,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":5311
     },
     {
         "epi_date_v2":"7\/19\/2022",
-        "cases":326,
-        "7-day average":301.8571429,
-        "cumulative cases":5555,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":5555
+        "cases":332,
+        "7-day average":306.7142857,
+        "cumulative cases":5643,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":5643
     },
     {
         "epi_date_v2":"7\/20\/2022",
-        "cases":355,
-        "7-day average":314.4285714,
-        "cumulative cases":5910,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":5910
+        "cases":361,
+        "7-day average":319.0,
+        "cumulative cases":6004,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":6004
     },
     {
         "epi_date_v2":"7\/21\/2022",
-        "cases":335,
-        "7-day average":320.4285714,
-        "cumulative cases":6245,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":6245
+        "cases":349,
+        "7-day average":327.0,
+        "cumulative cases":6353,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":6353
     },
     {
         "epi_date_v2":"7\/22\/2022",
-        "cases":363,
-        "7-day average":322.7142857,
-        "cumulative cases":6608,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":6608
+        "cases":371,
+        "7-day average":330.2857143,
+        "cumulative cases":6724,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":6724
     },
     {
         "epi_date_v2":"7\/23\/2022",
-        "cases":298,
-        "7-day average":329.1428571,
-        "cumulative cases":6906,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":6906
+        "cases":300,
+        "7-day average":336.2857143,
+        "cumulative cases":7024,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":7024
     },
     {
         "epi_date_v2":"7\/24\/2022",
-        "cases":306,
-        "7-day average":338.2857143,
-        "cumulative cases":7212,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":7212
+        "cases":312,
+        "7-day average":345.8571429,
+        "cumulative cases":7336,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":7336
     },
     {
         "epi_date_v2":"7\/25\/2022",
-        "cases":525,
-        "7-day average":358.2857143,
-        "cumulative cases":7737,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":7737
+        "cases":522,
+        "7-day average":363.8571429,
+        "cumulative cases":7858,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":7858
     },
     {
         "epi_date_v2":"7\/26\/2022",
-        "cases":402,
-        "7-day average":369.1428571,
-        "cumulative cases":8139,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":8139
+        "cases":401,
+        "7-day average":373.7142857,
+        "cumulative cases":8259,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":8259
     },
     {
         "epi_date_v2":"7\/27\/2022",
-        "cases":460,
-        "7-day average":384.1428571,
-        "cumulative cases":8599,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":8599
+        "cases":455,
+        "7-day average":387.1428571,
+        "cumulative cases":8714,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":8714
     },
     {
         "epi_date_v2":"7\/28\/2022",
-        "cases":427,
-        "7-day average":397.2857143,
-        "cumulative cases":9026,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":9026
+        "cases":425,
+        "7-day average":398.0,
+        "cumulative cases":9139,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":9139
     },
     {
         "epi_date_v2":"7\/29\/2022",
-        "cases":458,
-        "7-day average":410.8571429,
-        "cumulative cases":9484,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":9484
+        "cases":452,
+        "7-day average":409.5714286,
+        "cumulative cases":9591,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":9591
     },
     {
         "epi_date_v2":"7\/30\/2022",
-        "cases":367,
-        "7-day average":420.7142857,
-        "cumulative cases":9851,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":9851
+        "cases":360,
+        "7-day average":418.1428571,
+        "cumulative cases":9951,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":9951
     },
     {
         "epi_date_v2":"7\/31\/2022",
         "cases":348,
-        "7-day average":426.7142857,
-        "cumulative cases":10199,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":10199
+        "7-day average":423.2857143,
+        "cumulative cases":10299,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":10299
     },
     {
         "epi_date_v2":"8\/1\/2022",
-        "cases":635,
-        "7-day average":442.4285714,
-        "cumulative cases":10834,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":10834
+        "cases":627,
+        "7-day average":438.2857143,
+        "cumulative cases":10926,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":10926
     },
     {
         "epi_date_v2":"8\/2\/2022",
-        "cases":479,
-        "7-day average":453.4285714,
-        "cumulative cases":11313,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":11313
+        "cases":487,
+        "7-day average":450.5714286,
+        "cumulative cases":11413,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":11413
     },
     {
         "epi_date_v2":"8\/3\/2022",
-        "cases":460,
-        "7-day average":453.4285714,
-        "cumulative cases":11773,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":11773
+        "cases":463,
+        "7-day average":451.7142857,
+        "cumulative cases":11876,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":11876
     },
     {
         "epi_date_v2":"8\/4\/2022",
-        "cases":450,
-        "7-day average":456.7142857,
-        "cumulative cases":12223,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":12223
+        "cases":442,
+        "7-day average":454.1428571,
+        "cumulative cases":12318,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":12318
     },
     {
         "epi_date_v2":"8\/5\/2022",
-        "cases":494,
-        "7-day average":461.8571429,
-        "cumulative cases":12717,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":12717
+        "cases":482,
+        "7-day average":458.4285714,
+        "cumulative cases":12800,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":12800
     },
     {
         "epi_date_v2":"8\/6\/2022",
-        "cases":371,
-        "7-day average":462.4285714,
-        "cumulative cases":13088,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":13088
+        "cases":368,
+        "7-day average":459.5714286,
+        "cumulative cases":13168,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":13168
     },
     {
         "epi_date_v2":"8\/7\/2022",
-        "cases":320,
-        "7-day average":458.4285714,
-        "cumulative cases":13408,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":13408
+        "cases":319,
+        "7-day average":455.4285714,
+        "cumulative cases":13487,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":13487
     },
     {
         "epi_date_v2":"8\/8\/2022",
-        "cases":524,
-        "7-day average":442.5714286,
-        "cumulative cases":13932,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":13932
+        "cases":531,
+        "7-day average":441.7142857,
+        "cumulative cases":14018,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":14018
     },
     {
         "epi_date_v2":"8\/9\/2022",
-        "cases":429,
-        "7-day average":435.4285714,
-        "cumulative cases":14361,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":14361
+        "cases":436,
+        "7-day average":434.4285714,
+        "cumulative cases":14454,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":14454
     },
     {
         "epi_date_v2":"8\/10\/2022",
-        "cases":487,
-        "7-day average":439.2857143,
-        "cumulative cases":14848,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":14848
+        "cases":477,
+        "7-day average":436.4285714,
+        "cumulative cases":14931,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":14931
     },
     {
         "epi_date_v2":"8\/11\/2022",
-        "cases":416,
-        "7-day average":434.4285714,
-        "cumulative cases":15264,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":15264
+        "cases":411,
+        "7-day average":432.0,
+        "cumulative cases":15342,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":15342
     },
     {
         "epi_date_v2":"8\/12\/2022",
-        "cases":423,
-        "7-day average":424.2857143,
-        "cumulative cases":15687,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":15687
+        "cases":421,
+        "7-day average":423.2857143,
+        "cumulative cases":15763,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":15763
     },
     {
         "epi_date_v2":"8\/13\/2022",
-        "cases":353,
-        "7-day average":421.7142857,
-        "cumulative cases":16040,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":16040
+        "cases":365,
+        "7-day average":422.8571429,
+        "cumulative cases":16128,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":16128
     },
     {
         "epi_date_v2":"8\/14\/2022",
-        "cases":303,
-        "7-day average":419.2857143,
-        "cumulative cases":16343,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":16343
+        "cases":307,
+        "7-day average":421.1428571,
+        "cumulative cases":16435,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":16435
     },
     {
         "epi_date_v2":"8\/15\/2022",
-        "cases":502,
-        "7-day average":416.1428571,
-        "cumulative cases":16845,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":16845
+        "cases":500,
+        "7-day average":416.7142857,
+        "cumulative cases":16935,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":16935
     },
     {
         "epi_date_v2":"8\/16\/2022",
-        "cases":345,
-        "7-day average":404.1428571,
-        "cumulative cases":17190,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":17190
+        "cases":344,
+        "7-day average":403.5714286,
+        "cumulative cases":17279,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":17279
     },
     {
         "epi_date_v2":"8\/17\/2022",
-        "cases":348,
-        "7-day average":384.2857143,
-        "cumulative cases":17538,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":17538
+        "cases":345,
+        "7-day average":384.7142857,
+        "cumulative cases":17624,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":17624
     },
     {
         "epi_date_v2":"8\/18\/2022",
-        "cases":385,
-        "7-day average":379.8571429,
-        "cumulative cases":17923,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":17923
+        "cases":391,
+        "7-day average":381.8571429,
+        "cumulative cases":18015,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":18015
     },
     {
         "epi_date_v2":"8\/19\/2022",
-        "cases":412,
-        "7-day average":378.2857143,
-        "cumulative cases":18335,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":18335
+        "cases":406,
+        "7-day average":379.7142857,
+        "cumulative cases":18421,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":18421
     },
     {
         "epi_date_v2":"8\/20\/2022",
-        "cases":328,
-        "7-day average":374.7142857,
-        "cumulative cases":18663,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":18663
+        "cases":326,
+        "7-day average":374.1428571,
+        "cumulative cases":18747,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":18747
     },
     {
         "epi_date_v2":"8\/21\/2022",
-        "cases":268,
-        "7-day average":369.7142857,
-        "cumulative cases":18931,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":18931
+        "cases":263,
+        "7-day average":367.8571429,
+        "cumulative cases":19010,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":19010
     },
     {
         "epi_date_v2":"8\/22\/2022",
-        "cases":383,
-        "7-day average":352.7142857,
-        "cumulative cases":19314,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":19314
+        "cases":370,
+        "7-day average":349.2857143,
+        "cumulative cases":19380,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":19380
     },
     {
         "epi_date_v2":"8\/23\/2022",
-        "cases":376,
-        "7-day average":357.1428571,
-        "cumulative cases":19690,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":19690
+        "cases":360,
+        "7-day average":351.5714286,
+        "cumulative cases":19740,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":19740
     },
     {
         "epi_date_v2":"8\/24\/2022",
-        "cases":314,
-        "7-day average":352.2857143,
-        "cumulative cases":20004,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":20004
+        "cases":307,
+        "7-day average":346.1428571,
+        "cumulative cases":20047,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":20047
     },
     {
         "epi_date_v2":"8\/25\/2022",
-        "cases":314,
-        "7-day average":342.1428571,
-        "cumulative cases":20318,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":20318
+        "cases":309,
+        "7-day average":334.4285714,
+        "cumulative cases":20356,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":20356
     },
     {
         "epi_date_v2":"8\/26\/2022",
-        "cases":333,
-        "7-day average":330.8571429,
-        "cumulative cases":20651,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":20651
+        "cases":325,
+        "7-day average":322.8571429,
+        "cumulative cases":20681,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":20681
     },
     {
         "epi_date_v2":"8\/27\/2022",
-        "cases":226,
-        "7-day average":316.2857143,
-        "cumulative cases":20877,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":20877
+        "cases":212,
+        "7-day average":306.5714286,
+        "cumulative cases":20893,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":20893
     },
     {
         "epi_date_v2":"8\/28\/2022",
-        "cases":224,
-        "7-day average":310.0,
-        "cumulative cases":21101,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":21101
+        "cases":222,
+        "7-day average":300.7142857,
+        "cumulative cases":21115,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":21115
     },
     {
         "epi_date_v2":"8\/29\/2022",
-        "cases":321,
-        "7-day average":301.1428571,
-        "cumulative cases":21422,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":21422
+        "cases":326,
+        "7-day average":294.4285714,
+        "cumulative cases":21441,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":21441
     },
     {
         "epi_date_v2":"8\/30\/2022",
-        "cases":280,
-        "7-day average":287.4285714,
-        "cumulative cases":21702,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":21702
+        "cases":273,
+        "7-day average":282.0,
+        "cumulative cases":21714,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":21714
     },
     {
         "epi_date_v2":"8\/31\/2022",
-        "cases":236,
-        "7-day average":276.2857143,
-        "cumulative cases":21938,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":21938
+        "cases":230,
+        "7-day average":271.0,
+        "cumulative cases":21944,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":21944
     },
     {
         "epi_date_v2":"9\/1\/2022",
-        "cases":338,
-        "7-day average":279.7142857,
-        "cumulative cases":22276,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":22276
+        "cases":439,
+        "7-day average":289.5714286,
+        "cumulative cases":22383,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":22383
     },
     {
         "epi_date_v2":"9\/2\/2022",
-        "cases":291,
-        "7-day average":273.7142857,
-        "cumulative cases":22567,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":22567
+        "cases":282,
+        "7-day average":283.4285714,
+        "cumulative cases":22665,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":22665
     },
     {
         "epi_date_v2":"9\/3\/2022",
-        "cases":189,
-        "7-day average":268.4285714,
-        "cumulative cases":22756,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":22756
+        "cases":186,
+        "7-day average":279.7142857,
+        "cumulative cases":22851,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":22851
     },
     {
         "epi_date_v2":"9\/4\/2022",
-        "cases":150,
-        "7-day average":257.8571429,
-        "cumulative cases":22906,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":22906
+        "cases":156,
+        "7-day average":270.2857143,
+        "cumulative cases":23007,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":23007
     },
     {
         "epi_date_v2":"9\/5\/2022",
-        "cases":225,
-        "7-day average":244.1428571,
-        "cumulative cases":23131,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":23131
+        "cases":229,
+        "7-day average":256.4285714,
+        "cumulative cases":23236,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":23236
     },
     {
         "epi_date_v2":"9\/6\/2022",
-        "cases":290,
-        "7-day average":245.5714286,
-        "cumulative cases":23421,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":23421
+        "cases":286,
+        "7-day average":258.2857143,
+        "cumulative cases":23522,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":23522
     },
     {
         "epi_date_v2":"9\/7\/2022",
-        "cases":238,
-        "7-day average":245.8571429,
-        "cumulative cases":23659,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":23659
+        "cases":241,
+        "7-day average":259.8571429,
+        "cumulative cases":23763,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":23763
     },
     {
         "epi_date_v2":"9\/8\/2022",
-        "cases":225,
-        "7-day average":229.7142857,
-        "cumulative cases":23884,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":23884
+        "cases":223,
+        "7-day average":229.0,
+        "cumulative cases":23986,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":23986
     },
     {
         "epi_date_v2":"9\/9\/2022",
-        "cases":220,
-        "7-day average":219.5714286,
-        "cumulative cases":24104,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":24104
+        "cases":215,
+        "7-day average":219.4285714,
+        "cumulative cases":24201,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":24201
     },
     {
         "epi_date_v2":"9\/10\/2022",
-        "cases":160,
-        "7-day average":215.4285714,
-        "cumulative cases":24264,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":24264
-    },
-    {
-        "epi_date_v2":"9\/11\/2022",
-        "cases":100,
-        "7-day average":208.2857143,
+        "cases":163,
+        "7-day average":216.1428571,
         "cumulative cases":24364,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
         "cumulative_sum":24364
     },
     {
+        "epi_date_v2":"9\/11\/2022",
+        "cases":104,
+        "7-day average":208.7142857,
+        "cumulative cases":24468,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":24468
+    },
+    {
         "epi_date_v2":"9\/12\/2022",
-        "cases":243,
-        "7-day average":210.8571429,
-        "cumulative cases":24607,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":24607
+        "cases":247,
+        "7-day average":211.2857143,
+        "cumulative cases":24715,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":24715
     },
     {
         "epi_date_v2":"9\/13\/2022",
-        "cases":198,
-        "7-day average":197.7142857,
-        "cumulative cases":24805,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":24805
+        "cases":182,
+        "7-day average":196.4285714,
+        "cumulative cases":24897,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":24897
     },
     {
         "epi_date_v2":"9\/14\/2022",
-        "cases":172,
-        "7-day average":188.2857143,
-        "cumulative cases":24977,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":24977
+        "cases":168,
+        "7-day average":186.0,
+        "cumulative cases":25065,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":25065
     },
     {
         "epi_date_v2":"9\/15\/2022",
-        "cases":188,
-        "7-day average":183.0,
-        "cumulative cases":25165,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":25165
+        "cases":178,
+        "7-day average":179.5714286,
+        "cumulative cases":25243,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":25243
     },
     {
         "epi_date_v2":"9\/16\/2022",
-        "cases":180,
-        "7-day average":177.2857143,
-        "cumulative cases":25345,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":25345
+        "cases":175,
+        "7-day average":173.8571429,
+        "cumulative cases":25418,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":25418
     },
     {
         "epi_date_v2":"9\/17\/2022",
-        "cases":134,
-        "7-day average":173.5714286,
-        "cumulative cases":25479,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":25479
+        "cases":128,
+        "7-day average":168.8571429,
+        "cumulative cases":25546,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":25546
     },
     {
         "epi_date_v2":"9\/18\/2022",
         "cases":118,
-        "7-day average":176.1428571,
-        "cumulative cases":25597,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":25597
+        "7-day average":170.8571429,
+        "cumulative cases":25664,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":25664
     },
     {
         "epi_date_v2":"9\/19\/2022",
-        "cases":146,
-        "7-day average":162.2857143,
-        "cumulative cases":25743,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":25743
+        "cases":142,
+        "7-day average":155.8571429,
+        "cumulative cases":25806,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":25806
     },
     {
         "epi_date_v2":"9\/20\/2022",
-        "cases":180,
-        "7-day average":159.7142857,
-        "cumulative cases":25923,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":25923
+        "cases":178,
+        "7-day average":155.2857143,
+        "cumulative cases":25984,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":25984
     },
     {
         "epi_date_v2":"9\/21\/2022",
-        "cases":152,
-        "7-day average":156.8571429,
-        "cumulative cases":26075,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":26075
+        "cases":142,
+        "7-day average":151.5714286,
+        "cumulative cases":26126,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":26126
     },
     {
         "epi_date_v2":"9\/22\/2022",
         "cases":151,
-        "7-day average":151.5714286,
-        "cumulative cases":26226,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":26226
+        "7-day average":147.7142857,
+        "cumulative cases":26277,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":26277
     },
     {
         "epi_date_v2":"9\/23\/2022",
-        "cases":137,
-        "7-day average":145.4285714,
-        "cumulative cases":26363,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":26363
+        "cases":131,
+        "7-day average":141.4285714,
+        "cumulative cases":26408,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":26408
     },
     {
         "epi_date_v2":"9\/24\/2022",
-        "cases":82,
-        "7-day average":138.0,
-        "cumulative cases":26445,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":26445
+        "cases":89,
+        "7-day average":135.8571429,
+        "cumulative cases":26497,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":26497
     },
     {
         "epi_date_v2":"9\/25\/2022",
-        "cases":81,
-        "7-day average":132.7142857,
-        "cumulative cases":26526,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":26526
+        "cases":80,
+        "7-day average":130.4285714,
+        "cumulative cases":26577,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":26577
     },
     {
         "epi_date_v2":"9\/26\/2022",
         "cases":148,
-        "7-day average":133.0,
-        "cumulative cases":26674,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":26674
+        "7-day average":131.2857143,
+        "cumulative cases":26725,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":26725
     },
     {
         "epi_date_v2":"9\/27\/2022",
-        "cases":115,
-        "7-day average":123.7142857,
-        "cumulative cases":26789,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":26789
+        "cases":114,
+        "7-day average":122.1428571,
+        "cumulative cases":26839,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":26839
     },
     {
         "epi_date_v2":"9\/28\/2022",
-        "cases":91,
-        "7-day average":115.0,
-        "cumulative cases":26880,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":26880
+        "cases":89,
+        "7-day average":114.5714286,
+        "cumulative cases":26928,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":26928
     },
     {
         "epi_date_v2":"9\/29\/2022",
-        "cases":124,
-        "7-day average":111.1428571,
-        "cumulative cases":27004,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":27004
+        "cases":120,
+        "7-day average":110.1428571,
+        "cumulative cases":27048,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":27048
     },
     {
         "epi_date_v2":"9\/30\/2022",
         "cases":119,
-        "7-day average":108.5714286,
-        "cumulative cases":27123,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":27123
+        "7-day average":108.4285714,
+        "cumulative cases":27167,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":27167
     },
     {
         "epi_date_v2":"10\/1\/2022",
-        "cases":81,
-        "7-day average":108.4285714,
-        "cumulative cases":27204,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":27204
+        "cases":80,
+        "7-day average":107.1428571,
+        "cumulative cases":27247,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":27247
     },
     {
         "epi_date_v2":"10\/2\/2022",
-        "cases":62,
-        "7-day average":105.7142857,
-        "cumulative cases":27266,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":27266
+        "cases":66,
+        "7-day average":105.1428571,
+        "cumulative cases":27313,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":27313
     },
     {
         "epi_date_v2":"10\/3\/2022",
-        "cases":102,
-        "7-day average":99.14285714,
-        "cumulative cases":27368,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":27368
+        "cases":100,
+        "7-day average":98.28571429,
+        "cumulative cases":27413,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":27413
     },
     {
         "epi_date_v2":"10\/4\/2022",
-        "cases":82,
-        "7-day average":94.42857143,
-        "cumulative cases":27450,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":27450
+        "cases":91,
+        "7-day average":95.0,
+        "cumulative cases":27504,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":27504
     },
     {
         "epi_date_v2":"10\/5\/2022",
-        "cases":91,
-        "7-day average":94.42857143,
-        "cumulative cases":27541,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":27541
+        "cases":88,
+        "7-day average":94.85714286,
+        "cumulative cases":27592,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":27592
     },
     {
         "epi_date_v2":"10\/6\/2022",
-        "cases":112,
-        "7-day average":92.71428571,
-        "cumulative cases":27653,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":27653
+        "cases":102,
+        "7-day average":92.28571429,
+        "cumulative cases":27694,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":27694
     },
     {
         "epi_date_v2":"10\/7\/2022",
         "cases":86,
-        "7-day average":88.0,
-        "cumulative cases":27739,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":27739
+        "7-day average":87.57142857,
+        "cumulative cases":27780,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":27780
     },
     {
         "epi_date_v2":"10\/8\/2022",
-        "cases":51,
+        "cases":53,
         "7-day average":83.71428571,
-        "cumulative cases":27790,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":27790
+        "cumulative cases":27833,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":27833
     },
     {
         "epi_date_v2":"10\/9\/2022",
-        "cases":64,
-        "7-day average":84.0,
-        "cumulative cases":27854,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":27854
+        "cases":66,
+        "7-day average":83.71428571,
+        "cumulative cases":27899,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":27899
     },
     {
         "epi_date_v2":"10\/10\/2022",
-        "cases":90,
-        "7-day average":82.28571429,
-        "cumulative cases":27944,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":27944
+        "cases":93,
+        "7-day average":82.71428571,
+        "cumulative cases":27992,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":27992
     },
     {
         "epi_date_v2":"10\/11\/2022",
-        "cases":79,
-        "7-day average":81.85714286,
-        "cumulative cases":28023,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":28023
+        "cases":78,
+        "7-day average":80.85714286,
+        "cumulative cases":28070,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":28070
     },
     {
         "epi_date_v2":"10\/12\/2022",
-        "cases":69,
-        "7-day average":78.71428571,
-        "cumulative cases":28092,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":28092
+        "cases":66,
+        "7-day average":77.71428571,
+        "cumulative cases":28136,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":28136
     },
     {
         "epi_date_v2":"10\/13\/2022",
-        "cases":82,
-        "7-day average":74.42857143,
-        "cumulative cases":28174,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":28174
+        "cases":75,
+        "7-day average":73.85714286,
+        "cumulative cases":28211,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":28211
     },
     {
         "epi_date_v2":"10\/14\/2022",
-        "cases":63,
-        "7-day average":71.14285714,
-        "cumulative cases":28237,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":28237
+        "cases":66,
+        "7-day average":71.0,
+        "cumulative cases":28277,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":28277
     },
     {
         "epi_date_v2":"10\/15\/2022",
-        "cases":48,
-        "7-day average":70.71428571,
-        "cumulative cases":28285,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":28285
+        "cases":50,
+        "7-day average":70.57142857,
+        "cumulative cases":28327,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":28327
     },
     {
         "epi_date_v2":"10\/16\/2022",
-        "cases":42,
-        "7-day average":67.57142857,
-        "cumulative cases":28327,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":28327
+        "cases":43,
+        "7-day average":67.28571429,
+        "cumulative cases":28370,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":28370
     },
     {
         "epi_date_v2":"10\/17\/2022",
         "cases":67,
-        "7-day average":64.28571429,
-        "cumulative cases":28394,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":28394
+        "7-day average":63.57142857,
+        "cumulative cases":28437,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":28437
     },
     {
         "epi_date_v2":"10\/18\/2022",
-        "cases":55,
-        "7-day average":60.85714286,
-        "cumulative cases":28449,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":28449
+        "cases":54,
+        "7-day average":60.14285714,
+        "cumulative cases":28491,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":28491
     },
     {
         "epi_date_v2":"10\/19\/2022",
-        "cases":54,
-        "7-day average":58.71428571,
-        "cumulative cases":28503,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":28503
+        "cases":45,
+        "7-day average":57.14285714,
+        "cumulative cases":28536,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":28536
     },
     {
         "epi_date_v2":"10\/20\/2022",
-        "cases":68,
-        "7-day average":56.71428571,
-        "cumulative cases":28571,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":28571
+        "cases":65,
+        "7-day average":55.71428571,
+        "cumulative cases":28601,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":28601
     },
     {
         "epi_date_v2":"10\/21\/2022",
-        "cases":50,
-        "7-day average":54.85714286,
-        "cumulative cases":28621,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":28621
+        "cases":52,
+        "7-day average":53.71428571,
+        "cumulative cases":28653,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":28653
     },
     {
         "epi_date_v2":"10\/22\/2022",
-        "cases":28,
-        "7-day average":52.0,
-        "cumulative cases":28649,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":28649
+        "cases":33,
+        "7-day average":51.28571429,
+        "cumulative cases":28686,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":28686
     },
     {
         "epi_date_v2":"10\/23\/2022",
-        "cases":25,
-        "7-day average":49.57142857,
-        "cumulative cases":28674,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":28674
+        "cases":26,
+        "7-day average":48.85714286,
+        "cumulative cases":28712,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":28712
     },
     {
         "epi_date_v2":"10\/24\/2022",
-        "cases":49,
-        "7-day average":47.0,
-        "cumulative cases":28723,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":28723
+        "cases":53,
+        "7-day average":46.85714286,
+        "cumulative cases":28765,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":28765
     },
     {
         "epi_date_v2":"10\/25\/2022",
-        "cases":36,
-        "7-day average":44.28571429,
-        "cumulative cases":28759,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":28759
+        "cases":39,
+        "7-day average":44.71428571,
+        "cumulative cases":28804,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":28804
     },
     {
         "epi_date_v2":"10\/26\/2022",
-        "cases":56,
-        "7-day average":44.57142857,
-        "cumulative cases":28815,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":28815
+        "cases":53,
+        "7-day average":45.85714286,
+        "cumulative cases":28857,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":28857
     },
     {
         "epi_date_v2":"10\/27\/2022",
-        "cases":53,
-        "7-day average":42.42857143,
-        "cumulative cases":28868,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":28868
+        "cases":57,
+        "7-day average":44.71428571,
+        "cumulative cases":28914,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":28914
     },
     {
         "epi_date_v2":"10\/28\/2022",
-        "cases":47,
-        "7-day average":42.0,
-        "cumulative cases":28915,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":28915
+        "cases":45,
+        "7-day average":43.71428571,
+        "cumulative cases":28959,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":28959
     },
     {
         "epi_date_v2":"10\/29\/2022",
-        "cases":24,
-        "7-day average":41.42857143,
-        "cumulative cases":28939,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":28939
+        "cases":28,
+        "7-day average":43.0,
+        "cumulative cases":28987,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":28987
     },
     {
         "epi_date_v2":"10\/30\/2022",
-        "cases":21,
-        "7-day average":40.85714286,
-        "cumulative cases":28960,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":28960
+        "cases":22,
+        "7-day average":42.42857143,
+        "cumulative cases":29009,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":29009
     },
     {
         "epi_date_v2":"10\/31\/2022",
-        "cases":47,
-        "7-day average":40.57142857,
-        "cumulative cases":29007,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":29007
+        "cases":46,
+        "7-day average":41.42857143,
+        "cumulative cases":29055,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":29055
     },
     {
         "epi_date_v2":"11\/1\/2022",
-        "cases":38,
-        "7-day average":40.85714286,
-        "cumulative cases":29045,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":29045
+        "cases":42,
+        "7-day average":41.85714286,
+        "cumulative cases":29097,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":29097
     },
     {
         "epi_date_v2":"11\/2\/2022",
-        "cases":40,
-        "7-day average":38.57142857,
-        "cumulative cases":29085,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":29085
+        "cases":38,
+        "7-day average":39.71428571,
+        "cumulative cases":29135,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":29135
     },
     {
         "epi_date_v2":"11\/3\/2022",
-        "cases":37,
-        "7-day average":36.28571429,
-        "cumulative cases":29122,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":29122
+        "cases":40,
+        "7-day average":37.28571429,
+        "cumulative cases":29175,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":29175
     },
     {
         "epi_date_v2":"11\/4\/2022",
-        "cases":30,
-        "7-day average":33.85714286,
-        "cumulative cases":29152,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":29152
+        "cases":32,
+        "7-day average":35.42857143,
+        "cumulative cases":29207,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":29207
     },
     {
         "epi_date_v2":"11\/5\/2022",
-        "cases":29,
-        "7-day average":34.57142857,
-        "cumulative cases":29181,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":29181
+        "cases":30,
+        "7-day average":35.71428571,
+        "cumulative cases":29237,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":29237
     },
     {
         "epi_date_v2":"11\/6\/2022",
-        "cases":23,
-        "7-day average":34.85714286,
-        "cumulative cases":29204,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":29204
+        "cases":26,
+        "7-day average":36.28571429,
+        "cumulative cases":29263,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":29263
     },
     {
         "epi_date_v2":"11\/7\/2022",
-        "cases":39,
-        "7-day average":33.71428571,
-        "cumulative cases":29243,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":29243
+        "cases":40,
+        "7-day average":35.42857143,
+        "cumulative cases":29303,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":29303
     },
     {
         "epi_date_v2":"11\/8\/2022",
-        "cases":30,
-        "7-day average":32.57142857,
-        "cumulative cases":29273,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":29273
+        "cases":32,
+        "7-day average":34.0,
+        "cumulative cases":29335,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":29335
     },
     {
         "epi_date_v2":"11\/9\/2022",
-        "cases":35,
-        "7-day average":31.85714286,
-        "cumulative cases":29308,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":29308
+        "cases":32,
+        "7-day average":33.14285714,
+        "cumulative cases":29367,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":29367
     },
     {
         "epi_date_v2":"11\/10\/2022",
         "cases":24,
-        "7-day average":30.0,
-        "cumulative cases":29332,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":29332
+        "7-day average":30.85714286,
+        "cumulative cases":29391,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":29391
     },
     {
         "epi_date_v2":"11\/11\/2022",
-        "cases":26,
-        "7-day average":29.42857143,
-        "cumulative cases":29358,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":29358
+        "cases":25,
+        "7-day average":29.85714286,
+        "cumulative cases":29416,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":29416
     },
     {
         "epi_date_v2":"11\/12\/2022",
-        "cases":10,
-        "7-day average":26.71428571,
-        "cumulative cases":29368,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":29368
+        "cases":14,
+        "7-day average":27.57142857,
+        "cumulative cases":29430,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":29430
     },
     {
         "epi_date_v2":"11\/13\/2022",
-        "cases":13,
-        "7-day average":25.28571429,
-        "cumulative cases":29381,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":29381
+        "cases":22,
+        "7-day average":27.0,
+        "cumulative cases":29452,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":29452
     },
     {
         "epi_date_v2":"11\/14\/2022",
         "cases":38,
-        "7-day average":25.14285714,
-        "cumulative cases":29419,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":29419
+        "7-day average":26.71428571,
+        "cumulative cases":29490,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":29490
     },
     {
         "epi_date_v2":"11\/15\/2022",
         "cases":19,
-        "7-day average":23.57142857,
-        "cumulative cases":29438,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":29438
+        "7-day average":24.85714286,
+        "cumulative cases":29509,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":29509
     },
     {
         "epi_date_v2":"11\/16\/2022",
-        "cases":24,
-        "7-day average":22.0,
-        "cumulative cases":29462,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":29462
+        "cases":25,
+        "7-day average":23.85714286,
+        "cumulative cases":29534,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":29534
     },
     {
         "epi_date_v2":"11\/17\/2022",
         "cases":11,
-        "7-day average":20.14285714,
-        "cumulative cases":29473,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":29473
+        "7-day average":22.0,
+        "cumulative cases":29545,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":29545
     },
     {
         "epi_date_v2":"11\/18\/2022",
-        "cases":27,
-        "7-day average":20.28571429,
-        "cumulative cases":29500,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":29500
+        "cases":29,
+        "7-day average":22.57142857,
+        "cumulative cases":29574,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":29574
     },
     {
         "epi_date_v2":"11\/19\/2022",
-        "cases":11,
-        "7-day average":20.42857143,
-        "cumulative cases":29511,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":29511
+        "cases":18,
+        "7-day average":23.14285714,
+        "cumulative cases":29592,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":29592
     },
     {
         "epi_date_v2":"11\/20\/2022",
-        "cases":8,
-        "7-day average":19.71428571,
-        "cumulative cases":29519,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":29519
+        "cases":13,
+        "7-day average":21.85714286,
+        "cumulative cases":29605,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":29605
     },
     {
         "epi_date_v2":"11\/21\/2022",
-        "cases":14,
-        "7-day average":16.28571429,
-        "cumulative cases":29533,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":29533
+        "cases":18,
+        "7-day average":19.0,
+        "cumulative cases":29623,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":29623
     },
     {
         "epi_date_v2":"11\/22\/2022",
-        "cases":12,
-        "7-day average":15.28571429,
-        "cumulative cases":29545,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":29545
+        "cases":17,
+        "7-day average":18.71428571,
+        "cumulative cases":29640,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":29640
     },
     {
         "epi_date_v2":"11\/23\/2022",
         "cases":16,
-        "7-day average":14.14285714,
-        "cumulative cases":29561,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":29561
+        "7-day average":17.42857143,
+        "cumulative cases":29656,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":29656
     },
     {
         "epi_date_v2":"11\/24\/2022",
-        "cases":5,
-        "7-day average":13.28571429,
-        "cumulative cases":29566,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":29566
+        "cases":10,
+        "7-day average":17.28571429,
+        "cumulative cases":29666,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":29666
     },
     {
         "epi_date_v2":"11\/25\/2022",
-        "cases":2,
-        "7-day average":9.714285714,
-        "cumulative cases":29568,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":29568
+        "cases":11,
+        "7-day average":14.71428571,
+        "cumulative cases":29677,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":29677
     },
     {
         "epi_date_v2":"11\/26\/2022",
-        "cases":7,
-        "7-day average":9.142857143,
-        "cumulative cases":29575,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":29575
+        "cases":13,
+        "7-day average":14.0,
+        "cumulative cases":29690,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":29690
     },
     {
         "epi_date_v2":"11\/27\/2022",
-        "cases":3,
-        "7-day average":8.428571429,
-        "cumulative cases":29578,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":29578
+        "cases":6,
+        "7-day average":13.0,
+        "cumulative cases":29696,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":29696
     },
     {
         "epi_date_v2":"11\/28\/2022",
-        "cases":9,
-        "7-day average":7.714285714,
-        "cumulative cases":29587,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":29587
+        "cases":15,
+        "7-day average":12.57142857,
+        "cumulative cases":29711,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":29711
     },
     {
         "epi_date_v2":"11\/29\/2022",
-        "cases":8,
-        "7-day average":7.142857143,
-        "cumulative cases":29595,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":29595
+        "cases":7,
+        "7-day average":11.14285714,
+        "cumulative cases":29718,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":29718
     },
     {
         "epi_date_v2":"11\/30\/2022",
-        "cases":17,
-        "7-day average":7.285714286,
-        "cumulative cases":29612,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":29612
+        "cases":12,
+        "7-day average":10.57142857,
+        "cumulative cases":29730,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":29730
     },
     {
         "epi_date_v2":"12\/1\/2022",
         "cases":18,
-        "7-day average":9.142857143,
-        "cumulative cases":29630,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":29630
+        "7-day average":11.71428571,
+        "cumulative cases":29748,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":29748
     },
     {
         "epi_date_v2":"12\/2\/2022",
-        "cases":8,
-        "7-day average":10.0,
-        "cumulative cases":29638,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":29638
+        "cases":9,
+        "7-day average":11.42857143,
+        "cumulative cases":29757,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":29757
     },
     {
         "epi_date_v2":"12\/3\/2022",
-        "cases":2,
-        "7-day average":9.285714286,
-        "cumulative cases":29640,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":29640
+        "cases":3,
+        "7-day average":10.0,
+        "cumulative cases":29760,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":29760
     },
     {
         "epi_date_v2":"12\/4\/2022",
-        "cases":3,
-        "7-day average":9.285714286,
-        "cumulative cases":29643,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":29643
+        "cases":6,
+        "7-day average":10.0,
+        "cumulative cases":29766,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":29766
     },
     {
         "epi_date_v2":"12\/5\/2022",
-        "cases":11,
-        "7-day average":9.571428571,
-        "cumulative cases":29654,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":29654
+        "cases":15,
+        "7-day average":10.0,
+        "cumulative cases":29781,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":29781
     },
     {
         "epi_date_v2":"12\/6\/2022",
-        "cases":0,
-        "7-day average":8.428571429,
-        "cumulative cases":29654,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":29654
+        "cases":7,
+        "7-day average":10.0,
+        "cumulative cases":29788,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":29788
     },
     {
         "epi_date_v2":"12\/7\/2022",
+        "cases":4,
+        "7-day average":8.857142857,
+        "cumulative cases":29792,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":29792
+    },
+    {
+        "epi_date_v2":"12\/8\/2022",
+        "cases":5,
+        "7-day average":7.0,
+        "cumulative cases":29797,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":29797
+    },
+    {
+        "epi_date_v2":"12\/9\/2022",
+        "cases":9,
+        "7-day average":7.0,
+        "cumulative cases":29806,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":29806
+    },
+    {
+        "epi_date_v2":"12\/10\/2022",
+        "cases":1,
+        "7-day average":6.714285714,
+        "cumulative cases":29807,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":29807
+    },
+    {
+        "epi_date_v2":"12\/11\/2022",
         "cases":0,
-        "7-day average":6.0,
-        "cumulative cases":29654,
-        "asof":"Data as Reported to CDC as of 07 Dec 2022 2:00 PM EDT",
-        "cumulative_sum":29654
+        "7-day average":5.857142857,
+        "cumulative cases":29807,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":29807
+    },
+    {
+        "epi_date_v2":"12\/12\/2022",
+        "cases":8,
+        "7-day average":4.857142857,
+        "cumulative cases":29815,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":29815
+    },
+    {
+        "epi_date_v2":"12\/13\/2022",
+        "cases":9,
+        "7-day average":5.142857143,
+        "cumulative cases":29824,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":29824
+    },
+    {
+        "epi_date_v2":"12\/14\/2022",
+        "cases":2,
+        "7-day average":4.857142857,
+        "cumulative cases":29826,
+        "asof":"Data as Reported to CDC as of 14 Dec 2022 2:00 PM EDT",
+        "cumulative_sum":29826
     }
 ]
