@@ -1,0 +1,1922 @@
+[
+    {
+        "epi_date_v2":"5\/10\/2022",
+        "cases":1,
+        "7-day average":0.0,
+        "cumulative cases":1,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":1
+    },
+    {
+        "epi_date_v2":"5\/11\/2022",
+        "cases":3,
+        "7-day average":0.0,
+        "cumulative cases":4,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":4
+    },
+    {
+        "epi_date_v2":"5\/12\/2022",
+        "cases":2,
+        "7-day average":0.0,
+        "cumulative cases":6,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":6
+    },
+    {
+        "epi_date_v2":"5\/13\/2022",
+        "cases":0,
+        "7-day average":0.0,
+        "cumulative cases":6,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":6
+    },
+    {
+        "epi_date_v2":"5\/14\/2022",
+        "cases":0,
+        "7-day average":0.0,
+        "cumulative cases":6,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":6
+    },
+    {
+        "epi_date_v2":"5\/15\/2022",
+        "cases":1,
+        "7-day average":0.0,
+        "cumulative cases":7,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":7
+    },
+    {
+        "epi_date_v2":"5\/16\/2022",
+        "cases":6,
+        "7-day average":1.857142857,
+        "cumulative cases":13,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":13
+    },
+    {
+        "epi_date_v2":"5\/17\/2022",
+        "cases":3,
+        "7-day average":2.142857143,
+        "cumulative cases":16,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":16
+    },
+    {
+        "epi_date_v2":"5\/18\/2022",
+        "cases":2,
+        "7-day average":2.0,
+        "cumulative cases":18,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":18
+    },
+    {
+        "epi_date_v2":"5\/19\/2022",
+        "cases":3,
+        "7-day average":2.142857143,
+        "cumulative cases":21,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":21
+    },
+    {
+        "epi_date_v2":"5\/20\/2022",
+        "cases":0,
+        "7-day average":2.142857143,
+        "cumulative cases":21,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":21
+    },
+    {
+        "epi_date_v2":"5\/21\/2022",
+        "cases":1,
+        "7-day average":2.285714286,
+        "cumulative cases":22,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":22
+    },
+    {
+        "epi_date_v2":"5\/22\/2022",
+        "cases":1,
+        "7-day average":2.285714286,
+        "cumulative cases":23,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":23
+    },
+    {
+        "epi_date_v2":"5\/23\/2022",
+        "cases":3,
+        "7-day average":1.857142857,
+        "cumulative cases":26,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":26
+    },
+    {
+        "epi_date_v2":"5\/24\/2022",
+        "cases":4,
+        "7-day average":2.0,
+        "cumulative cases":30,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":30
+    },
+    {
+        "epi_date_v2":"5\/25\/2022",
+        "cases":4,
+        "7-day average":2.285714286,
+        "cumulative cases":34,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":34
+    },
+    {
+        "epi_date_v2":"5\/26\/2022",
+        "cases":2,
+        "7-day average":2.142857143,
+        "cumulative cases":36,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":36
+    },
+    {
+        "epi_date_v2":"5\/27\/2022",
+        "cases":4,
+        "7-day average":2.714285714,
+        "cumulative cases":40,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":40
+    },
+    {
+        "epi_date_v2":"5\/28\/2022",
+        "cases":0,
+        "7-day average":2.571428571,
+        "cumulative cases":40,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":40
+    },
+    {
+        "epi_date_v2":"5\/29\/2022",
+        "cases":6,
+        "7-day average":3.285714286,
+        "cumulative cases":46,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":46
+    },
+    {
+        "epi_date_v2":"5\/30\/2022",
+        "cases":5,
+        "7-day average":3.571428571,
+        "cumulative cases":51,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":51
+    },
+    {
+        "epi_date_v2":"5\/31\/2022",
+        "cases":6,
+        "7-day average":3.857142857,
+        "cumulative cases":57,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":57
+    },
+    {
+        "epi_date_v2":"6\/1\/2022",
+        "cases":11,
+        "7-day average":4.857142857,
+        "cumulative cases":68,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":68
+    },
+    {
+        "epi_date_v2":"6\/2\/2022",
+        "cases":12,
+        "7-day average":6.285714286,
+        "cumulative cases":80,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":80
+    },
+    {
+        "epi_date_v2":"6\/3\/2022",
+        "cases":6,
+        "7-day average":6.571428571,
+        "cumulative cases":86,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":86
+    },
+    {
+        "epi_date_v2":"6\/4\/2022",
+        "cases":4,
+        "7-day average":7.142857143,
+        "cumulative cases":90,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":90
+    },
+    {
+        "epi_date_v2":"6\/5\/2022",
+        "cases":5,
+        "7-day average":7.0,
+        "cumulative cases":95,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":95
+    },
+    {
+        "epi_date_v2":"6\/6\/2022",
+        "cases":22,
+        "7-day average":9.428571429,
+        "cumulative cases":117,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":117
+    },
+    {
+        "epi_date_v2":"6\/7\/2022",
+        "cases":19,
+        "7-day average":11.28571429,
+        "cumulative cases":136,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":136
+    },
+    {
+        "epi_date_v2":"6\/8\/2022",
+        "cases":13,
+        "7-day average":11.57142857,
+        "cumulative cases":149,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":149
+    },
+    {
+        "epi_date_v2":"6\/9\/2022",
+        "cases":6,
+        "7-day average":10.71428571,
+        "cumulative cases":155,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":155
+    },
+    {
+        "epi_date_v2":"6\/10\/2022",
+        "cases":22,
+        "7-day average":13.0,
+        "cumulative cases":177,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":177
+    },
+    {
+        "epi_date_v2":"6\/11\/2022",
+        "cases":11,
+        "7-day average":14.0,
+        "cumulative cases":188,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":188
+    },
+    {
+        "epi_date_v2":"6\/12\/2022",
+        "cases":28,
+        "7-day average":17.28571429,
+        "cumulative cases":216,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":216
+    },
+    {
+        "epi_date_v2":"6\/13\/2022",
+        "cases":23,
+        "7-day average":17.42857143,
+        "cumulative cases":239,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":239
+    },
+    {
+        "epi_date_v2":"6\/14\/2022",
+        "cases":26,
+        "7-day average":18.42857143,
+        "cumulative cases":265,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":265
+    },
+    {
+        "epi_date_v2":"6\/15\/2022",
+        "cases":35,
+        "7-day average":21.57142857,
+        "cumulative cases":300,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":300
+    },
+    {
+        "epi_date_v2":"6\/16\/2022",
+        "cases":26,
+        "7-day average":24.42857143,
+        "cumulative cases":326,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":326
+    },
+    {
+        "epi_date_v2":"6\/17\/2022",
+        "cases":32,
+        "7-day average":25.85714286,
+        "cumulative cases":358,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":358
+    },
+    {
+        "epi_date_v2":"6\/18\/2022",
+        "cases":25,
+        "7-day average":27.85714286,
+        "cumulative cases":383,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":383
+    },
+    {
+        "epi_date_v2":"6\/19\/2022",
+        "cases":36,
+        "7-day average":29.0,
+        "cumulative cases":419,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":419
+    },
+    {
+        "epi_date_v2":"6\/20\/2022",
+        "cases":38,
+        "7-day average":31.14285714,
+        "cumulative cases":457,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":457
+    },
+    {
+        "epi_date_v2":"6\/21\/2022",
+        "cases":42,
+        "7-day average":33.42857143,
+        "cumulative cases":499,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":499
+    },
+    {
+        "epi_date_v2":"6\/22\/2022",
+        "cases":62,
+        "7-day average":37.28571429,
+        "cumulative cases":561,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":561
+    },
+    {
+        "epi_date_v2":"6\/23\/2022",
+        "cases":56,
+        "7-day average":41.57142857,
+        "cumulative cases":617,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":617
+    },
+    {
+        "epi_date_v2":"6\/24\/2022",
+        "cases":49,
+        "7-day average":44.0,
+        "cumulative cases":666,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":666
+    },
+    {
+        "epi_date_v2":"6\/25\/2022",
+        "cases":54,
+        "7-day average":48.14285714,
+        "cumulative cases":720,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":720
+    },
+    {
+        "epi_date_v2":"6\/26\/2022",
+        "cases":63,
+        "7-day average":52.0,
+        "cumulative cases":783,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":783
+    },
+    {
+        "epi_date_v2":"6\/27\/2022",
+        "cases":93,
+        "7-day average":59.85714286,
+        "cumulative cases":876,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":876
+    },
+    {
+        "epi_date_v2":"6\/28\/2022",
+        "cases":89,
+        "7-day average":66.57142857,
+        "cumulative cases":965,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":965
+    },
+    {
+        "epi_date_v2":"6\/29\/2022",
+        "cases":76,
+        "7-day average":68.57142857,
+        "cumulative cases":1041,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":1041
+    },
+    {
+        "epi_date_v2":"6\/30\/2022",
+        "cases":111,
+        "7-day average":76.42857143,
+        "cumulative cases":1152,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":1152
+    },
+    {
+        "epi_date_v2":"7\/1\/2022",
+        "cases":136,
+        "7-day average":88.85714286,
+        "cumulative cases":1288,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":1288
+    },
+    {
+        "epi_date_v2":"7\/2\/2022",
+        "cases":123,
+        "7-day average":98.71428571,
+        "cumulative cases":1411,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":1411
+    },
+    {
+        "epi_date_v2":"7\/3\/2022",
+        "cases":129,
+        "7-day average":108.1428571,
+        "cumulative cases":1540,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":1540
+    },
+    {
+        "epi_date_v2":"7\/4\/2022",
+        "cases":160,
+        "7-day average":117.7142857,
+        "cumulative cases":1700,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":1700
+    },
+    {
+        "epi_date_v2":"7\/5\/2022",
+        "cases":187,
+        "7-day average":131.7142857,
+        "cumulative cases":1887,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":1887
+    },
+    {
+        "epi_date_v2":"7\/6\/2022",
+        "cases":172,
+        "7-day average":145.4285714,
+        "cumulative cases":2059,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":2059
+    },
+    {
+        "epi_date_v2":"7\/7\/2022",
+        "cases":182,
+        "7-day average":155.5714286,
+        "cumulative cases":2241,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":2241
+    },
+    {
+        "epi_date_v2":"7\/8\/2022",
+        "cases":241,
+        "7-day average":170.5714286,
+        "cumulative cases":2482,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":2482
+    },
+    {
+        "epi_date_v2":"7\/9\/2022",
+        "cases":187,
+        "7-day average":179.7142857,
+        "cumulative cases":2669,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":2669
+    },
+    {
+        "epi_date_v2":"7\/10\/2022",
+        "cases":217,
+        "7-day average":192.2857143,
+        "cumulative cases":2886,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":2886
+    },
+    {
+        "epi_date_v2":"7\/11\/2022",
+        "cases":346,
+        "7-day average":218.8571429,
+        "cumulative cases":3232,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":3232
+    },
+    {
+        "epi_date_v2":"7\/12\/2022",
+        "cases":231,
+        "7-day average":225.1428571,
+        "cumulative cases":3463,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":3463
+    },
+    {
+        "epi_date_v2":"7\/13\/2022",
+        "cases":268,
+        "7-day average":238.8571429,
+        "cumulative cases":3731,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":3731
+    },
+    {
+        "epi_date_v2":"7\/14\/2022",
+        "cases":295,
+        "7-day average":255.0,
+        "cumulative cases":4026,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":4026
+    },
+    {
+        "epi_date_v2":"7\/15\/2022",
+        "cases":345,
+        "7-day average":269.8571429,
+        "cumulative cases":4371,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":4371
+    },
+    {
+        "epi_date_v2":"7\/16\/2022",
+        "cases":252,
+        "7-day average":279.1428571,
+        "cumulative cases":4623,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":4623
+    },
+    {
+        "epi_date_v2":"7\/17\/2022",
+        "cases":245,
+        "7-day average":283.1428571,
+        "cumulative cases":4868,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":4868
+    },
+    {
+        "epi_date_v2":"7\/18\/2022",
+        "cases":396,
+        "7-day average":290.2857143,
+        "cumulative cases":5264,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":5264
+    },
+    {
+        "epi_date_v2":"7\/19\/2022",
+        "cases":328,
+        "7-day average":304.1428571,
+        "cumulative cases":5592,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":5592
+    },
+    {
+        "epi_date_v2":"7\/20\/2022",
+        "cases":356,
+        "7-day average":316.7142857,
+        "cumulative cases":5948,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":5948
+    },
+    {
+        "epi_date_v2":"7\/21\/2022",
+        "cases":339,
+        "7-day average":323.0,
+        "cumulative cases":6287,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":6287
+    },
+    {
+        "epi_date_v2":"7\/22\/2022",
+        "cases":361,
+        "7-day average":325.2857143,
+        "cumulative cases":6648,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":6648
+    },
+    {
+        "epi_date_v2":"7\/23\/2022",
+        "cases":299,
+        "7-day average":332.0,
+        "cumulative cases":6947,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":6947
+    },
+    {
+        "epi_date_v2":"7\/24\/2022",
+        "cases":310,
+        "7-day average":341.2857143,
+        "cumulative cases":7257,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":7257
+    },
+    {
+        "epi_date_v2":"7\/25\/2022",
+        "cases":518,
+        "7-day average":358.7142857,
+        "cumulative cases":7775,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":7775
+    },
+    {
+        "epi_date_v2":"7\/26\/2022",
+        "cases":402,
+        "7-day average":369.2857143,
+        "cumulative cases":8177,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":8177
+    },
+    {
+        "epi_date_v2":"7\/27\/2022",
+        "cases":452,
+        "7-day average":383.0,
+        "cumulative cases":8629,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":8629
+    },
+    {
+        "epi_date_v2":"7\/28\/2022",
+        "cases":432,
+        "7-day average":396.2857143,
+        "cumulative cases":9061,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":9061
+    },
+    {
+        "epi_date_v2":"7\/29\/2022",
+        "cases":451,
+        "7-day average":409.1428571,
+        "cumulative cases":9512,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":9512
+    },
+    {
+        "epi_date_v2":"7\/30\/2022",
+        "cases":358,
+        "7-day average":417.5714286,
+        "cumulative cases":9870,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":9870
+    },
+    {
+        "epi_date_v2":"7\/31\/2022",
+        "cases":349,
+        "7-day average":423.1428571,
+        "cumulative cases":10219,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":10219
+    },
+    {
+        "epi_date_v2":"8\/1\/2022",
+        "cases":624,
+        "7-day average":438.2857143,
+        "cumulative cases":10843,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":10843
+    },
+    {
+        "epi_date_v2":"8\/2\/2022",
+        "cases":477,
+        "7-day average":449.0,
+        "cumulative cases":11320,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":11320
+    },
+    {
+        "epi_date_v2":"8\/3\/2022",
+        "cases":455,
+        "7-day average":449.4285714,
+        "cumulative cases":11775,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":11775
+    },
+    {
+        "epi_date_v2":"8\/4\/2022",
+        "cases":437,
+        "7-day average":450.1428571,
+        "cumulative cases":12212,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":12212
+    },
+    {
+        "epi_date_v2":"8\/5\/2022",
+        "cases":486,
+        "7-day average":455.1428571,
+        "cumulative cases":12698,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":12698
+    },
+    {
+        "epi_date_v2":"8\/6\/2022",
+        "cases":371,
+        "7-day average":457.0,
+        "cumulative cases":13069,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":13069
+    },
+    {
+        "epi_date_v2":"8\/7\/2022",
+        "cases":322,
+        "7-day average":453.1428571,
+        "cumulative cases":13391,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":13391
+    },
+    {
+        "epi_date_v2":"8\/8\/2022",
+        "cases":515,
+        "7-day average":437.5714286,
+        "cumulative cases":13906,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":13906
+    },
+    {
+        "epi_date_v2":"8\/9\/2022",
+        "cases":427,
+        "7-day average":430.4285714,
+        "cumulative cases":14333,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":14333
+    },
+    {
+        "epi_date_v2":"8\/10\/2022",
+        "cases":471,
+        "7-day average":432.7142857,
+        "cumulative cases":14804,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":14804
+    },
+    {
+        "epi_date_v2":"8\/11\/2022",
+        "cases":412,
+        "7-day average":429.1428571,
+        "cumulative cases":15216,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":15216
+    },
+    {
+        "epi_date_v2":"8\/12\/2022",
+        "cases":418,
+        "7-day average":419.4285714,
+        "cumulative cases":15634,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":15634
+    },
+    {
+        "epi_date_v2":"8\/13\/2022",
+        "cases":353,
+        "7-day average":416.8571429,
+        "cumulative cases":15987,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":15987
+    },
+    {
+        "epi_date_v2":"8\/14\/2022",
+        "cases":304,
+        "7-day average":414.2857143,
+        "cumulative cases":16291,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":16291
+    },
+    {
+        "epi_date_v2":"8\/15\/2022",
+        "cases":491,
+        "7-day average":410.8571429,
+        "cumulative cases":16782,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":16782
+    },
+    {
+        "epi_date_v2":"8\/16\/2022",
+        "cases":339,
+        "7-day average":398.2857143,
+        "cumulative cases":17121,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":17121
+    },
+    {
+        "epi_date_v2":"8\/17\/2022",
+        "cases":335,
+        "7-day average":378.8571429,
+        "cumulative cases":17456,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":17456
+    },
+    {
+        "epi_date_v2":"8\/18\/2022",
+        "cases":393,
+        "7-day average":376.1428571,
+        "cumulative cases":17849,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":17849
+    },
+    {
+        "epi_date_v2":"8\/19\/2022",
+        "cases":405,
+        "7-day average":374.2857143,
+        "cumulative cases":18254,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":18254
+    },
+    {
+        "epi_date_v2":"8\/20\/2022",
+        "cases":332,
+        "7-day average":371.2857143,
+        "cumulative cases":18586,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":18586
+    },
+    {
+        "epi_date_v2":"8\/21\/2022",
+        "cases":267,
+        "7-day average":366.0,
+        "cumulative cases":18853,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":18853
+    },
+    {
+        "epi_date_v2":"8\/22\/2022",
+        "cases":367,
+        "7-day average":348.2857143,
+        "cumulative cases":19220,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":19220
+    },
+    {
+        "epi_date_v2":"8\/23\/2022",
+        "cases":368,
+        "7-day average":352.4285714,
+        "cumulative cases":19588,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":19588
+    },
+    {
+        "epi_date_v2":"8\/24\/2022",
+        "cases":313,
+        "7-day average":349.2857143,
+        "cumulative cases":19901,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":19901
+    },
+    {
+        "epi_date_v2":"8\/25\/2022",
+        "cases":314,
+        "7-day average":338.0,
+        "cumulative cases":20215,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":20215
+    },
+    {
+        "epi_date_v2":"8\/26\/2022",
+        "cases":331,
+        "7-day average":327.4285714,
+        "cumulative cases":20546,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":20546
+    },
+    {
+        "epi_date_v2":"8\/27\/2022",
+        "cases":223,
+        "7-day average":311.8571429,
+        "cumulative cases":20769,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":20769
+    },
+    {
+        "epi_date_v2":"8\/28\/2022",
+        "cases":226,
+        "7-day average":306.0,
+        "cumulative cases":20995,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":20995
+    },
+    {
+        "epi_date_v2":"8\/29\/2022",
+        "cases":322,
+        "7-day average":299.5714286,
+        "cumulative cases":21317,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":21317
+    },
+    {
+        "epi_date_v2":"8\/30\/2022",
+        "cases":271,
+        "7-day average":285.7142857,
+        "cumulative cases":21588,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":21588
+    },
+    {
+        "epi_date_v2":"8\/31\/2022",
+        "cases":236,
+        "7-day average":274.7142857,
+        "cumulative cases":21824,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":21824
+    },
+    {
+        "epi_date_v2":"9\/1\/2022",
+        "cases":338,
+        "7-day average":278.1428571,
+        "cumulative cases":22162,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":22162
+    },
+    {
+        "epi_date_v2":"9\/2\/2022",
+        "cases":290,
+        "7-day average":272.2857143,
+        "cumulative cases":22452,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":22452
+    },
+    {
+        "epi_date_v2":"9\/3\/2022",
+        "cases":192,
+        "7-day average":267.8571429,
+        "cumulative cases":22644,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":22644
+    },
+    {
+        "epi_date_v2":"9\/4\/2022",
+        "cases":157,
+        "7-day average":258.0,
+        "cumulative cases":22801,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":22801
+    },
+    {
+        "epi_date_v2":"9\/5\/2022",
+        "cases":228,
+        "7-day average":244.5714286,
+        "cumulative cases":23029,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":23029
+    },
+    {
+        "epi_date_v2":"9\/6\/2022",
+        "cases":282,
+        "7-day average":246.1428571,
+        "cumulative cases":23311,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":23311
+    },
+    {
+        "epi_date_v2":"9\/7\/2022",
+        "cases":239,
+        "7-day average":246.5714286,
+        "cumulative cases":23550,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":23550
+    },
+    {
+        "epi_date_v2":"9\/8\/2022",
+        "cases":230,
+        "7-day average":231.1428571,
+        "cumulative cases":23780,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":23780
+    },
+    {
+        "epi_date_v2":"9\/9\/2022",
+        "cases":221,
+        "7-day average":221.2857143,
+        "cumulative cases":24001,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":24001
+    },
+    {
+        "epi_date_v2":"9\/10\/2022",
+        "cases":168,
+        "7-day average":217.8571429,
+        "cumulative cases":24169,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":24169
+    },
+    {
+        "epi_date_v2":"9\/11\/2022",
+        "cases":103,
+        "7-day average":210.1428571,
+        "cumulative cases":24272,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":24272
+    },
+    {
+        "epi_date_v2":"9\/12\/2022",
+        "cases":243,
+        "7-day average":212.2857143,
+        "cumulative cases":24515,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":24515
+    },
+    {
+        "epi_date_v2":"9\/13\/2022",
+        "cases":193,
+        "7-day average":199.5714286,
+        "cumulative cases":24708,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":24708
+    },
+    {
+        "epi_date_v2":"9\/14\/2022",
+        "cases":174,
+        "7-day average":190.2857143,
+        "cumulative cases":24882,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":24882
+    },
+    {
+        "epi_date_v2":"9\/15\/2022",
+        "cases":187,
+        "7-day average":184.1428571,
+        "cumulative cases":25069,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":25069
+    },
+    {
+        "epi_date_v2":"9\/16\/2022",
+        "cases":181,
+        "7-day average":178.4285714,
+        "cumulative cases":25250,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":25250
+    },
+    {
+        "epi_date_v2":"9\/17\/2022",
+        "cases":135,
+        "7-day average":173.7142857,
+        "cumulative cases":25385,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":25385
+    },
+    {
+        "epi_date_v2":"9\/18\/2022",
+        "cases":118,
+        "7-day average":175.8571429,
+        "cumulative cases":25503,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":25503
+    },
+    {
+        "epi_date_v2":"9\/19\/2022",
+        "cases":141,
+        "7-day average":161.2857143,
+        "cumulative cases":25644,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":25644
+    },
+    {
+        "epi_date_v2":"9\/20\/2022",
+        "cases":173,
+        "7-day average":158.4285714,
+        "cumulative cases":25817,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":25817
+    },
+    {
+        "epi_date_v2":"9\/21\/2022",
+        "cases":147,
+        "7-day average":154.5714286,
+        "cumulative cases":25964,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":25964
+    },
+    {
+        "epi_date_v2":"9\/22\/2022",
+        "cases":151,
+        "7-day average":149.4285714,
+        "cumulative cases":26115,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":26115
+    },
+    {
+        "epi_date_v2":"9\/23\/2022",
+        "cases":131,
+        "7-day average":142.2857143,
+        "cumulative cases":26246,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":26246
+    },
+    {
+        "epi_date_v2":"9\/24\/2022",
+        "cases":82,
+        "7-day average":134.7142857,
+        "cumulative cases":26328,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":26328
+    },
+    {
+        "epi_date_v2":"9\/25\/2022",
+        "cases":81,
+        "7-day average":129.4285714,
+        "cumulative cases":26409,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":26409
+    },
+    {
+        "epi_date_v2":"9\/26\/2022",
+        "cases":151,
+        "7-day average":130.8571429,
+        "cumulative cases":26560,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":26560
+    },
+    {
+        "epi_date_v2":"9\/27\/2022",
+        "cases":114,
+        "7-day average":122.4285714,
+        "cumulative cases":26674,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":26674
+    },
+    {
+        "epi_date_v2":"9\/28\/2022",
+        "cases":95,
+        "7-day average":115.0,
+        "cumulative cases":26769,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":26769
+    },
+    {
+        "epi_date_v2":"9\/29\/2022",
+        "cases":121,
+        "7-day average":110.7142857,
+        "cumulative cases":26890,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":26890
+    },
+    {
+        "epi_date_v2":"9\/30\/2022",
+        "cases":119,
+        "7-day average":109.0,
+        "cumulative cases":27009,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":27009
+    },
+    {
+        "epi_date_v2":"10\/1\/2022",
+        "cases":83,
+        "7-day average":109.1428571,
+        "cumulative cases":27092,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":27092
+    },
+    {
+        "epi_date_v2":"10\/2\/2022",
+        "cases":66,
+        "7-day average":107.0,
+        "cumulative cases":27158,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":27158
+    },
+    {
+        "epi_date_v2":"10\/3\/2022",
+        "cases":98,
+        "7-day average":99.42857143,
+        "cumulative cases":27256,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":27256
+    },
+    {
+        "epi_date_v2":"10\/4\/2022",
+        "cases":86,
+        "7-day average":95.42857143,
+        "cumulative cases":27342,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":27342
+    },
+    {
+        "epi_date_v2":"10\/5\/2022",
+        "cases":91,
+        "7-day average":94.85714286,
+        "cumulative cases":27433,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":27433
+    },
+    {
+        "epi_date_v2":"10\/6\/2022",
+        "cases":106,
+        "7-day average":92.71428571,
+        "cumulative cases":27539,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":27539
+    },
+    {
+        "epi_date_v2":"10\/7\/2022",
+        "cases":86,
+        "7-day average":88.0,
+        "cumulative cases":27625,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":27625
+    },
+    {
+        "epi_date_v2":"10\/8\/2022",
+        "cases":51,
+        "7-day average":83.42857143,
+        "cumulative cases":27676,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":27676
+    },
+    {
+        "epi_date_v2":"10\/9\/2022",
+        "cases":64,
+        "7-day average":83.14285714,
+        "cumulative cases":27740,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":27740
+    },
+    {
+        "epi_date_v2":"10\/10\/2022",
+        "cases":93,
+        "7-day average":82.42857143,
+        "cumulative cases":27833,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":27833
+    },
+    {
+        "epi_date_v2":"10\/11\/2022",
+        "cases":76,
+        "7-day average":81.0,
+        "cumulative cases":27909,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":27909
+    },
+    {
+        "epi_date_v2":"10\/12\/2022",
+        "cases":67,
+        "7-day average":77.57142857,
+        "cumulative cases":27976,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":27976
+    },
+    {
+        "epi_date_v2":"10\/13\/2022",
+        "cases":76,
+        "7-day average":73.28571429,
+        "cumulative cases":28052,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":28052
+    },
+    {
+        "epi_date_v2":"10\/14\/2022",
+        "cases":68,
+        "7-day average":70.71428571,
+        "cumulative cases":28120,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":28120
+    },
+    {
+        "epi_date_v2":"10\/15\/2022",
+        "cases":49,
+        "7-day average":70.42857143,
+        "cumulative cases":28169,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":28169
+    },
+    {
+        "epi_date_v2":"10\/16\/2022",
+        "cases":45,
+        "7-day average":67.71428571,
+        "cumulative cases":28214,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":28214
+    },
+    {
+        "epi_date_v2":"10\/17\/2022",
+        "cases":69,
+        "7-day average":64.28571429,
+        "cumulative cases":28283,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":28283
+    },
+    {
+        "epi_date_v2":"10\/18\/2022",
+        "cases":54,
+        "7-day average":61.14285714,
+        "cumulative cases":28337,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":28337
+    },
+    {
+        "epi_date_v2":"10\/19\/2022",
+        "cases":46,
+        "7-day average":58.14285714,
+        "cumulative cases":28383,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":28383
+    },
+    {
+        "epi_date_v2":"10\/20\/2022",
+        "cases":67,
+        "7-day average":56.85714286,
+        "cumulative cases":28450,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":28450
+    },
+    {
+        "epi_date_v2":"10\/21\/2022",
+        "cases":53,
+        "7-day average":54.71428571,
+        "cumulative cases":28503,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":28503
+    },
+    {
+        "epi_date_v2":"10\/22\/2022",
+        "cases":34,
+        "7-day average":52.57142857,
+        "cumulative cases":28537,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":28537
+    },
+    {
+        "epi_date_v2":"10\/23\/2022",
+        "cases":26,
+        "7-day average":49.85714286,
+        "cumulative cases":28563,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":28563
+    },
+    {
+        "epi_date_v2":"10\/24\/2022",
+        "cases":56,
+        "7-day average":48.0,
+        "cumulative cases":28619,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":28619
+    },
+    {
+        "epi_date_v2":"10\/25\/2022",
+        "cases":41,
+        "7-day average":46.14285714,
+        "cumulative cases":28660,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":28660
+    },
+    {
+        "epi_date_v2":"10\/26\/2022",
+        "cases":59,
+        "7-day average":48.0,
+        "cumulative cases":28719,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":28719
+    },
+    {
+        "epi_date_v2":"10\/27\/2022",
+        "cases":53,
+        "7-day average":46.0,
+        "cumulative cases":28772,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":28772
+    },
+    {
+        "epi_date_v2":"10\/28\/2022",
+        "cases":43,
+        "7-day average":44.57142857,
+        "cumulative cases":28815,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":28815
+    },
+    {
+        "epi_date_v2":"10\/29\/2022",
+        "cases":28,
+        "7-day average":43.71428571,
+        "cumulative cases":28843,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":28843
+    },
+    {
+        "epi_date_v2":"10\/30\/2022",
+        "cases":22,
+        "7-day average":43.14285714,
+        "cumulative cases":28865,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":28865
+    },
+    {
+        "epi_date_v2":"10\/31\/2022",
+        "cases":48,
+        "7-day average":42.0,
+        "cumulative cases":28913,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":28913
+    },
+    {
+        "epi_date_v2":"11\/1\/2022",
+        "cases":42,
+        "7-day average":42.14285714,
+        "cumulative cases":28955,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":28955
+    },
+    {
+        "epi_date_v2":"11\/2\/2022",
+        "cases":41,
+        "7-day average":39.57142857,
+        "cumulative cases":28996,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":28996
+    },
+    {
+        "epi_date_v2":"11\/3\/2022",
+        "cases":38,
+        "7-day average":37.42857143,
+        "cumulative cases":29034,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":29034
+    },
+    {
+        "epi_date_v2":"11\/4\/2022",
+        "cases":34,
+        "7-day average":36.14285714,
+        "cumulative cases":29068,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":29068
+    },
+    {
+        "epi_date_v2":"11\/5\/2022",
+        "cases":32,
+        "7-day average":36.71428571,
+        "cumulative cases":29100,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":29100
+    },
+    {
+        "epi_date_v2":"11\/6\/2022",
+        "cases":25,
+        "7-day average":37.14285714,
+        "cumulative cases":29125,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":29125
+    },
+    {
+        "epi_date_v2":"11\/7\/2022",
+        "cases":40,
+        "7-day average":36.0,
+        "cumulative cases":29165,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":29165
+    },
+    {
+        "epi_date_v2":"11\/8\/2022",
+        "cases":28,
+        "7-day average":34.0,
+        "cumulative cases":29193,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":29193
+    },
+    {
+        "epi_date_v2":"11\/9\/2022",
+        "cases":29,
+        "7-day average":32.28571429,
+        "cumulative cases":29222,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":29222
+    },
+    {
+        "epi_date_v2":"11\/10\/2022",
+        "cases":24,
+        "7-day average":30.28571429,
+        "cumulative cases":29246,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":29246
+    },
+    {
+        "epi_date_v2":"11\/11\/2022",
+        "cases":29,
+        "7-day average":29.57142857,
+        "cumulative cases":29275,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":29275
+    },
+    {
+        "epi_date_v2":"11\/12\/2022",
+        "cases":17,
+        "7-day average":27.42857143,
+        "cumulative cases":29292,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":29292
+    },
+    {
+        "epi_date_v2":"11\/13\/2022",
+        "cases":23,
+        "7-day average":27.14285714,
+        "cumulative cases":29315,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":29315
+    },
+    {
+        "epi_date_v2":"11\/14\/2022",
+        "cases":43,
+        "7-day average":27.57142857,
+        "cumulative cases":29358,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":29358
+    },
+    {
+        "epi_date_v2":"11\/15\/2022",
+        "cases":19,
+        "7-day average":26.28571429,
+        "cumulative cases":29377,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":29377
+    },
+    {
+        "epi_date_v2":"11\/16\/2022",
+        "cases":20,
+        "7-day average":25.0,
+        "cumulative cases":29397,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":29397
+    },
+    {
+        "epi_date_v2":"11\/17\/2022",
+        "cases":15,
+        "7-day average":23.71428571,
+        "cumulative cases":29412,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":29412
+    },
+    {
+        "epi_date_v2":"11\/18\/2022",
+        "cases":31,
+        "7-day average":24.0,
+        "cumulative cases":29443,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":29443
+    },
+    {
+        "epi_date_v2":"11\/19\/2022",
+        "cases":18,
+        "7-day average":24.14285714,
+        "cumulative cases":29461,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":29461
+    },
+    {
+        "epi_date_v2":"11\/20\/2022",
+        "cases":16,
+        "7-day average":23.14285714,
+        "cumulative cases":29477,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":29477
+    },
+    {
+        "epi_date_v2":"11\/21\/2022",
+        "cases":20,
+        "7-day average":19.85714286,
+        "cumulative cases":29497,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":29497
+    },
+    {
+        "epi_date_v2":"11\/22\/2022",
+        "cases":18,
+        "7-day average":19.71428571,
+        "cumulative cases":29515,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":29515
+    },
+    {
+        "epi_date_v2":"11\/23\/2022",
+        "cases":18,
+        "7-day average":19.42857143,
+        "cumulative cases":29533,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":29533
+    },
+    {
+        "epi_date_v2":"11\/24\/2022",
+        "cases":16,
+        "7-day average":19.57142857,
+        "cumulative cases":29549,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":29549
+    },
+    {
+        "epi_date_v2":"11\/25\/2022",
+        "cases":12,
+        "7-day average":16.85714286,
+        "cumulative cases":29561,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":29561
+    },
+    {
+        "epi_date_v2":"11\/26\/2022",
+        "cases":15,
+        "7-day average":16.42857143,
+        "cumulative cases":29576,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":29576
+    },
+    {
+        "epi_date_v2":"11\/27\/2022",
+        "cases":7,
+        "7-day average":15.14285714,
+        "cumulative cases":29583,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":29583
+    },
+    {
+        "epi_date_v2":"11\/28\/2022",
+        "cases":23,
+        "7-day average":15.57142857,
+        "cumulative cases":29606,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":29606
+    },
+    {
+        "epi_date_v2":"11\/29\/2022",
+        "cases":16,
+        "7-day average":15.28571429,
+        "cumulative cases":29622,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":29622
+    },
+    {
+        "epi_date_v2":"11\/30\/2022",
+        "cases":19,
+        "7-day average":15.42857143,
+        "cumulative cases":29641,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":29641
+    },
+    {
+        "epi_date_v2":"12\/1\/2022",
+        "cases":25,
+        "7-day average":16.71428571,
+        "cumulative cases":29666,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":29666
+    },
+    {
+        "epi_date_v2":"12\/2\/2022",
+        "cases":12,
+        "7-day average":16.71428571,
+        "cumulative cases":29678,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":29678
+    },
+    {
+        "epi_date_v2":"12\/3\/2022",
+        "cases":8,
+        "7-day average":15.71428571,
+        "cumulative cases":29686,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":29686
+    },
+    {
+        "epi_date_v2":"12\/4\/2022",
+        "cases":7,
+        "7-day average":15.71428571,
+        "cumulative cases":29693,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":29693
+    },
+    {
+        "epi_date_v2":"12\/5\/2022",
+        "cases":28,
+        "7-day average":16.42857143,
+        "cumulative cases":29721,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":29721
+    },
+    {
+        "epi_date_v2":"12\/6\/2022",
+        "cases":9,
+        "7-day average":15.42857143,
+        "cumulative cases":29730,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":29730
+    },
+    {
+        "epi_date_v2":"12\/7\/2022",
+        "cases":10,
+        "7-day average":14.14285714,
+        "cumulative cases":29740,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":29740
+    },
+    {
+        "epi_date_v2":"12\/8\/2022",
+        "cases":18,
+        "7-day average":13.14285714,
+        "cumulative cases":29758,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":29758
+    },
+    {
+        "epi_date_v2":"12\/9\/2022",
+        "cases":8,
+        "7-day average":12.57142857,
+        "cumulative cases":29766,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":29766
+    },
+    {
+        "epi_date_v2":"12\/10\/2022",
+        "cases":8,
+        "7-day average":12.57142857,
+        "cumulative cases":29774,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":29774
+    },
+    {
+        "epi_date_v2":"12\/11\/2022",
+        "cases":5,
+        "7-day average":12.28571429,
+        "cumulative cases":29779,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":29779
+    },
+    {
+        "epi_date_v2":"12\/12\/2022",
+        "cases":11,
+        "7-day average":9.857142857,
+        "cumulative cases":29790,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":29790
+    },
+    {
+        "epi_date_v2":"12\/13\/2022",
+        "cases":2,
+        "7-day average":8.857142857,
+        "cumulative cases":29792,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":29792
+    },
+    {
+        "epi_date_v2":"12\/14\/2022",
+        "cases":12,
+        "7-day average":9.142857143,
+        "cumulative cases":29804,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":29804
+    },
+    {
+        "epi_date_v2":"12\/15\/2022",
+        "cases":10,
+        "7-day average":8.0,
+        "cumulative cases":29814,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":29814
+    },
+    {
+        "epi_date_v2":"12\/16\/2022",
+        "cases":13,
+        "7-day average":8.714285714,
+        "cumulative cases":29827,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":29827
+    },
+    {
+        "epi_date_v2":"12\/17\/2022",
+        "cases":4,
+        "7-day average":8.142857143,
+        "cumulative cases":29831,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":29831
+    },
+    {
+        "epi_date_v2":"12\/18\/2022",
+        "cases":7,
+        "7-day average":8.428571429,
+        "cumulative cases":29838,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":29838
+    },
+    {
+        "epi_date_v2":"12\/19\/2022",
+        "cases":9,
+        "7-day average":8.142857143,
+        "cumulative cases":29847,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":29847
+    },
+    {
+        "epi_date_v2":"12\/20\/2022",
+        "cases":6,
+        "7-day average":8.714285714,
+        "cumulative cases":29853,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":29853
+    },
+    {
+        "epi_date_v2":"12\/21\/2022",
+        "cases":3,
+        "7-day average":7.428571429,
+        "cumulative cases":29856,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":29856
+    },
+    {
+        "epi_date_v2":"12\/22\/2022",
+        "cases":2,
+        "7-day average":6.285714286,
+        "cumulative cases":29858,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":29858
+    },
+    {
+        "epi_date_v2":"12\/23\/2022",
+        "cases":3,
+        "7-day average":4.857142857,
+        "cumulative cases":29861,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":29861
+    },
+    {
+        "epi_date_v2":"12\/24\/2022",
+        "cases":2,
+        "7-day average":4.571428571,
+        "cumulative cases":29863,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":29863
+    },
+    {
+        "epi_date_v2":"12\/25\/2022",
+        "cases":3,
+        "7-day average":4.0,
+        "cumulative cases":29866,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":29866
+    },
+    {
+        "epi_date_v2":"12\/26\/2022",
+        "cases":3,
+        "7-day average":3.142857143,
+        "cumulative cases":29869,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":29869
+    },
+    {
+        "epi_date_v2":"12\/27\/2022",
+        "cases":8,
+        "7-day average":3.428571429,
+        "cumulative cases":29877,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":29877
+    },
+    {
+        "epi_date_v2":"12\/28\/2022",
+        "cases":3,
+        "7-day average":3.428571429,
+        "cumulative cases":29880,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":29880
+    },
+    {
+        "epi_date_v2":"12\/29\/2022",
+        "cases":4,
+        "7-day average":3.714285714,
+        "cumulative cases":29884,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":29884
+    },
+    {
+        "epi_date_v2":"12\/30\/2022",
+        "cases":8,
+        "7-day average":4.428571429,
+        "cumulative cases":29892,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":29892
+    },
+    {
+        "epi_date_v2":"12\/31\/2022",
+        "cases":3,
+        "7-day average":4.571428571,
+        "cumulative cases":29895,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":29895
+    },
+    {
+        "epi_date_v2":"1\/1\/2023",
+        "cases":0,
+        "7-day average":4.142857143,
+        "cumulative cases":29895,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":29895
+    },
+    {
+        "epi_date_v2":"1\/2\/2023",
+        "cases":2,
+        "7-day average":4.0,
+        "cumulative cases":29897,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":29897
+    },
+    {
+        "epi_date_v2":"1\/3\/2023",
+        "cases":9,
+        "7-day average":4.142857143,
+        "cumulative cases":29906,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":29906
+    },
+    {
+        "epi_date_v2":"1\/4\/2023",
+        "cases":4,
+        "7-day average":4.285714286,
+        "cumulative cases":29910,
+        "asof":"Data as Reported to CDC as of 04 Jan 2023 2:00 PM EDT",
+        "cumulative_sum":29910
+    }
+]
