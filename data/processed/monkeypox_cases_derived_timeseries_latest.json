@@ -1,5 +1,10 @@
 [
     {
+        "date":"2023-01-09",
+        "cases":0,
+        "cumulative_sum":26046
+    },
+    {
         "date":"2023-01-08",
         "cases":0,
         "cumulative_sum":26046
