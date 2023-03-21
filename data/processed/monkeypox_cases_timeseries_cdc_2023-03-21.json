@@ -1,0 +1,2482 @@
+[
+    {
+        "epi_date_v3":"5\/10\/2022",
+        "cases":1,
+        "7-day average":0.0,
+        "cumulative cases":1,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":1
+    },
+    {
+        "epi_date_v3":"5\/11\/2022",
+        "cases":5,
+        "7-day average":0.0,
+        "cumulative cases":6,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":6
+    },
+    {
+        "epi_date_v3":"5\/12\/2022",
+        "cases":0,
+        "7-day average":0.0,
+        "cumulative cases":6,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":6
+    },
+    {
+        "epi_date_v3":"5\/13\/2022",
+        "cases":0,
+        "7-day average":0.0,
+        "cumulative cases":6,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":6
+    },
+    {
+        "epi_date_v3":"5\/14\/2022",
+        "cases":0,
+        "7-day average":0.0,
+        "cumulative cases":6,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":6
+    },
+    {
+        "epi_date_v3":"5\/15\/2022",
+        "cases":2,
+        "7-day average":0.0,
+        "cumulative cases":8,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":8
+    },
+    {
+        "epi_date_v3":"5\/16\/2022",
+        "cases":7,
+        "7-day average":2.142857143,
+        "cumulative cases":15,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":15
+    },
+    {
+        "epi_date_v3":"5\/17\/2022",
+        "cases":3,
+        "7-day average":2.428571429,
+        "cumulative cases":18,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":18
+    },
+    {
+        "epi_date_v3":"5\/18\/2022",
+        "cases":2,
+        "7-day average":2.0,
+        "cumulative cases":20,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":20
+    },
+    {
+        "epi_date_v3":"5\/19\/2022",
+        "cases":3,
+        "7-day average":2.428571429,
+        "cumulative cases":23,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":23
+    },
+    {
+        "epi_date_v3":"5\/20\/2022",
+        "cases":0,
+        "7-day average":2.428571429,
+        "cumulative cases":23,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":23
+    },
+    {
+        "epi_date_v3":"5\/21\/2022",
+        "cases":1,
+        "7-day average":2.571428571,
+        "cumulative cases":24,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":24
+    },
+    {
+        "epi_date_v3":"5\/22\/2022",
+        "cases":1,
+        "7-day average":2.428571429,
+        "cumulative cases":25,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":25
+    },
+    {
+        "epi_date_v3":"5\/23\/2022",
+        "cases":3,
+        "7-day average":1.857142857,
+        "cumulative cases":28,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":28
+    },
+    {
+        "epi_date_v3":"5\/24\/2022",
+        "cases":4,
+        "7-day average":2.0,
+        "cumulative cases":32,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":32
+    },
+    {
+        "epi_date_v3":"5\/25\/2022",
+        "cases":2,
+        "7-day average":2.0,
+        "cumulative cases":34,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":34
+    },
+    {
+        "epi_date_v3":"5\/26\/2022",
+        "cases":2,
+        "7-day average":1.857142857,
+        "cumulative cases":36,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":36
+    },
+    {
+        "epi_date_v3":"5\/27\/2022",
+        "cases":4,
+        "7-day average":2.428571429,
+        "cumulative cases":40,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":40
+    },
+    {
+        "epi_date_v3":"5\/28\/2022",
+        "cases":0,
+        "7-day average":2.285714286,
+        "cumulative cases":40,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":40
+    },
+    {
+        "epi_date_v3":"5\/29\/2022",
+        "cases":6,
+        "7-day average":3.0,
+        "cumulative cases":46,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":46
+    },
+    {
+        "epi_date_v3":"5\/30\/2022",
+        "cases":8,
+        "7-day average":3.714285714,
+        "cumulative cases":54,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":54
+    },
+    {
+        "epi_date_v3":"5\/31\/2022",
+        "cases":5,
+        "7-day average":3.857142857,
+        "cumulative cases":59,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":59
+    },
+    {
+        "epi_date_v3":"6\/1\/2022",
+        "cases":9,
+        "7-day average":4.857142857,
+        "cumulative cases":68,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":68
+    },
+    {
+        "epi_date_v3":"6\/2\/2022",
+        "cases":13,
+        "7-day average":6.428571429,
+        "cumulative cases":81,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":81
+    },
+    {
+        "epi_date_v3":"6\/3\/2022",
+        "cases":7,
+        "7-day average":6.857142857,
+        "cumulative cases":88,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":88
+    },
+    {
+        "epi_date_v3":"6\/4\/2022",
+        "cases":5,
+        "7-day average":7.571428571,
+        "cumulative cases":93,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":93
+    },
+    {
+        "epi_date_v3":"6\/5\/2022",
+        "cases":6,
+        "7-day average":7.571428571,
+        "cumulative cases":99,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":99
+    },
+    {
+        "epi_date_v3":"6\/6\/2022",
+        "cases":20,
+        "7-day average":9.285714286,
+        "cumulative cases":119,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":119
+    },
+    {
+        "epi_date_v3":"6\/7\/2022",
+        "cases":19,
+        "7-day average":11.28571429,
+        "cumulative cases":138,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":138
+    },
+    {
+        "epi_date_v3":"6\/8\/2022",
+        "cases":12,
+        "7-day average":11.71428571,
+        "cumulative cases":150,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":150
+    },
+    {
+        "epi_date_v3":"6\/9\/2022",
+        "cases":6,
+        "7-day average":10.71428571,
+        "cumulative cases":156,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":156
+    },
+    {
+        "epi_date_v3":"6\/10\/2022",
+        "cases":24,
+        "7-day average":13.14285714,
+        "cumulative cases":180,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":180
+    },
+    {
+        "epi_date_v3":"6\/11\/2022",
+        "cases":11,
+        "7-day average":14.0,
+        "cumulative cases":191,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":191
+    },
+    {
+        "epi_date_v3":"6\/12\/2022",
+        "cases":27,
+        "7-day average":17.0,
+        "cumulative cases":218,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":218
+    },
+    {
+        "epi_date_v3":"6\/13\/2022",
+        "cases":25,
+        "7-day average":17.71428571,
+        "cumulative cases":243,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":243
+    },
+    {
+        "epi_date_v3":"6\/14\/2022",
+        "cases":26,
+        "7-day average":18.71428571,
+        "cumulative cases":269,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":269
+    },
+    {
+        "epi_date_v3":"6\/15\/2022",
+        "cases":33,
+        "7-day average":21.71428571,
+        "cumulative cases":302,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":302
+    },
+    {
+        "epi_date_v3":"6\/16\/2022",
+        "cases":26,
+        "7-day average":24.57142857,
+        "cumulative cases":328,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":328
+    },
+    {
+        "epi_date_v3":"6\/17\/2022",
+        "cases":33,
+        "7-day average":25.85714286,
+        "cumulative cases":361,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":361
+    },
+    {
+        "epi_date_v3":"6\/18\/2022",
+        "cases":26,
+        "7-day average":28.0,
+        "cumulative cases":387,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":387
+    },
+    {
+        "epi_date_v3":"6\/19\/2022",
+        "cases":36,
+        "7-day average":29.28571429,
+        "cumulative cases":423,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":423
+    },
+    {
+        "epi_date_v3":"6\/20\/2022",
+        "cases":42,
+        "7-day average":31.71428571,
+        "cumulative cases":465,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":465
+    },
+    {
+        "epi_date_v3":"6\/21\/2022",
+        "cases":43,
+        "7-day average":34.14285714,
+        "cumulative cases":508,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":508
+    },
+    {
+        "epi_date_v3":"6\/22\/2022",
+        "cases":62,
+        "7-day average":38.28571429,
+        "cumulative cases":570,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":570
+    },
+    {
+        "epi_date_v3":"6\/23\/2022",
+        "cases":56,
+        "7-day average":42.57142857,
+        "cumulative cases":626,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":626
+    },
+    {
+        "epi_date_v3":"6\/24\/2022",
+        "cases":50,
+        "7-day average":45.0,
+        "cumulative cases":676,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":676
+    },
+    {
+        "epi_date_v3":"6\/25\/2022",
+        "cases":55,
+        "7-day average":49.14285714,
+        "cumulative cases":731,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":731
+    },
+    {
+        "epi_date_v3":"6\/26\/2022",
+        "cases":65,
+        "7-day average":53.28571429,
+        "cumulative cases":796,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":796
+    },
+    {
+        "epi_date_v3":"6\/27\/2022",
+        "cases":97,
+        "7-day average":61.14285714,
+        "cumulative cases":893,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":893
+    },
+    {
+        "epi_date_v3":"6\/28\/2022",
+        "cases":90,
+        "7-day average":67.85714286,
+        "cumulative cases":983,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":983
+    },
+    {
+        "epi_date_v3":"6\/29\/2022",
+        "cases":79,
+        "7-day average":70.28571429,
+        "cumulative cases":1062,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":1062
+    },
+    {
+        "epi_date_v3":"6\/30\/2022",
+        "cases":114,
+        "7-day average":78.57142857,
+        "cumulative cases":1176,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":1176
+    },
+    {
+        "epi_date_v3":"7\/1\/2022",
+        "cases":135,
+        "7-day average":90.71428571,
+        "cumulative cases":1311,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":1311
+    },
+    {
+        "epi_date_v3":"7\/2\/2022",
+        "cases":126,
+        "7-day average":100.8571429,
+        "cumulative cases":1437,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":1437
+    },
+    {
+        "epi_date_v3":"7\/3\/2022",
+        "cases":132,
+        "7-day average":110.4285714,
+        "cumulative cases":1569,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":1569
+    },
+    {
+        "epi_date_v3":"7\/4\/2022",
+        "cases":163,
+        "7-day average":119.8571429,
+        "cumulative cases":1732,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":1732
+    },
+    {
+        "epi_date_v3":"7\/5\/2022",
+        "cases":184,
+        "7-day average":133.2857143,
+        "cumulative cases":1916,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":1916
+    },
+    {
+        "epi_date_v3":"7\/6\/2022",
+        "cases":178,
+        "7-day average":147.4285714,
+        "cumulative cases":2094,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":2094
+    },
+    {
+        "epi_date_v3":"7\/7\/2022",
+        "cases":186,
+        "7-day average":157.7142857,
+        "cumulative cases":2280,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":2280
+    },
+    {
+        "epi_date_v3":"7\/8\/2022",
+        "cases":245,
+        "7-day average":173.4285714,
+        "cumulative cases":2525,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":2525
+    },
+    {
+        "epi_date_v3":"7\/9\/2022",
+        "cases":192,
+        "7-day average":182.8571429,
+        "cumulative cases":2717,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":2717
+    },
+    {
+        "epi_date_v3":"7\/10\/2022",
+        "cases":221,
+        "7-day average":195.5714286,
+        "cumulative cases":2938,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":2938
+    },
+    {
+        "epi_date_v3":"7\/11\/2022",
+        "cases":347,
+        "7-day average":221.8571429,
+        "cumulative cases":3285,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":3285
+    },
+    {
+        "epi_date_v3":"7\/12\/2022",
+        "cases":236,
+        "7-day average":229.2857143,
+        "cumulative cases":3521,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":3521
+    },
+    {
+        "epi_date_v3":"7\/13\/2022",
+        "cases":275,
+        "7-day average":243.1428571,
+        "cumulative cases":3796,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":3796
+    },
+    {
+        "epi_date_v3":"7\/14\/2022",
+        "cases":301,
+        "7-day average":259.5714286,
+        "cumulative cases":4097,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":4097
+    },
+    {
+        "epi_date_v3":"7\/15\/2022",
+        "cases":350,
+        "7-day average":274.5714286,
+        "cumulative cases":4447,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":4447
+    },
+    {
+        "epi_date_v3":"7\/16\/2022",
+        "cases":259,
+        "7-day average":284.1428571,
+        "cumulative cases":4706,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":4706
+    },
+    {
+        "epi_date_v3":"7\/17\/2022",
+        "cases":252,
+        "7-day average":288.5714286,
+        "cumulative cases":4958,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":4958
+    },
+    {
+        "epi_date_v3":"7\/18\/2022",
+        "cases":412,
+        "7-day average":297.8571429,
+        "cumulative cases":5370,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":5370
+    },
+    {
+        "epi_date_v3":"7\/19\/2022",
+        "cases":328,
+        "7-day average":311.0,
+        "cumulative cases":5698,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":5698
+    },
+    {
+        "epi_date_v3":"7\/20\/2022",
+        "cases":369,
+        "7-day average":324.4285714,
+        "cumulative cases":6067,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":6067
+    },
+    {
+        "epi_date_v3":"7\/21\/2022",
+        "cases":336,
+        "7-day average":329.4285714,
+        "cumulative cases":6403,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":6403
+    },
+    {
+        "epi_date_v3":"7\/22\/2022",
+        "cases":354,
+        "7-day average":330.0,
+        "cumulative cases":6757,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":6757
+    },
+    {
+        "epi_date_v3":"7\/23\/2022",
+        "cases":308,
+        "7-day average":337.0,
+        "cumulative cases":7065,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":7065
+    },
+    {
+        "epi_date_v3":"7\/24\/2022",
+        "cases":324,
+        "7-day average":347.2857143,
+        "cumulative cases":7389,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":7389
+    },
+    {
+        "epi_date_v3":"7\/25\/2022",
+        "cases":512,
+        "7-day average":361.5714286,
+        "cumulative cases":7901,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":7901
+    },
+    {
+        "epi_date_v3":"7\/26\/2022",
+        "cases":405,
+        "7-day average":372.5714286,
+        "cumulative cases":8306,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":8306
+    },
+    {
+        "epi_date_v3":"7\/27\/2022",
+        "cases":462,
+        "7-day average":385.8571429,
+        "cumulative cases":8768,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":8768
+    },
+    {
+        "epi_date_v3":"7\/28\/2022",
+        "cases":437,
+        "7-day average":400.2857143,
+        "cumulative cases":9205,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":9205
+    },
+    {
+        "epi_date_v3":"7\/29\/2022",
+        "cases":461,
+        "7-day average":415.5714286,
+        "cumulative cases":9666,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":9666
+    },
+    {
+        "epi_date_v3":"7\/30\/2022",
+        "cases":372,
+        "7-day average":424.7142857,
+        "cumulative cases":10038,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":10038
+    },
+    {
+        "epi_date_v3":"7\/31\/2022",
+        "cases":359,
+        "7-day average":429.7142857,
+        "cumulative cases":10397,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":10397
+    },
+    {
+        "epi_date_v3":"8\/1\/2022",
+        "cases":631,
+        "7-day average":446.7142857,
+        "cumulative cases":11028,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":11028
+    },
+    {
+        "epi_date_v3":"8\/2\/2022",
+        "cases":468,
+        "7-day average":455.7142857,
+        "cumulative cases":11496,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":11496
+    },
+    {
+        "epi_date_v3":"8\/3\/2022",
+        "cases":452,
+        "7-day average":454.2857143,
+        "cumulative cases":11948,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":11948
+    },
+    {
+        "epi_date_v3":"8\/4\/2022",
+        "cases":431,
+        "7-day average":453.4285714,
+        "cumulative cases":12379,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":12379
+    },
+    {
+        "epi_date_v3":"8\/5\/2022",
+        "cases":490,
+        "7-day average":457.5714286,
+        "cumulative cases":12869,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":12869
+    },
+    {
+        "epi_date_v3":"8\/6\/2022",
+        "cases":388,
+        "7-day average":459.8571429,
+        "cumulative cases":13257,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":13257
+    },
+    {
+        "epi_date_v3":"8\/7\/2022",
+        "cases":353,
+        "7-day average":459.0,
+        "cumulative cases":13610,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":13610
+    },
+    {
+        "epi_date_v3":"8\/8\/2022",
+        "cases":498,
+        "7-day average":440.0,
+        "cumulative cases":14108,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":14108
+    },
+    {
+        "epi_date_v3":"8\/9\/2022",
+        "cases":413,
+        "7-day average":432.1428571,
+        "cumulative cases":14521,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":14521
+    },
+    {
+        "epi_date_v3":"8\/10\/2022",
+        "cases":463,
+        "7-day average":433.7142857,
+        "cumulative cases":14984,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":14984
+    },
+    {
+        "epi_date_v3":"8\/11\/2022",
+        "cases":402,
+        "7-day average":429.5714286,
+        "cumulative cases":15386,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":15386
+    },
+    {
+        "epi_date_v3":"8\/12\/2022",
+        "cases":417,
+        "7-day average":419.1428571,
+        "cumulative cases":15803,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":15803
+    },
+    {
+        "epi_date_v3":"8\/13\/2022",
+        "cases":360,
+        "7-day average":415.1428571,
+        "cumulative cases":16163,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":16163
+    },
+    {
+        "epi_date_v3":"8\/14\/2022",
+        "cases":316,
+        "7-day average":409.8571429,
+        "cumulative cases":16479,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":16479
+    },
+    {
+        "epi_date_v3":"8\/15\/2022",
+        "cases":474,
+        "7-day average":406.4285714,
+        "cumulative cases":16953,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":16953
+    },
+    {
+        "epi_date_v3":"8\/16\/2022",
+        "cases":324,
+        "7-day average":393.7142857,
+        "cumulative cases":17277,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":17277
+    },
+    {
+        "epi_date_v3":"8\/17\/2022",
+        "cases":336,
+        "7-day average":375.5714286,
+        "cumulative cases":17613,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":17613
+    },
+    {
+        "epi_date_v3":"8\/18\/2022",
+        "cases":401,
+        "7-day average":375.4285714,
+        "cumulative cases":18014,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":18014
+    },
+    {
+        "epi_date_v3":"8\/19\/2022",
+        "cases":395,
+        "7-day average":372.2857143,
+        "cumulative cases":18409,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":18409
+    },
+    {
+        "epi_date_v3":"8\/20\/2022",
+        "cases":342,
+        "7-day average":369.7142857,
+        "cumulative cases":18751,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":18751
+    },
+    {
+        "epi_date_v3":"8\/21\/2022",
+        "cases":274,
+        "7-day average":363.7142857,
+        "cumulative cases":19025,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":19025
+    },
+    {
+        "epi_date_v3":"8\/22\/2022",
+        "cases":349,
+        "7-day average":345.8571429,
+        "cumulative cases":19374,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":19374
+    },
+    {
+        "epi_date_v3":"8\/23\/2022",
+        "cases":358,
+        "7-day average":350.7142857,
+        "cumulative cases":19732,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":19732
+    },
+    {
+        "epi_date_v3":"8\/24\/2022",
+        "cases":304,
+        "7-day average":346.1428571,
+        "cumulative cases":20036,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":20036
+    },
+    {
+        "epi_date_v3":"8\/25\/2022",
+        "cases":316,
+        "7-day average":334.0,
+        "cumulative cases":20352,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":20352
+    },
+    {
+        "epi_date_v3":"8\/26\/2022",
+        "cases":318,
+        "7-day average":323.0,
+        "cumulative cases":20670,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":20670
+    },
+    {
+        "epi_date_v3":"8\/27\/2022",
+        "cases":240,
+        "7-day average":308.4285714,
+        "cumulative cases":20910,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":20910
+    },
+    {
+        "epi_date_v3":"8\/28\/2022",
+        "cases":237,
+        "7-day average":303.1428571,
+        "cumulative cases":21147,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":21147
+    },
+    {
+        "epi_date_v3":"8\/29\/2022",
+        "cases":304,
+        "7-day average":296.7142857,
+        "cumulative cases":21451,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":21451
+    },
+    {
+        "epi_date_v3":"8\/30\/2022",
+        "cases":271,
+        "7-day average":284.2857143,
+        "cumulative cases":21722,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":21722
+    },
+    {
+        "epi_date_v3":"8\/31\/2022",
+        "cases":228,
+        "7-day average":273.4285714,
+        "cumulative cases":21950,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":21950
+    },
+    {
+        "epi_date_v3":"9\/1\/2022",
+        "cases":340,
+        "7-day average":276.8571429,
+        "cumulative cases":22290,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":22290
+    },
+    {
+        "epi_date_v3":"9\/2\/2022",
+        "cases":289,
+        "7-day average":272.7142857,
+        "cumulative cases":22579,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":22579
+    },
+    {
+        "epi_date_v3":"9\/3\/2022",
+        "cases":196,
+        "7-day average":266.4285714,
+        "cumulative cases":22775,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":22775
+    },
+    {
+        "epi_date_v3":"9\/4\/2022",
+        "cases":166,
+        "7-day average":256.2857143,
+        "cumulative cases":22941,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":22941
+    },
+    {
+        "epi_date_v3":"9\/5\/2022",
+        "cases":239,
+        "7-day average":247.0,
+        "cumulative cases":23180,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":23180
+    },
+    {
+        "epi_date_v3":"9\/6\/2022",
+        "cases":270,
+        "7-day average":246.8571429,
+        "cumulative cases":23450,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":23450
+    },
+    {
+        "epi_date_v3":"9\/7\/2022",
+        "cases":235,
+        "7-day average":247.8571429,
+        "cumulative cases":23685,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":23685
+    },
+    {
+        "epi_date_v3":"9\/8\/2022",
+        "cases":238,
+        "7-day average":233.2857143,
+        "cumulative cases":23923,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":23923
+    },
+    {
+        "epi_date_v3":"9\/9\/2022",
+        "cases":208,
+        "7-day average":221.7142857,
+        "cumulative cases":24131,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":24131
+    },
+    {
+        "epi_date_v3":"9\/10\/2022",
+        "cases":173,
+        "7-day average":218.4285714,
+        "cumulative cases":24304,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":24304
+    },
+    {
+        "epi_date_v3":"9\/11\/2022",
+        "cases":108,
+        "7-day average":210.1428571,
+        "cumulative cases":24412,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":24412
+    },
+    {
+        "epi_date_v3":"9\/12\/2022",
+        "cases":244,
+        "7-day average":210.8571429,
+        "cumulative cases":24656,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":24656
+    },
+    {
+        "epi_date_v3":"9\/13\/2022",
+        "cases":186,
+        "7-day average":198.8571429,
+        "cumulative cases":24842,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":24842
+    },
+    {
+        "epi_date_v3":"9\/14\/2022",
+        "cases":183,
+        "7-day average":191.4285714,
+        "cumulative cases":25025,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":25025
+    },
+    {
+        "epi_date_v3":"9\/15\/2022",
+        "cases":184,
+        "7-day average":183.7142857,
+        "cumulative cases":25209,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":25209
+    },
+    {
+        "epi_date_v3":"9\/16\/2022",
+        "cases":175,
+        "7-day average":179.0,
+        "cumulative cases":25384,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":25384
+    },
+    {
+        "epi_date_v3":"9\/17\/2022",
+        "cases":136,
+        "7-day average":173.7142857,
+        "cumulative cases":25520,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":25520
+    },
+    {
+        "epi_date_v3":"9\/18\/2022",
+        "cases":120,
+        "7-day average":175.4285714,
+        "cumulative cases":25640,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":25640
+    },
+    {
+        "epi_date_v3":"9\/19\/2022",
+        "cases":132,
+        "7-day average":159.4285714,
+        "cumulative cases":25772,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":25772
+    },
+    {
+        "epi_date_v3":"9\/20\/2022",
+        "cases":165,
+        "7-day average":156.4285714,
+        "cumulative cases":25937,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":25937
+    },
+    {
+        "epi_date_v3":"9\/21\/2022",
+        "cases":138,
+        "7-day average":150.0,
+        "cumulative cases":26075,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":26075
+    },
+    {
+        "epi_date_v3":"9\/22\/2022",
+        "cases":152,
+        "7-day average":145.4285714,
+        "cumulative cases":26227,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":26227
+    },
+    {
+        "epi_date_v3":"9\/23\/2022",
+        "cases":120,
+        "7-day average":137.5714286,
+        "cumulative cases":26347,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":26347
+    },
+    {
+        "epi_date_v3":"9\/24\/2022",
+        "cases":82,
+        "7-day average":129.8571429,
+        "cumulative cases":26429,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":26429
+    },
+    {
+        "epi_date_v3":"9\/25\/2022",
+        "cases":86,
+        "7-day average":125.0,
+        "cumulative cases":26515,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":26515
+    },
+    {
+        "epi_date_v3":"9\/26\/2022",
+        "cases":139,
+        "7-day average":126.0,
+        "cumulative cases":26654,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":26654
+    },
+    {
+        "epi_date_v3":"9\/27\/2022",
+        "cases":109,
+        "7-day average":118.0,
+        "cumulative cases":26763,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":26763
+    },
+    {
+        "epi_date_v3":"9\/28\/2022",
+        "cases":101,
+        "7-day average":112.7142857,
+        "cumulative cases":26864,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":26864
+    },
+    {
+        "epi_date_v3":"9\/29\/2022",
+        "cases":111,
+        "7-day average":106.8571429,
+        "cumulative cases":26975,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":26975
+    },
+    {
+        "epi_date_v3":"9\/30\/2022",
+        "cases":108,
+        "7-day average":105.1428571,
+        "cumulative cases":27083,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":27083
+    },
+    {
+        "epi_date_v3":"10\/1\/2022",
+        "cases":85,
+        "7-day average":105.5714286,
+        "cumulative cases":27168,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":27168
+    },
+    {
+        "epi_date_v3":"10\/2\/2022",
+        "cases":66,
+        "7-day average":102.7142857,
+        "cumulative cases":27234,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":27234
+    },
+    {
+        "epi_date_v3":"10\/3\/2022",
+        "cases":89,
+        "7-day average":95.57142857,
+        "cumulative cases":27323,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":27323
+    },
+    {
+        "epi_date_v3":"10\/4\/2022",
+        "cases":81,
+        "7-day average":91.57142857,
+        "cumulative cases":27404,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":27404
+    },
+    {
+        "epi_date_v3":"10\/5\/2022",
+        "cases":92,
+        "7-day average":90.28571429,
+        "cumulative cases":27496,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":27496
+    },
+    {
+        "epi_date_v3":"10\/6\/2022",
+        "cases":107,
+        "7-day average":89.71428571,
+        "cumulative cases":27603,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":27603
+    },
+    {
+        "epi_date_v3":"10\/7\/2022",
+        "cases":89,
+        "7-day average":87.0,
+        "cumulative cases":27692,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":27692
+    },
+    {
+        "epi_date_v3":"10\/8\/2022",
+        "cases":55,
+        "7-day average":82.71428571,
+        "cumulative cases":27747,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":27747
+    },
+    {
+        "epi_date_v3":"10\/9\/2022",
+        "cases":73,
+        "7-day average":83.71428571,
+        "cumulative cases":27820,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":27820
+    },
+    {
+        "epi_date_v3":"10\/10\/2022",
+        "cases":82,
+        "7-day average":82.71428571,
+        "cumulative cases":27902,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":27902
+    },
+    {
+        "epi_date_v3":"10\/11\/2022",
+        "cases":68,
+        "7-day average":80.85714286,
+        "cumulative cases":27970,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":27970
+    },
+    {
+        "epi_date_v3":"10\/12\/2022",
+        "cases":68,
+        "7-day average":77.42857143,
+        "cumulative cases":28038,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":28038
+    },
+    {
+        "epi_date_v3":"10\/13\/2022",
+        "cases":69,
+        "7-day average":72.0,
+        "cumulative cases":28107,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":28107
+    },
+    {
+        "epi_date_v3":"10\/14\/2022",
+        "cases":66,
+        "7-day average":68.71428571,
+        "cumulative cases":28173,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":28173
+    },
+    {
+        "epi_date_v3":"10\/15\/2022",
+        "cases":48,
+        "7-day average":67.71428571,
+        "cumulative cases":28221,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":28221
+    },
+    {
+        "epi_date_v3":"10\/16\/2022",
+        "cases":45,
+        "7-day average":63.71428571,
+        "cumulative cases":28266,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":28266
+    },
+    {
+        "epi_date_v3":"10\/17\/2022",
+        "cases":60,
+        "7-day average":60.57142857,
+        "cumulative cases":28326,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":28326
+    },
+    {
+        "epi_date_v3":"10\/18\/2022",
+        "cases":52,
+        "7-day average":58.28571429,
+        "cumulative cases":28378,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":28378
+    },
+    {
+        "epi_date_v3":"10\/19\/2022",
+        "cases":47,
+        "7-day average":55.28571429,
+        "cumulative cases":28425,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":28425
+    },
+    {
+        "epi_date_v3":"10\/20\/2022",
+        "cases":63,
+        "7-day average":54.42857143,
+        "cumulative cases":28488,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":28488
+    },
+    {
+        "epi_date_v3":"10\/21\/2022",
+        "cases":57,
+        "7-day average":53.14285714,
+        "cumulative cases":28545,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":28545
+    },
+    {
+        "epi_date_v3":"10\/22\/2022",
+        "cases":36,
+        "7-day average":51.42857143,
+        "cumulative cases":28581,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":28581
+    },
+    {
+        "epi_date_v3":"10\/23\/2022",
+        "cases":27,
+        "7-day average":48.85714286,
+        "cumulative cases":28608,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":28608
+    },
+    {
+        "epi_date_v3":"10\/24\/2022",
+        "cases":51,
+        "7-day average":47.57142857,
+        "cumulative cases":28659,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":28659
+    },
+    {
+        "epi_date_v3":"10\/25\/2022",
+        "cases":42,
+        "7-day average":46.14285714,
+        "cumulative cases":28701,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":28701
+    },
+    {
+        "epi_date_v3":"10\/26\/2022",
+        "cases":52,
+        "7-day average":46.85714286,
+        "cumulative cases":28753,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":28753
+    },
+    {
+        "epi_date_v3":"10\/27\/2022",
+        "cases":52,
+        "7-day average":45.28571429,
+        "cumulative cases":28805,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":28805
+    },
+    {
+        "epi_date_v3":"10\/28\/2022",
+        "cases":40,
+        "7-day average":42.85714286,
+        "cumulative cases":28845,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":28845
+    },
+    {
+        "epi_date_v3":"10\/29\/2022",
+        "cases":28,
+        "7-day average":41.71428571,
+        "cumulative cases":28873,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":28873
+    },
+    {
+        "epi_date_v3":"10\/30\/2022",
+        "cases":27,
+        "7-day average":41.71428571,
+        "cumulative cases":28900,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":28900
+    },
+    {
+        "epi_date_v3":"10\/31\/2022",
+        "cases":44,
+        "7-day average":40.71428571,
+        "cumulative cases":28944,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":28944
+    },
+    {
+        "epi_date_v3":"11\/1\/2022",
+        "cases":39,
+        "7-day average":40.28571429,
+        "cumulative cases":28983,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":28983
+    },
+    {
+        "epi_date_v3":"11\/2\/2022",
+        "cases":39,
+        "7-day average":38.42857143,
+        "cumulative cases":29022,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":29022
+    },
+    {
+        "epi_date_v3":"11\/3\/2022",
+        "cases":40,
+        "7-day average":36.71428571,
+        "cumulative cases":29062,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":29062
+    },
+    {
+        "epi_date_v3":"11\/4\/2022",
+        "cases":33,
+        "7-day average":35.71428571,
+        "cumulative cases":29095,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":29095
+    },
+    {
+        "epi_date_v3":"11\/5\/2022",
+        "cases":31,
+        "7-day average":36.14285714,
+        "cumulative cases":29126,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":29126
+    },
+    {
+        "epi_date_v3":"11\/6\/2022",
+        "cases":29,
+        "7-day average":36.42857143,
+        "cumulative cases":29155,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":29155
+    },
+    {
+        "epi_date_v3":"11\/7\/2022",
+        "cases":40,
+        "7-day average":35.85714286,
+        "cumulative cases":29195,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":29195
+    },
+    {
+        "epi_date_v3":"11\/8\/2022",
+        "cases":27,
+        "7-day average":34.14285714,
+        "cumulative cases":29222,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":29222
+    },
+    {
+        "epi_date_v3":"11\/9\/2022",
+        "cases":33,
+        "7-day average":33.28571429,
+        "cumulative cases":29255,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":29255
+    },
+    {
+        "epi_date_v3":"11\/10\/2022",
+        "cases":27,
+        "7-day average":31.42857143,
+        "cumulative cases":29282,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":29282
+    },
+    {
+        "epi_date_v3":"11\/11\/2022",
+        "cases":31,
+        "7-day average":31.14285714,
+        "cumulative cases":29313,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":29313
+    },
+    {
+        "epi_date_v3":"11\/12\/2022",
+        "cases":16,
+        "7-day average":29.0,
+        "cumulative cases":29329,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":29329
+    },
+    {
+        "epi_date_v3":"11\/13\/2022",
+        "cases":23,
+        "7-day average":28.14285714,
+        "cumulative cases":29352,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":29352
+    },
+    {
+        "epi_date_v3":"11\/14\/2022",
+        "cases":38,
+        "7-day average":27.85714286,
+        "cumulative cases":29390,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":29390
+    },
+    {
+        "epi_date_v3":"11\/15\/2022",
+        "cases":19,
+        "7-day average":26.71428571,
+        "cumulative cases":29409,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":29409
+    },
+    {
+        "epi_date_v3":"11\/16\/2022",
+        "cases":23,
+        "7-day average":25.28571429,
+        "cumulative cases":29432,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":29432
+    },
+    {
+        "epi_date_v3":"11\/17\/2022",
+        "cases":13,
+        "7-day average":23.28571429,
+        "cumulative cases":29445,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":29445
+    },
+    {
+        "epi_date_v3":"11\/18\/2022",
+        "cases":30,
+        "7-day average":23.14285714,
+        "cumulative cases":29475,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":29475
+    },
+    {
+        "epi_date_v3":"11\/19\/2022",
+        "cases":18,
+        "7-day average":23.42857143,
+        "cumulative cases":29493,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":29493
+    },
+    {
+        "epi_date_v3":"11\/20\/2022",
+        "cases":18,
+        "7-day average":22.71428571,
+        "cumulative cases":29511,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":29511
+    },
+    {
+        "epi_date_v3":"11\/21\/2022",
+        "cases":24,
+        "7-day average":20.71428571,
+        "cumulative cases":29535,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":29535
+    },
+    {
+        "epi_date_v3":"11\/22\/2022",
+        "cases":18,
+        "7-day average":20.57142857,
+        "cumulative cases":29553,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":29553
+    },
+    {
+        "epi_date_v3":"11\/23\/2022",
+        "cases":18,
+        "7-day average":19.85714286,
+        "cumulative cases":29571,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":29571
+    },
+    {
+        "epi_date_v3":"11\/24\/2022",
+        "cases":18,
+        "7-day average":20.57142857,
+        "cumulative cases":29589,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":29589
+    },
+    {
+        "epi_date_v3":"11\/25\/2022",
+        "cases":13,
+        "7-day average":18.14285714,
+        "cumulative cases":29602,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":29602
+    },
+    {
+        "epi_date_v3":"11\/26\/2022",
+        "cases":15,
+        "7-day average":17.71428571,
+        "cumulative cases":29617,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":29617
+    },
+    {
+        "epi_date_v3":"11\/27\/2022",
+        "cases":9,
+        "7-day average":16.42857143,
+        "cumulative cases":29626,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":29626
+    },
+    {
+        "epi_date_v3":"11\/28\/2022",
+        "cases":22,
+        "7-day average":16.14285714,
+        "cumulative cases":29648,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":29648
+    },
+    {
+        "epi_date_v3":"11\/29\/2022",
+        "cases":17,
+        "7-day average":16.0,
+        "cumulative cases":29665,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":29665
+    },
+    {
+        "epi_date_v3":"11\/30\/2022",
+        "cases":14,
+        "7-day average":15.42857143,
+        "cumulative cases":29679,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":29679
+    },
+    {
+        "epi_date_v3":"12\/1\/2022",
+        "cases":21,
+        "7-day average":15.85714286,
+        "cumulative cases":29700,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":29700
+    },
+    {
+        "epi_date_v3":"12\/2\/2022",
+        "cases":15,
+        "7-day average":16.14285714,
+        "cumulative cases":29715,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":29715
+    },
+    {
+        "epi_date_v3":"12\/3\/2022",
+        "cases":9,
+        "7-day average":15.28571429,
+        "cumulative cases":29724,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":29724
+    },
+    {
+        "epi_date_v3":"12\/4\/2022",
+        "cases":8,
+        "7-day average":15.14285714,
+        "cumulative cases":29732,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":29732
+    },
+    {
+        "epi_date_v3":"12\/5\/2022",
+        "cases":23,
+        "7-day average":15.28571429,
+        "cumulative cases":29755,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":29755
+    },
+    {
+        "epi_date_v3":"12\/6\/2022",
+        "cases":10,
+        "7-day average":14.28571429,
+        "cumulative cases":29765,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":29765
+    },
+    {
+        "epi_date_v3":"12\/7\/2022",
+        "cases":13,
+        "7-day average":14.14285714,
+        "cumulative cases":29778,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":29778
+    },
+    {
+        "epi_date_v3":"12\/8\/2022",
+        "cases":18,
+        "7-day average":13.71428571,
+        "cumulative cases":29796,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":29796
+    },
+    {
+        "epi_date_v3":"12\/9\/2022",
+        "cases":9,
+        "7-day average":12.85714286,
+        "cumulative cases":29805,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":29805
+    },
+    {
+        "epi_date_v3":"12\/10\/2022",
+        "cases":11,
+        "7-day average":13.14285714,
+        "cumulative cases":29816,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":29816
+    },
+    {
+        "epi_date_v3":"12\/11\/2022",
+        "cases":7,
+        "7-day average":13.0,
+        "cumulative cases":29823,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":29823
+    },
+    {
+        "epi_date_v3":"12\/12\/2022",
+        "cases":15,
+        "7-day average":11.85714286,
+        "cumulative cases":29838,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":29838
+    },
+    {
+        "epi_date_v3":"12\/13\/2022",
+        "cases":10,
+        "7-day average":11.85714286,
+        "cumulative cases":29848,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":29848
+    },
+    {
+        "epi_date_v3":"12\/14\/2022",
+        "cases":15,
+        "7-day average":12.14285714,
+        "cumulative cases":29863,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":29863
+    },
+    {
+        "epi_date_v3":"12\/15\/2022",
+        "cases":15,
+        "7-day average":11.71428571,
+        "cumulative cases":29878,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":29878
+    },
+    {
+        "epi_date_v3":"12\/16\/2022",
+        "cases":15,
+        "7-day average":12.57142857,
+        "cumulative cases":29893,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":29893
+    },
+    {
+        "epi_date_v3":"12\/17\/2022",
+        "cases":6,
+        "7-day average":11.85714286,
+        "cumulative cases":29899,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":29899
+    },
+    {
+        "epi_date_v3":"12\/18\/2022",
+        "cases":9,
+        "7-day average":12.14285714,
+        "cumulative cases":29908,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":29908
+    },
+    {
+        "epi_date_v3":"12\/19\/2022",
+        "cases":13,
+        "7-day average":11.85714286,
+        "cumulative cases":29921,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":29921
+    },
+    {
+        "epi_date_v3":"12\/20\/2022",
+        "cases":12,
+        "7-day average":12.14285714,
+        "cumulative cases":29933,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":29933
+    },
+    {
+        "epi_date_v3":"12\/21\/2022",
+        "cases":2,
+        "7-day average":10.28571429,
+        "cumulative cases":29935,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":29935
+    },
+    {
+        "epi_date_v3":"12\/22\/2022",
+        "cases":9,
+        "7-day average":9.428571429,
+        "cumulative cases":29944,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":29944
+    },
+    {
+        "epi_date_v3":"12\/23\/2022",
+        "cases":9,
+        "7-day average":8.571428571,
+        "cumulative cases":29953,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":29953
+    },
+    {
+        "epi_date_v3":"12\/24\/2022",
+        "cases":4,
+        "7-day average":8.285714286,
+        "cumulative cases":29957,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":29957
+    },
+    {
+        "epi_date_v3":"12\/25\/2022",
+        "cases":7,
+        "7-day average":8.0,
+        "cumulative cases":29964,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":29964
+    },
+    {
+        "epi_date_v3":"12\/26\/2022",
+        "cases":8,
+        "7-day average":7.285714286,
+        "cumulative cases":29972,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":29972
+    },
+    {
+        "epi_date_v3":"12\/27\/2022",
+        "cases":4,
+        "7-day average":6.142857143,
+        "cumulative cases":29976,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":29976
+    },
+    {
+        "epi_date_v3":"12\/28\/2022",
+        "cases":5,
+        "7-day average":6.571428571,
+        "cumulative cases":29981,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":29981
+    },
+    {
+        "epi_date_v3":"12\/29\/2022",
+        "cases":3,
+        "7-day average":5.714285714,
+        "cumulative cases":29984,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":29984
+    },
+    {
+        "epi_date_v3":"12\/30\/2022",
+        "cases":8,
+        "7-day average":5.571428571,
+        "cumulative cases":29992,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":29992
+    },
+    {
+        "epi_date_v3":"12\/31\/2022",
+        "cases":6,
+        "7-day average":5.857142857,
+        "cumulative cases":29998,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":29998
+    },
+    {
+        "epi_date_v3":"1\/1\/2023",
+        "cases":12,
+        "7-day average":6.571428571,
+        "cumulative cases":30010,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":30010
+    },
+    {
+        "epi_date_v3":"1\/2\/2023",
+        "cases":2,
+        "7-day average":5.714285714,
+        "cumulative cases":30012,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":30012
+    },
+    {
+        "epi_date_v3":"1\/3\/2023",
+        "cases":9,
+        "7-day average":6.428571429,
+        "cumulative cases":30021,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":30021
+    },
+    {
+        "epi_date_v3":"1\/4\/2023",
+        "cases":2,
+        "7-day average":6.0,
+        "cumulative cases":30023,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":30023
+    },
+    {
+        "epi_date_v3":"1\/5\/2023",
+        "cases":10,
+        "7-day average":7.0,
+        "cumulative cases":30033,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":30033
+    },
+    {
+        "epi_date_v3":"1\/6\/2023",
+        "cases":5,
+        "7-day average":6.571428571,
+        "cumulative cases":30038,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":30038
+    },
+    {
+        "epi_date_v3":"1\/7\/2023",
+        "cases":5,
+        "7-day average":6.428571429,
+        "cumulative cases":30043,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":30043
+    },
+    {
+        "epi_date_v3":"1\/8\/2023",
+        "cases":5,
+        "7-day average":5.428571429,
+        "cumulative cases":30048,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":30048
+    },
+    {
+        "epi_date_v3":"1\/9\/2023",
+        "cases":6,
+        "7-day average":6.0,
+        "cumulative cases":30054,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":30054
+    },
+    {
+        "epi_date_v3":"1\/10\/2023",
+        "cases":8,
+        "7-day average":5.857142857,
+        "cumulative cases":30062,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":30062
+    },
+    {
+        "epi_date_v3":"1\/11\/2023",
+        "cases":8,
+        "7-day average":6.714285714,
+        "cumulative cases":30070,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":30070
+    },
+    {
+        "epi_date_v3":"1\/12\/2023",
+        "cases":9,
+        "7-day average":6.571428571,
+        "cumulative cases":30079,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":30079
+    },
+    {
+        "epi_date_v3":"1\/13\/2023",
+        "cases":8,
+        "7-day average":7.0,
+        "cumulative cases":30087,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":30087
+    },
+    {
+        "epi_date_v3":"1\/14\/2023",
+        "cases":5,
+        "7-day average":7.0,
+        "cumulative cases":30092,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":30092
+    },
+    {
+        "epi_date_v3":"1\/15\/2023",
+        "cases":6,
+        "7-day average":7.142857143,
+        "cumulative cases":30098,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":30098
+    },
+    {
+        "epi_date_v3":"1\/16\/2023",
+        "cases":5,
+        "7-day average":7.0,
+        "cumulative cases":30103,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":30103
+    },
+    {
+        "epi_date_v3":"1\/17\/2023",
+        "cases":2,
+        "7-day average":6.142857143,
+        "cumulative cases":30105,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":30105
+    },
+    {
+        "epi_date_v3":"1\/18\/2023",
+        "cases":4,
+        "7-day average":5.571428571,
+        "cumulative cases":30109,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":30109
+    },
+    {
+        "epi_date_v3":"1\/19\/2023",
+        "cases":3,
+        "7-day average":4.714285714,
+        "cumulative cases":30112,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":30112
+    },
+    {
+        "epi_date_v3":"1\/20\/2023",
+        "cases":12,
+        "7-day average":5.285714286,
+        "cumulative cases":30124,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":30124
+    },
+    {
+        "epi_date_v3":"1\/21\/2023",
+        "cases":7,
+        "7-day average":5.571428571,
+        "cumulative cases":30131,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":30131
+    },
+    {
+        "epi_date_v3":"1\/22\/2023",
+        "cases":5,
+        "7-day average":5.428571429,
+        "cumulative cases":30136,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":30136
+    },
+    {
+        "epi_date_v3":"1\/23\/2023",
+        "cases":4,
+        "7-day average":5.285714286,
+        "cumulative cases":30140,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":30140
+    },
+    {
+        "epi_date_v3":"1\/24\/2023",
+        "cases":5,
+        "7-day average":5.714285714,
+        "cumulative cases":30145,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":30145
+    },
+    {
+        "epi_date_v3":"1\/25\/2023",
+        "cases":10,
+        "7-day average":6.571428571,
+        "cumulative cases":30155,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":30155
+    },
+    {
+        "epi_date_v3":"1\/26\/2023",
+        "cases":5,
+        "7-day average":6.857142857,
+        "cumulative cases":30160,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":30160
+    },
+    {
+        "epi_date_v3":"1\/27\/2023",
+        "cases":3,
+        "7-day average":5.571428571,
+        "cumulative cases":30163,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":30163
+    },
+    {
+        "epi_date_v3":"1\/28\/2023",
+        "cases":6,
+        "7-day average":5.428571429,
+        "cumulative cases":30169,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":30169
+    },
+    {
+        "epi_date_v3":"1\/29\/2023",
+        "cases":3,
+        "7-day average":5.142857143,
+        "cumulative cases":30172,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":30172
+    },
+    {
+        "epi_date_v3":"1\/30\/2023",
+        "cases":3,
+        "7-day average":5.0,
+        "cumulative cases":30175,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":30175
+    },
+    {
+        "epi_date_v3":"1\/31\/2023",
+        "cases":5,
+        "7-day average":5.0,
+        "cumulative cases":30180,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":30180
+    },
+    {
+        "epi_date_v3":"2\/1\/2023",
+        "cases":3,
+        "7-day average":4.0,
+        "cumulative cases":30183,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":30183
+    },
+    {
+        "epi_date_v3":"2\/2\/2023",
+        "cases":7,
+        "7-day average":4.285714286,
+        "cumulative cases":30190,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":30190
+    },
+    {
+        "epi_date_v3":"2\/3\/2023",
+        "cases":3,
+        "7-day average":4.285714286,
+        "cumulative cases":30193,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":30193
+    },
+    {
+        "epi_date_v3":"2\/4\/2023",
+        "cases":5,
+        "7-day average":4.142857143,
+        "cumulative cases":30198,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":30198
+    },
+    {
+        "epi_date_v3":"2\/5\/2023",
+        "cases":0,
+        "7-day average":3.714285714,
+        "cumulative cases":30198,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":30198
+    },
+    {
+        "epi_date_v3":"2\/6\/2023",
+        "cases":1,
+        "7-day average":3.428571429,
+        "cumulative cases":30199,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":30199
+    },
+    {
+        "epi_date_v3":"2\/7\/2023",
+        "cases":2,
+        "7-day average":3.0,
+        "cumulative cases":30201,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":30201
+    },
+    {
+        "epi_date_v3":"2\/8\/2023",
+        "cases":5,
+        "7-day average":3.285714286,
+        "cumulative cases":30206,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":30206
+    },
+    {
+        "epi_date_v3":"2\/9\/2023",
+        "cases":1,
+        "7-day average":2.428571429,
+        "cumulative cases":30207,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":30207
+    },
+    {
+        "epi_date_v3":"2\/10\/2023",
+        "cases":3,
+        "7-day average":2.428571429,
+        "cumulative cases":30210,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":30210
+    },
+    {
+        "epi_date_v3":"2\/11\/2023",
+        "cases":2,
+        "7-day average":2.0,
+        "cumulative cases":30212,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":30212
+    },
+    {
+        "epi_date_v3":"2\/12\/2023",
+        "cases":3,
+        "7-day average":2.428571429,
+        "cumulative cases":30215,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":30215
+    },
+    {
+        "epi_date_v3":"2\/13\/2023",
+        "cases":1,
+        "7-day average":2.428571429,
+        "cumulative cases":30216,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":30216
+    },
+    {
+        "epi_date_v3":"2\/14\/2023",
+        "cases":1,
+        "7-day average":2.285714286,
+        "cumulative cases":30217,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":30217
+    },
+    {
+        "epi_date_v3":"2\/15\/2023",
+        "cases":3,
+        "7-day average":2.0,
+        "cumulative cases":30220,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":30220
+    },
+    {
+        "epi_date_v3":"2\/16\/2023",
+        "cases":3,
+        "7-day average":2.285714286,
+        "cumulative cases":30223,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":30223
+    },
+    {
+        "epi_date_v3":"2\/17\/2023",
+        "cases":2,
+        "7-day average":2.142857143,
+        "cumulative cases":30225,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":30225
+    },
+    {
+        "epi_date_v3":"2\/18\/2023",
+        "cases":3,
+        "7-day average":2.285714286,
+        "cumulative cases":30228,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":30228
+    },
+    {
+        "epi_date_v3":"2\/19\/2023",
+        "cases":2,
+        "7-day average":2.142857143,
+        "cumulative cases":30230,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":30230
+    },
+    {
+        "epi_date_v3":"2\/20\/2023",
+        "cases":0,
+        "7-day average":2.0,
+        "cumulative cases":30230,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":30230
+    },
+    {
+        "epi_date_v3":"2\/21\/2023",
+        "cases":0,
+        "7-day average":1.857142857,
+        "cumulative cases":30230,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":30230
+    },
+    {
+        "epi_date_v3":"2\/22\/2023",
+        "cases":1,
+        "7-day average":1.571428571,
+        "cumulative cases":30231,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":30231
+    },
+    {
+        "epi_date_v3":"2\/23\/2023",
+        "cases":2,
+        "7-day average":1.428571429,
+        "cumulative cases":30233,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":30233
+    },
+    {
+        "epi_date_v3":"2\/24\/2023",
+        "cases":2,
+        "7-day average":1.428571429,
+        "cumulative cases":30235,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":30235
+    },
+    {
+        "epi_date_v3":"2\/25\/2023",
+        "cases":1,
+        "7-day average":1.142857143,
+        "cumulative cases":30236,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":30236
+    },
+    {
+        "epi_date_v3":"2\/26\/2023",
+        "cases":2,
+        "7-day average":1.142857143,
+        "cumulative cases":30238,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":30238
+    },
+    {
+        "epi_date_v3":"2\/27\/2023",
+        "cases":3,
+        "7-day average":1.571428571,
+        "cumulative cases":30241,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":30241
+    },
+    {
+        "epi_date_v3":"2\/28\/2023",
+        "cases":1,
+        "7-day average":1.714285714,
+        "cumulative cases":30242,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":30242
+    },
+    {
+        "epi_date_v3":"3\/1\/2023",
+        "cases":4,
+        "7-day average":2.142857143,
+        "cumulative cases":30246,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":30246
+    },
+    {
+        "epi_date_v3":"3\/2\/2023",
+        "cases":2,
+        "7-day average":2.142857143,
+        "cumulative cases":30248,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":30248
+    },
+    {
+        "epi_date_v3":"3\/3\/2023",
+        "cases":0,
+        "7-day average":1.857142857,
+        "cumulative cases":30248,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":30248
+    },
+    {
+        "epi_date_v3":"3\/4\/2023",
+        "cases":3,
+        "7-day average":2.142857143,
+        "cumulative cases":30251,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":30251
+    },
+    {
+        "epi_date_v3":"3\/5\/2023",
+        "cases":2,
+        "7-day average":2.142857143,
+        "cumulative cases":30253,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":30253
+    },
+    {
+        "epi_date_v3":"3\/6\/2023",
+        "cases":0,
+        "7-day average":1.714285714,
+        "cumulative cases":30253,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":30253
+    },
+    {
+        "epi_date_v3":"3\/7\/2023",
+        "cases":0,
+        "7-day average":1.571428571,
+        "cumulative cases":30253,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":30253
+    },
+    {
+        "epi_date_v3":"3\/8\/2023",
+        "cases":1,
+        "7-day average":1.142857143,
+        "cumulative cases":30254,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":30254
+    },
+    {
+        "epi_date_v3":"3\/9\/2023",
+        "cases":0,
+        "7-day average":0.857142857,
+        "cumulative cases":30254,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":30254
+    },
+    {
+        "epi_date_v3":"3\/10\/2023",
+        "cases":1,
+        "7-day average":1.0,
+        "cumulative cases":30255,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":30255
+    },
+    {
+        "epi_date_v3":"3\/11\/2023",
+        "cases":0,
+        "7-day average":0.571428571,
+        "cumulative cases":30255,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":30255
+    },
+    {
+        "epi_date_v3":"3\/12\/2023",
+        "cases":0,
+        "7-day average":0.285714286,
+        "cumulative cases":30255,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":30255
+    },
+    {
+        "epi_date_v3":"3\/13\/2023",
+        "cases":3,
+        "7-day average":0.714285714,
+        "cumulative cases":30258,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":30258
+    },
+    {
+        "epi_date_v3":"3\/14\/2023",
+        "cases":0,
+        "7-day average":0.714285714,
+        "cumulative cases":30258,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":30258
+    },
+    {
+        "epi_date_v3":"3\/15\/2023",
+        "cases":1,
+        "7-day average":0.714285714,
+        "cumulative cases":30259,
+        "asof":"Data as Reported to CDC as of 15 Mar 2023 2:00 PM EDT",
+        "cumulative_sum":30259
+    }
+]
